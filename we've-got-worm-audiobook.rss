@@ -8,7 +8,7 @@
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
 		<atom:link href="http://wevegotworm.libsyn.com/rss" rel="self" type="application/rss+xml"/>
-		<title>We've Got WORM</title>
+		<title>We've Got WORM / Audiobook</title>
 		<pubDate>Wed, 11 Dec 2019 10:00:00 +0000</pubDate>
 		<lastBuildDate>Mon, 16 Dec 2019 10:00:00 +0000</lastBuildDate>
 		<link>https://doofmedia.com</link>
@@ -21,19 +21,15 @@
 			<url>https://i0.wp.com/www.doofmedia.com/wp-content/uploads/2017/05/Alexandria_lunchbox_effects.jpg</url>
 			<link>https://doofmedia.com</link>
 		</image>
-		<itunes:author>Doof! Media</itunes:author>
+		<itunes:author>Doof! Media / Robert Ramsay</itunes:author>
 		<itunes:category text="Arts">
 			<itunes:category text="Books"/>
 		</itunes:category>
 		<itunes:image href="https://i0.wp.com/www.doofmedia.com/wp-content/uploads/2017/05/Alexandria_lunchbox_effects.jpg" />
-		<itunes:owner>
-			<itunes:name>Daly Planet Productions</itunes:name>
-			<itunes:email>dalyplanetfilms@gmail.com</itunes:email>
-		</itunes:owner>
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:type>serial</itunes:type>
 		<item>
-			<title>[WGWorm] Finale</title>
+			<title>[We've Got WORM] Finale</title>
 			<pubDate>Wed, 03 Jan 2018 14:00:00 +0000</pubDate>
 			<guid isPermaLink="false">044376609737a78a1b9a2ebb0c1ffc31</guid>
 			<link>http://wevegotworm.libsyn.com/finale-mailbag-4-wog</link>
@@ -52,7 +48,7 @@
 			<itunes:subtitle>On the final episode of We've Got WORM, Matt and Scott answer all of your final questions and take a look at some of the Word of God Entries.  We've Got Ward begins right here next week with the prologue Glow-worm! As always, if you have any...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Epilogue: Teneral</title>
+			<title>[We've Got WORM] Epilogue: Teneral</title>
 			<pubDate>Wed, 20 Dec 2017 14:00:00 +0000</pubDate>
 			<guid isPermaLink="false">5a093e54445a950e64ccbbd4f242c5b9</guid>
 			<link>http://wevegotworm.libsyn.com/epilogue-teneral</link>
@@ -145,7 +141,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 30: Speck</title>
+			<title>[We've Got WORM] Episode 30: Speck</title>
 			<pubDate>Wed, 13 Dec 2017 14:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1bc0ab982493538db749e71ead823066</guid>
 			<link>http://wevegotworm.libsyn.com/episode-30-speck</link>
@@ -251,7 +247,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 29.5: Venom (Part 2)</title>
+			<title>[We've Got WORM] Episode 29.5: Venom (Part 2)</title>
 			<pubDate>Wed, 06 Dec 2017 14:00:00 +0000</pubDate>
 			<guid isPermaLink="false">5db2de205567649f1f8c9516d4156a4c</guid>
 			<link>http://wevegotworm.libsyn.com/episode-29-venom-part-2</link>
@@ -272,7 +268,7 @@
 			<itunes:subtitle>Happy Wormsday! Welcome to We've Got Worm, a weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and nerd out on this excellent...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 29: Venom (Part 1)</title>
+			<title>[We've Got WORM] Episode 29: Venom (Part 1)</title>
 			<pubDate>Wed, 29 Nov 2017 14:00:00 +0000</pubDate>
 			<guid isPermaLink="false">4d1b98b7609d16d0725884e1360dbf6f</guid>
 			<link>http://wevegotworm.libsyn.com/episode-29-venom-part-1</link>
@@ -413,7 +409,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 28: Cockroaches</title>
+			<title>[We've Got WORM] Episode 28: Cockroaches</title>
 			<pubDate>Wed, 22 Nov 2017 13:43:20 +0000</pubDate>
 			<guid isPermaLink="false">6ee521057787bd3db5507151c46154a7</guid>
 			<link>http://wevegotworm.libsyn.com/episode-28-cockroaches</link>
@@ -518,7 +514,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 27: Extinction</title>
+			<title>[We've Got WORM] Episode 27: Extinction</title>
 			<pubDate>Thu, 16 Nov 2017 14:00:00 +0000</pubDate>
 			<guid isPermaLink="false">8f302e48dc0a4c0366ca1c9e364f6381</guid>
 			<link>http://wevegotworm.libsyn.com/episode-27-extinction</link>
@@ -622,7 +618,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 26.5: Sting (Part 2)</title>
+			<title>[We've Got WORM] Episode 26.5: Sting (Part 2)</title>
 			<pubDate>Wed, 08 Nov 2017 14:00:00 +0000</pubDate>
 			<guid isPermaLink="false">16b314d7f5ceb6fd8f806e7d91a6ecab</guid>
 			<link>http://wevegotworm.libsyn.com/episode-265-sting-part-2</link>
@@ -642,7 +638,7 @@
 			<itunes:subtitle>Hump day means Worm day! It's time for another episode of We've Got Worm, the weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss,...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 26: Sting (Part 1)</title>
+			<title>[We've Got WORM] Episode 26: Sting (Part 1)</title>
 			<pubDate>Wed, 01 Nov 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">ffd1ac1e59a98b728e788cd403436cad</guid>
 			<link>http://wevegotworm.libsyn.com/episode-26-sting-part-1</link>
@@ -783,7 +779,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 25: Scarab</title>
+			<title>[We've Got WORM] Episode 25: Scarab</title>
 			<pubDate>Wed, 25 Oct 2017 13:46:47 +0000</pubDate>
 			<guid isPermaLink="false">a29760757fa11a0d07bef4cbb95587cc</guid>
 			<link>http://wevegotworm.libsyn.com/episode-25-scarab-0</link>
@@ -889,7 +885,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 24: Crushed</title>
+			<title>[We've Got WORM] Episode 24: Crushed</title>
 			<pubDate>Wed, 18 Oct 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">cbe76bf8222c760b81045697e53aa8e3</guid>
 			<link>http://wevegotworm.libsyn.com/episode-24-crushed</link>
@@ -994,7 +990,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 23: Drone</title>
+			<title>[We've Got WORM] Episode 23: Drone</title>
 			<pubDate>Wed, 11 Oct 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">bf0d1faf7e58af6da4d5a055e2b6ed33</guid>
 			<link>http://wevegotworm.libsyn.com/episode-23-drone</link>
@@ -1087,7 +1083,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 22: Cell</title>
+			<title>[We've Got WORM] Episode 22: Cell</title>
 			<pubDate>Wed, 04 Oct 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">7736bd3db17cbaef11d389b41fc2f8e1</guid>
 			<link>http://wevegotworm.libsyn.com/weve-got-worm-episode-22-cell</link>
@@ -1204,7 +1200,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 21: Imago</title>
+			<title>[We've Got WORM] Episode 21: Imago</title>
 			<pubDate>Wed, 27 Sep 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">4692fa7945a5da3664d4dcead9842587</guid>
 			<link>http://wevegotworm.libsyn.com/arc-21</link>
@@ -1333,7 +1329,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 20: Chrysalis</title>
+			<title>[We've Got WORM] Episode 20: Chrysalis</title>
 			<pubDate>Wed, 20 Sep 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">3b7f38bd24c56455035315cc999a1fc1</guid>
 			<link>http://wevegotworm.libsyn.com/episode-20-chrysalis</link>
@@ -1438,7 +1434,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 19.x: Mailbag 3 &amp; Rein Interview</title>
+			<title>[We've Got WORM] Episode 19.x: Mailbag 3 &amp; Rein Interview</title>
 			<pubDate>Wed, 13 Sep 2017 12:31:22 +0000</pubDate>
 			<guid isPermaLink="false">aaae006519d73d2cc1ae34910faef744</guid>
 			<link>http://wevegotworm.libsyn.com/episode-19x-mailbag-3-rein-interview</link>
@@ -1458,7 +1454,7 @@
 			<itunes:subtitle>It's Wednesday! Time for another episode of We've Got Worm, our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and nerd...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 19.5: Scourge (Part 2)</title>
+			<title>[We've Got WORM] Episode 19.5: Scourge (Part 2)</title>
 			<pubDate>Wed, 06 Sep 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">a605b8e9affecfaa2937698e0b8d09ad</guid>
 			<link>http://wevegotworm.libsyn.com/episode-195-scourge-part-2</link>
@@ -1479,7 +1475,7 @@
 			<itunes:subtitle>Happy Wormsday and welcome back to We've Got Worm, our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and nerd out on...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 19: Scourge (Part 1)</title>
+			<title>[We've Got WORM] Episode 19: Scourge (Part 1)</title>
 			<pubDate>Wed, 30 Aug 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">c14ae6c85959065d833e783dfb806288</guid>
 			<link>http://wevegotworm.libsyn.com/episode-19-scourge-part-1</link>
@@ -1619,7 +1615,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 18.5: Queen (Part 2)</title>
+			<title>[We've Got WORM] Episode 18.5: Queen (Part 2)</title>
 			<pubDate>Wed, 23 Aug 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">37dad7a9dfc09e0161da6476e1bcd4cd</guid>
 			<link>http://wevegotworm.libsyn.com/episode-185-queen-part-2</link>
@@ -1639,7 +1635,7 @@
 			<itunes:subtitle>Happy Wormsday! It's time for another episode of We've Got Worm, our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 18: Queen (Part 1)</title>
+			<title>[We've Got WORM] Episode 18: Queen (Part 1)</title>
 			<pubDate>Wed, 16 Aug 2017 05:58:00 +0000</pubDate>
 			<guid isPermaLink="false">ef8b5252db12fbb8b23e1e0cf5b398e4</guid>
 			<link>http://wevegotworm.libsyn.com/episode-18-queen-part-1</link>
@@ -1814,7 +1810,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 17: Migration</title>
+			<title>[We've Got WORM] Episode 17: Migration</title>
 			<pubDate>Wed, 09 Aug 2017 06:40:36 +0000</pubDate>
 			<guid isPermaLink="false">04ed39745582e31b5920300b6bfbdecb</guid>
 			<link>http://wevegotworm.libsyn.com/episode-17-migration</link>
@@ -1930,7 +1926,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 16.5: Monarch (Part 2)</title>
+			<title>[We've Got WORM] Episode 16.5: Monarch (Part 2)</title>
 			<pubDate>Wed, 02 Aug 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">d2cd38227aa322e227100db471bd5a8b</guid>
 			<link>http://wevegotworm.libsyn.com/episode-165-monarch-part-2</link>
@@ -1949,7 +1945,7 @@
 			<itunes:subtitle>Welcome to another exciting episode of We've Got Worm, our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and nerd out on...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 16: Monarch  (Part 1)</title>
+			<title>[We've Got WORM] Episode 16: Monarch  (Part 1)</title>
 			<pubDate>Wed, 26 Jul 2017 12:26:18 +0000</pubDate>
 			<guid isPermaLink="false">fbb867c9a9a769e20acfa80d3d16f5f8</guid>
 			<link>http://wevegotworm.libsyn.com/episode-16-monarch-part-1</link>
@@ -2161,7 +2157,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 15.5: Colony (Part 2)</title>
+			<title>[We've Got WORM] Episode 15.5: Colony (Part 2)</title>
 			<pubDate>Wed, 19 Jul 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">b34f19694adb3689b895f7de74cd9510</guid>
 			<link>http://wevegotworm.libsyn.com/episode-155-colony-part-2</link>
@@ -2182,7 +2178,7 @@
 			<itunes:subtitle>Happy Wormsday! Welcome to another exciting episode of We've Got Worm, our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss,...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 15: Colony (Part 1)</title>
+			<title>[We've Got WORM] Episode 15: Colony (Part 1)</title>
 			<pubDate>Wed, 12 Jul 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">487b8a772f6c1f6cb823e83b3b836123</guid>
 			<link>http://wevegotworm.libsyn.com/episode-15-colony-part-1</link>
@@ -2372,7 +2368,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 14.x: Mailbag 2</title>
+			<title>[We've Got WORM] Episode 14.x: Mailbag 2</title>
 			<pubDate>Wed, 05 Jul 2017 02:25:35 +0000</pubDate>
 			<guid isPermaLink="false">f9f9c9ecd6807701f617fb646d589980</guid>
 			<link>http://wevegotworm.libsyn.com/episode-149-mailbag-2</link>
@@ -2393,7 +2389,7 @@
 			<itunes:subtitle>Welcome back to We've Got Worm, our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and nerd out on this excellent book....</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 14.5: Prey (Part 2)</title>
+			<title>[We've Got WORM] Episode 14.5: Prey (Part 2)</title>
 			<pubDate>Wed, 28 Jun 2017 06:03:48 +0000</pubDate>
 			<guid isPermaLink="false">584fecdb40ad9da3bb1ac984ea2e99d9</guid>
 			<link>http://wevegotworm.libsyn.com/episode-145-prey-part-2</link>
@@ -2414,7 +2410,7 @@
 			<itunes:subtitle>Welcome back to We've Got Worm, our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and nerd out on this excellent book. This...</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 14: Prey (Part 1)</title>
+			<title>[We've Got WORM] Episode 14: Prey (Part 1)</title>
 			<pubDate>Wed, 21 Jun 2017 12:57:02 +0000</pubDate>
 			<guid isPermaLink="false">55c0268bd986b404ff4835946abf8f19</guid>
 			<link>http://wevegotworm.libsyn.com/episode-14-prey-part-1</link>
@@ -2591,7 +2587,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 13: Snare</title>
+			<title>[We've Got WORM] Episode 13: Snare</title>
 			<pubDate>Wed, 14 Jun 2017 13:00:00 +0000</pubDate>
 			<guid isPermaLink="false">400209dc35fcba08fb242302b172efc6</guid>
 			<link>http://wevegotworm.libsyn.com/episode-13-snare</link>
@@ -2756,7 +2752,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 12: Plague</title>
+			<title>[We've Got WORM] Episode 12: Plague</title>
 			<pubDate>Fri, 09 Jun 2017 06:03:24 +0000</pubDate>
 			<guid isPermaLink="false">1c2e3d13f245e05131912a7302f64ea5</guid>
 			<link>http://wevegotworm.libsyn.com/episode-12-plague</link>
@@ -2898,7 +2894,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 11.5: Infestation (Part 2)</title>
+			<title>[We've Got WORM] Episode 11.5: Infestation (Part 2)</title>
 			<pubDate>Wed, 31 May 2017 06:13:29 +0000</pubDate>
 			<guid isPermaLink="false">e7d609218f021e41659e9e166601c1fc</guid>
 			<link>http://wevegotworm.libsyn.com/episode-115-infestation-part-2</link>
@@ -2918,7 +2914,7 @@
 			<itunes:subtitle>We are back with another episode of our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and nerd out on this excellent book....</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 11: Infestation (Part 1)</title>
+			<title>[We've Got WORM] Episode 11: Infestation (Part 1)</title>
 			<pubDate>Wed, 24 May 2017 05:31:16 +0000</pubDate>
 			<guid isPermaLink="false">4400b7eaaf46a4fd067479cb36f88b93</guid>
 			<link>http://wevegotworm.libsyn.com/episode-11-infestation-part-1</link>
@@ -3131,7 +3127,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 10: Parasite</title>
+			<title>[We've Got WORM] Episode 10: Parasite</title>
 			<pubDate>Wed, 17 May 2017 14:13:26 +0000</pubDate>
 			<guid isPermaLink="false">a0b456236d091a1d7e56b5e7e3c46801</guid>
 			<link>http://wevegotworm.libsyn.com/episode-10-parasite</link>
@@ -3249,7 +3245,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 9: Sentinel</title>
+			<title>[We've Got WORM] Episode 9: Sentinel</title>
 			<pubDate>Wed, 10 May 2017 14:30:08 +0000</pubDate>
 			<guid isPermaLink="false">9b11890fd2c525cc7b8b590471e5cb90</guid>
 			<link>http://wevegotworm.libsyn.com/episode-9-sentinel</link>
@@ -3343,7 +3339,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 8.x: Mailbag 1</title>
+			<title>[We've Got WORM] Episode 8.x: Mailbag 1</title>
 			<pubDate>Wed, 03 May 2017 13:44:07 +0000</pubDate>
 			<guid isPermaLink="false">d369ecf4dbd7bdf42e48bf6d1e656949</guid>
 			<link>http://wevegotworm.libsyn.com/episode-85-mailbag-1</link>
@@ -3364,7 +3360,7 @@
 			<itunes:subtitle>We are back with another episode of our weekly show dissecting the web serial Worm, arc by arc. As always, Parahumans expert Matt leads first time reader Scott on an epic journey where they discuss, debate, and nerd out on this excellent book....</itunes:subtitle>
 		</item>
 		<item>
-			<title>[WGWorm] Episode 8: Extermination</title>
+			<title>[We've Got WORM] Episode 8: Extermination</title>
 			<pubDate>Mon, 01 May 2017 21:30:36 +0000</pubDate>
 			<guid isPermaLink="false">2a44ca7376c6f26a9bfe9fdc3e86ed18</guid>
 			<link>http://wevegotworm.libsyn.com/episode-8-extermination</link>
@@ -3507,7 +3503,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 7: Buzz</title>
+			<title>[We've Got WORM] Episode 7: Buzz</title>
 			<pubDate>Mon, 01 May 2017 21:26:52 +0000</pubDate>
 			<guid isPermaLink="false">a5d9f6c0ab0290625114018cce92e7c7</guid>
 			<link>http://wevegotworm.libsyn.com/episode-7-buzz</link>
@@ -3684,7 +3680,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 6: Tangle</title>
+			<title>[We've Got WORM] Episode 6: Tangle</title>
 			<pubDate>Mon, 01 May 2017 21:22:12 +0000</pubDate>
 			<guid isPermaLink="false">5d2f6827c8359a44673c411703b0e1da</guid>
 			<link>http://wevegotworm.libsyn.com/episode-6-tangle</link>
@@ -3825,7 +3821,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 5: Hive</title>
+			<title>[We've Got WORM] Episode 5: Hive</title>
 			<pubDate>Mon, 01 May 2017 21:17:31 +0000</pubDate>
 			<guid isPermaLink="false">e3dc2cc164730e196ad2fccc82549160</guid>
 			<link>http://wevegotworm.libsyn.com/episode-5-hive</link>
@@ -3978,7 +3974,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 4: Shell</title>
+			<title>[We've Got WORM] Episode 4: Shell</title>
 			<pubDate>Mon, 01 May 2017 21:13:08 +0000</pubDate>
 			<guid isPermaLink="false">941d16f79b04a8c75df53d218386411d</guid>
 			<link>http://wevegotworm.libsyn.com/episode-4-shell</link>
@@ -4157,7 +4153,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 3: Agitation</title>
+			<title>[We've Got WORM] Episode 3: Agitation</title>
 			<pubDate>Mon, 01 May 2017 21:07:45 +0000</pubDate>
 			<guid isPermaLink="false">33d1fdfe145000a8b49242c16b12537f</guid>
 			<link>http://wevegotworm.libsyn.com/episode-3-agitation</link>
@@ -4332,7 +4328,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 2: Insinuation</title>
+			<title>[We've Got WORM] Episode 2: Insinuation</title>
 			<pubDate>Mon, 01 May 2017 21:00:51 +0000</pubDate>
 			<guid isPermaLink="false">29a995ecac8172c73d4333c508b73b44</guid>
 			<link>http://wevegotworm.libsyn.com/episode-2-insinuation</link>
@@ -4468,7 +4464,7 @@
 		</item>
 
 		<item>
-			<title>[WGWorm] Episode 1: Gestation</title>
+			<title>[We've Got WORM] Episode 1: Gestation</title>
 			<pubDate>Mon, 01 May 2017 20:55:05 +0000</pubDate>
 			<guid isPermaLink="false">b01fd4bdc8b79f0a3f0459f7a2bc5ec9</guid>
 			<link>http://wevegotworm.libsyn.com/episode-1-gestation</link>
