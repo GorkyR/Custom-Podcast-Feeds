@@ -5,29 +5,52 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
-		<title>We Want MoR</title>
+		<title>We Want MoR + Audiobook</title>
 		<atom:link href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Sat, 21 Dec 2019 10:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 16 Dec 2019 07:45:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
-		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
+		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
 		<image>
-			<title>We Want MoR</title>
-			<url>https://i.imgur.com/3XjPf4u.jpg</url>
+			<title>We Want MoR + Audiobook</title>
+			<url>https://i.imgur.com/YAAccw3.jpg</url>
 			<link>http://www.hpmorpodcast.com</link>
 		</image>
 		<itunes:image href="https://i.imgur.com/3XjPf4u.jpg"/>
-		<itunes:owner>
-			<itunes:name>Eneasz Brodski</itunes:name>
-			<itunes:email>embrodski@gmail.com</itunes:email>
-		</itunes:owner>
-		<managingEditor>embrodski@gmail.com (The Methods of Rationality Podcast)</managingEditor>
 		<itunes:category text="Arts">
 			<itunes:category Text="Books"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>[HPMoR] 16 – Lateral Thinking</title>
+			<link>http://www.hpmorpodcast.com/?p=172</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=172</guid>
+			<pubDate>Mon, 16 Dec 2019 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Minions; lessons in violence; and the most dangerous student in the classroom.</p><p>Original Text: <a href="http://hpmor.com/chapter/16">[Chapter 16]</a></p>]]></content:encoded>
+			<description>Minions; lessons in violence; and the most dangerous student in the classroom.</description>
+			<itunes:subtitle>Minions; lessons in violence; and the most dangerous student in the classroom.</itunes:subtitle>
+			<itunes:summary>Minions; lessons in violence; and the most dangerous student in the classroom.</itunes:summary>
+			<itunes:author>Eneasz "Bro" Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_16.mp3" length="43440410" type="audio/mpeg" />
+			<itunes:duration>37:29</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 15 – Conscientiousness</title>
+			<link>http://www.hpmorpodcast.com/?p=168</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=168</guid>
+			<pubDate>Mon, 16 Dec 2019 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Charms and Transfiguration classes; Hermione challenges Harry to a competition.</p><p>David Brin’s blog post in which the podcast gets a <a href="http://davidbrin.blogspot.com/2011/07/transparency-wars-continue-some-untold.html">shout-out</a>.</p><p>Original Text: <a href="http://hpmor.com/chapter/15">[Chapter 15]</a></p>]]></content:encoded>
+			<description>Charms and Transfiguration classes; Hermione challenges Harry to a competition.</description>
+			<itunes:subtitle>Charms and Transfiguration classes; Hermione challenges Harry to a competition.</itunes:subtitle>
+			<itunes:summary>Charms and Transfiguration classes; Hermione challenges Harry to a competition.</itunes:summary>
+			<itunes:author>Eneasz "Bro" Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_15.mp3" length="26006057" type="audio/mpeg" />
+			<itunes:duration>23:49</itunes:duration>
+		</item>
 		<item>
 			<title>[We Want MoR] Chapters 12–14</title>
 			<link>http://www.hpmorpodcast.com/?p=2394</link>
@@ -55,6 +78,46 @@
 			<itunes:duration>1:41:23</itunes:duration>
 		</item>
 		<item>
+			<title>[HPMoR] 14 – The Unknown and the Unknowable</title>
+			<link>http://www.hpmorpodcast.com/?p=164</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=164</guid>
+			<pubDate>Mon, 09 Dec 2019 08:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Quest loot! &amp; seeing oneself from the outside can be illuminating.</p><p>Original Text: <a href="http://hpmor.com/chapter/14">[Chapter 14]</a></p>]]></content:encoded>
+			<description>Quest loot! &amp; seeing oneself from the outside can be illuminating.</description>
+			<itunes:subtitle>Quest loot! &amp; seeing oneself from the outside can be illuminating.</itunes:subtitle>
+			<itunes:summary>Quest loot! &amp; seeing oneself from the outside can be illuminating.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_14.mp3" length="34299699" type="audio/mpeg" />
+			<itunes:duration>29:50</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 13 – Asking The Wrong Questions</title>
+			<link>http://www.hpmorpodcast.com/?p=156</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=156</guid>
+			<pubDate>Mon, 09 Dec 2019 08:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The Confrontation, The Apology, and The Game.</p><p>Original Text: <a href="http://hpmor.com/chapter/13">[Chapter 13]</a></p>]]></content:encoded>
+			<description>The Confrontation, The Apology, and The Game.</description>
+			<itunes:subtitle>The Confrontation, The Apology, and The Game.</itunes:subtitle>
+			<itunes:summary>The Confrontation, The Apology, and The Game.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_13.mp3" length="45726005" type="audio/mpeg" />
+			<itunes:duration>40:07</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 12 – Impulse Control</title>
+			<link>http://www.hpmorpodcast.com/?p=151</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=151</guid>
+			<pubDate>Mon, 09 Dec 2019 08:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Changing the distant past is easy if you get started early enough.</p><p>Original Text: <a href="http://hpmor.com/chapter/12">[Chapter 12]</a></p>]]></content:encoded>
+			<description>Changing the distant past is easy if you get started early enough.</description>
+			<itunes:subtitle>Changing the distant past is easy if you get started early enough.</itunes:subtitle>
+			<itunes:summary>Changing the distant past is easy if you get started early enough.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_12.mp3" length="28284524" type="audio/mpeg" />
+			<itunes:duration>24:17</itunes:duration>
+		</item>
+		<item>
 			<title>[We Want MoR] Chapters 9–10</title>
 			<link>http://www.hpmorpodcast.com/?p=2375</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2375</guid>
@@ -77,6 +140,34 @@
 			<itunes:duration>1:18:22</itunes:duration>
 		</item>
 		<item>
+			<title>[HPMoR] 10 – Self-Awareness, Part 2</title>
+			<link>http://www.hpmorpodcast.com/?p=145</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=145</guid>
+			<pubDate>Mon, 02 Dec 2019 08:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Harry is Sorted.</p><p>Original Text: <a href="http://hpmor.com/chapter/10">[Chapter 10]</a></p>]]></content:encoded>
+			<description>Harry is Sorted.</description>
+			<itunes:subtitle>Harry is Sorted.</itunes:subtitle>
+			<itunes:summary>Harry is Sorted.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_10.mp3" length="25918536" type="audio/mpeg" />
+			<itunes:duration>22:34</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 9 – Self-Awareness, Part 1</title>
+			<link>http://www.hpmorpodcast.com/?p=141</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=141</guid>
+			<pubDate>Mon, 02 Dec 2019 08:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The Musical Episode.</p><p>Original Text: <a href="http://hpmor.com/chapter/9">[Chapter 9]</a></p>]]></content:encoded>
+			<description>The Musical Episode.</description>
+			<itunes:subtitle>The Musical Episode.</itunes:subtitle>
+			<itunes:summary>The Musical Episode.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_9.mp3" length="13259528" type="audio/mpeg" />
+			<itunes:duration>10:45</itunes:duration>
+		</item>
+		<item>
 			<title>[We Want MoR] Chapter 8</title>
 			<link>http://www.hpmorpodcast.com/?p=2373</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2373</guid>
@@ -95,6 +186,20 @@
 			<itunes:author>Steven Zuber</itunes:author>
 			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_004.mp3" length="126711300" type="audio/mpeg" />
 			<itunes:duration>1:31:45</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 8 – Positive Bias</title>
+			<link>http://www.hpmorpodcast.com/?p=133</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=133</guid>
+			<pubDate>Mon, 25 Nov 2019 08:05:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The origin of the All-Powerful Snap. Also introducing Hermione and Neville.</p><p>Original Text: <a href="http://hpmor.com/chapter/7">[Chapter 8]</a></p>]]></content:encoded>
+			<description>The origin of the All-Powerful Snap. Also introducing Hermione and Neville.</description>
+			<itunes:subtitle>The origin of the All-Powerful Snap. Also introducing Hermione and Neville.</itunes:subtitle>
+			<itunes:summary>The origin of the All-Powerful Snap. Also introducing Hermione and Neville.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_8.mp3" length="35996052" type="audio/mpeg" />
+			<itunes:duration>31:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
 		</item>
 		<item>
 			<title>[We Want MoR] Chapter 7</title>
@@ -132,6 +237,34 @@
 			<itunes:duration>59:58</itunes:duration>
 		</item>
 		<item>
+			<title>[HPMoR] 7b – Reciprocation, part 2</title>
+			<link>http://www.hpmorpodcast.com/?p=100</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=100</guid>
+			<pubDate>Mon, 18 Nov 2019 07:35:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Harry explains Science.</p><p>Original Text: <a href="http://hpmor.com/chapter/7">[Chapter 7]</a></p>]]></content:encoded>
+			<description>Harry explains Science.</description>
+			<itunes:subtitle>Harry explains Science.</itunes:subtitle>
+			<itunes:summary>Harry explains Science.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_7b.mp3" length="35499031" type="audio/mpeg" />
+			<itunes:duration>30:52</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+		</item>
+		<item>
+			<title>[HPMoR] 7a – Reciprocation, part 1</title>
+			<link>http://www.hpmorpodcast.com/?p=98</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=98</guid>
+			<pubDate>Mon, 18 Nov 2019 07:05:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Harry meets Ron, and discovers Lucius Malfoy’s one weakness.</p><p>Original Text: <a href="http://hpmor.com/chapter/7">[Chapter 7]</a></p>]]></content:encoded>
+			<description>Harry meets Ron, and discovers Lucius Malfoy’s one weakness.</description>
+			<itunes:subtitle>Harry meets Ron, and discovers Lucius Malfoy’s one weakness.</itunes:subtitle>
+			<itunes:summary>Harry meets Ron, and discovers Lucius Malfoy’s one weakness.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_7a.mp3" length="31220415" type="audio/mpeg" />
+			<itunes:duration>32:31</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+		<item>
 			<title>[We Want MoR] Chapter 6</title>
 			<link>http://www.hpmorpodcast.com/?p=2355</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2355</guid>
@@ -147,6 +280,36 @@
 			<itunes:author>Steven Zuber</itunes:author>
 			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_002.mp3" length="104350123" type="audio/mpeg"/>
 			<itunes:duration>1:24:54</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 6b – The Planning Fallacy, part 2</title>
+			<itunes:title>[HPMoR] 6b – The Planning Fallacy, part 2</itunes:title>
+			<link>http://www.hpmorpodcast.com/?p=93</link>
+			<pubDate>Mon, 11 Nov 2019 08:01:30 +0000</pubDate>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=93</guid>
+			<content:encoded><![CDATA[<p>Harry’s dark side is (briefly) revealed.</p><p>Original Text: <a href="http://hpmor.com/chapter/6">[Chapter 6]</a></p>]]></content:encoded>
+			<description>Harry’s dark side is (briefly) revealed.</description>
+			<itunes:subtitle>Harry’s dark side is (briefly) revealed.</itunes:subtitle>
+			<itunes:summary>Harry’s dark side is (briefly) revealed.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:duration>33:39</itunes:duration>
+			<author>hpmorpodcast@gmail.com (Eliezer Yudkowsky, Eneasz Brodski; ty to JK Rowling)</author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_6b.mp3" length="32303637" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>[HPMoR] 6a – The Planning Fallacy, part 1</title>
+			<itunes:title>[HPMoR] 6a – The Planning Fallacy, part 1</itunes:title>
+			<link>http://www.hpmorpodcast.com/?p=90</link>
+			<pubDate>Mon, 11 Nov 2019 08:01:00 +0000</pubDate>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=90</guid>
+			<content:encoded><![CDATA[<p>Harry prefers the term “World Optimization”</p><p>Original Text: <a href="http://hpmor.com/chapter/6">[Chapter 6]</a></p>]]></content:encoded>
+			<description>Harry prefers the term “World Optimization”</description>
+			<itunes:subtitle>Harry prefers the term “World Optimization”</itunes:subtitle>
+			<itunes:summary>Harry prefers the term “World Optimization”</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:duration>24:59</itunes:duration>
+			<author>hpmorpodcast@gmail.com (Eliezer Yudkowsky, Eneasz Brodski; ty to JK Rowling)</author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_6a.mp3" length="23982070" type="audio/mpeg" />
 		</item>
 		<item>
 			<title>[We Want MoR] Chapters 1–5</title>
@@ -167,6 +330,51 @@
 			<itunes:author>Steven Zuber</itunes:author>
 			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_001.mp3" length="87880247" type="audio/mpeg" />
 			<itunes:duration>1:11:07</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 4 &amp; 5 – The Efficient Market Hypothesis &amp; The Fundamental Attribution Error</title>
+			<itunes:title>[HPMoR] 4 &amp; 5 – The Efficient Market Hypothesis &amp; The Fundamental Attribution Error</itunes:title>
+			<link>http://www.hpmorpodcast.com/?p=79</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=79</guid>
+			<pubDate>Fri, 08 Nov 2019 22:21:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Harry discovers he’s rich, and meets Draco Malfoy.</p><p><br>Original Text: <a href="http://hpmor.com/chapter/4">[Chapter 4]</a> | <a href="http://hpmor.com/chapter/5">[Chapter 5]</a></p>]]></content:encoded>
+			<description>Harry discovers he’s rich, and meets Draco Malfoy.</description>
+			<itunes:subtitle>Harry discovers he’s rich, and meets Draco Malfoy.</itunes:subtitle>
+			<itunes:summary>Harry discovers he’s rich, and meets Draco Malfoy.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:duration>31:51</itunes:duration>
+			<author>hpmorpodcast@gmail.com (Eliezer Yudkowsky, Eneasz Brodski; ty to JK Rowling)</author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_4-5.mp3" length="30573707" type="audio/mpeg" />
+		</item>
+		<item>
+			<title>[HPMoR] 2 &amp; 3 – Everything I Believe Is False &amp; Comparing Reality to Its Alternatives</title>
+			<itunes:title>[HPMoR] 2 &amp; 3 – Everything I Believe Is False &amp; Comparing Reality to Its Alternatives</itunes:title>
+			<link>http://www.hpmorpodcast.com/?p=75</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=75</guid>
+			<pubDate>Fri, 08 Nov 2019 22:20:30 +0000</pubDate>
+			<content:encoded><![CDATA[<p>McGonagall overturns 3000 years of physics, and Harry learns about You-Know-Who.</p><p>Original Text: <a href="http://hpmor.com/chapter/2">[Chapter 2]</a> | <a href="http://hpmor.com/chapter/3">[Chapter 3]</a></p>]]></content:encoded>
+			<description>McGonagall overturns 3000 years of physics, and Harry learns about You-Know-Who.</description>
+			<itunes:subtitle>McGonagall overturns 3000 years of physics, and Harry learns about You-Know-Who.</itunes:subtitle>
+			<itunes:summary>McGonagall overturns 3000 years of physics, and Harry learns about You-Know-Who.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:duration>19:57</itunes:duration>
+			<author>hpmorpodcast@gmail.com (Eliezer Yudkowsky, Eneasz Brodski; ty to JK Rowling)</author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_2-3.mp3" length="28205495" type="audio/mpeg"/>
+		</item>
+		<item>
+			<title>[HPMoR] 1 – A Day of Very Low Probabilty</title>
+			<itunes:title>[HPMoR] 1 – A Day of Very Low Probabilty</itunes:title>
+			<link>http://www.hpmorpodcast.com/?p=60</link>
+			<pubDate>Fri, 08 Nov 2019 22:20:00 +0000</pubDate>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=60</guid>
+			<content:encoded><![CDATA[<p>Harry receives a letter from the Hogwarts School of Witchcraft and Wizardry, and sends a reply.</p><p>Original Text: <a href="http://hpmor.com/chapter/1">[Chapter 1]</a></p>]]></content:encoded>
+			<description>Harry receives a letter from the Hogwarts School of Witchcraft and Wizardry, and sends a reply.</description>
+			<itunes:subtitle>Harry receives a letter from the Hogwarts School of Witchcraft and Wizardry, and sends a reply.</itunes:subtitle>
+			<itunes:summary>Harry receives a letter from the Hogwarts School of Witchcraft and Wizardry, and sends a reply.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:duration>17:49</itunes:duration>
+			<author>hpmorpodcast@gmail.com (Eliezer Yudkowsky, Eneasz Brodski; ty to JK Rowling)</author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_1.mp3" length="17113165" type="audio/mpeg"/>
 		</item>
 		<item>
 			<title>[We Want MoR] Pre-Release Episode</title>
