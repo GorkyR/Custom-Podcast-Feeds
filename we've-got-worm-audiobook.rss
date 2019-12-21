@@ -10,21 +10,19 @@
 		<atom:link href="http://wevegotworm.libsyn.com/rss" rel="self" type="application/rss+xml"/>
 		<title>We've Got WORM + Audiobook</title>
 		<lastBuildDate>Fri, 20 Dec 2019 21:30:00 +0000</lastBuildDate>
-		<link>https://doofmedia.com</link>
 		<language>en</language>
 		<description>A Weekly Podcast in which hosts Scott and Matt expertly dissect and discuss the hit web serial Worm, week by week, arc by arc.</description>
 		<itunes:summary>A Weekly Podcast in which hosts Scott and Matt expertly dissect and discuss the hit web serial Worm, week by week, arc by arc.</itunes:summary>
-		<itunes:subtitle>A Daly Planet Podcast</itunes:subtitle>
 		<image>
 			<title>We've Got WORM</title>
-			<url>https://i0.wp.com/www.doofmedia.com/wp-content/uploads/2017/05/Alexandria_lunchbox_effects.jpg</url>
+			<url>https://i.imgur.com/sszDPCM.jpg</url>
 			<link>https://doofmedia.com</link>
 		</image>
 		<itunes:author>Doof! Media + Robert Ramsay</itunes:author>
 		<itunes:category text="Arts">
 			<itunes:category text="Books"/>
 		</itunes:category>
-		<itunes:image href="https://i0.wp.com/www.doofmedia.com/wp-content/uploads/2017/05/Alexandria_lunchbox_effects.jpg" />
+		<itunes:image href="https://i.imgur.com/sszDPCM.jpg" />
 		<itunes:explicit>yes</itunes:explicit>
 		<itunes:type>serial</itunes:type>
 		<item>
