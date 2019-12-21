@@ -8,7 +8,7 @@
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
 		<atom:link href="http://wevegotworm.libsyn.com/rss" rel="self" type="application/rss+xml"/>
-		<title>We've Got WORM / Audiobook</title>
+		<title>We've Got WORM + Audiobook</title>
 		<lastBuildDate>Fri, 20 Dec 2019 21:30:00 +0000</lastBuildDate>
 		<link>https://doofmedia.com</link>
 		<language>en</language>
@@ -20,7 +20,7 @@
 			<url>https://i0.wp.com/www.doofmedia.com/wp-content/uploads/2017/05/Alexandria_lunchbox_effects.jpg</url>
 			<link>https://doofmedia.com</link>
 		</image>
-		<itunes:author>Doof! Media / Robert Ramsay</itunes:author>
+		<itunes:author>Doof! Media + Robert Ramsay</itunes:author>
 		<itunes:category text="Arts">
 			<itunes:category text="Books"/>
 		</itunes:category>
