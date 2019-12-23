@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -6,10 +6,10 @@
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
 		<title>We Want MoR</title>
-		<atom:link href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 16 Dec 2019 07:45:00 +0000</lastBuildDate>
+		<lastBuildDate>Sat, 21 Dec 2019 10:40:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -23,6 +23,31 @@
 			<itunes:category Text="Books"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Chapters 15 and 16</title>
+			<link>http://www.hpmorpodcast.com/?p=2398</link>
+			<pubDate>Mon, 23 Dec 2019 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2398</guid>
+			<content:encoded><![CDATA[<p>Harry attempts and fails to tap his Mysterious Dark Side for a magic boost while Hermione dominates the class effortlessly. Harry is then picked out by Professor Quirrell as the Most Dangerous Student in the Classroom.</p>
+			<hr />
+			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+			<hr />
+			<p>In next week&#8217;s episode, we will be covering chapter 17.</p>
+			<hr />
+			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+			<hr />
+			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
+			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			<hr />
+			<p><a href="https://coppermind.net/wiki/Sanderson%27s_Laws_of_Magic">Sanderson&#8217;s 3 Laws</a> of Hard Magic Systems</p>
+			]]></content:encoded>
+			<description>Harry attempts and fails to tap his Mysterious Dark Side for a magic boost while Hermione dominates the class effortlessly. Harry is then picked out by Professor Quirrell as the Most Dangerous Student in the Classroom.</description>
+			<itunes:subtitle>Harry attempts and fails to tap his Mysterious Dark Side for a magic boost while Hermione dominates the class effortlessly. Harry is then picked out by Professor Quirrell as the Most Dangerous Student in the Classroom.</itunes:subtitle>
+			<itunes:summary>Harry attempts and fails to tap his Mysterious Dark Side for a magic boost while Hermione dominates the class effortlessly. Harry is then picked out by Professor Quirrell as the Most Dangerous Student in the Classroom.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_007.mp3" length="236781338" type="audio/mpeg" />
+			<itunes:duration>1:38:40</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 12–14</title>
 			<link>http://www.hpmorpodcast.com/?p=2394</link>
