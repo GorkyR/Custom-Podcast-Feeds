@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Sat, 21 Dec 2019 10:40:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 30 Dec 2019 08:50:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -23,6 +23,61 @@
 			<itunes:category Text="Books"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>[HPMoR] 18b – Dominance Hierarchies, part 2</title>
+			<link>http://www.hpmorpodcast.com/?p=188</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=188</guid>
+			<pubDate>Mon, 30 Dec 2019 08:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Potter vs Snape: Round 2. FIGHT!! (tagteam with Dumbledore!).</p><p>Original Text: <a href="http://hpmor.com/chapter/18">[Chapter 18]</a></p>]]></content:encoded>
+			<description>Potter vs Snape: Round 2. FIGHT!! (tagteam with Dumbledore!).</description>
+			<itunes:subtitle>Potter vs Snape: Round 2. FIGHT!! (tagteam with Dumbledore!).</itunes:subtitle>
+			<itunes:summary>Potter vs Snape: Round 2. FIGHT!! (tagteam with Dumbledore!).</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_18b.mp3" length="36928223" type="audio/mpeg" />
+			<itunes:duration>33:19</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 18a – Dominance Hierarchies, part 1</title>
+			<link>http://www.hpmorpodcast.com/?p=183</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=183</guid>
+			<pubDate>Mon, 30 Dec 2019 08:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Potter vs Snape: Round 1. FIGHT!.</p><p>Original Text: <a href="http://hpmor.com/chapter/18">[Chapter 18]</a></p>]]></content:encoded>
+			<description>Potter vs Snape: Round 1. FIGHT!.</description>
+			<itunes:subtitle>Potter vs Snape: Round 1. FIGHT!.</itunes:subtitle>
+			<itunes:summary>Potter vs Snape: Round 1. FIGHT!.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_18a.mp3" length="31297668" type="audio/mpeg" />
+			<itunes:duration>27:05</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapter 17</title>
+			<link>http://www.hpmorpodcast.com/?p=2400</link>
+			<pubDate>Mon, 30 Dec 2019 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2400</guid>
+			<content:encoded><![CDATA[<p>Harry attempts to abuse Time with a clever idea, takes a flying lesson, and has a bizarre first encounter with the headmaster.</p>
+			<hr />
+			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+			<hr />
+			<p>In next week&#8217;s episode, we will be covering chapter 18.</p>
+			<hr />
+			<p>LessWrong essay <a href="https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts">Cached Thoughts</a></p>
+			<p><a href="https://1d4chan.org/wiki/Peasant_Railgun">The Relativistic Railgun</a> (also called Peasant Railgun) from DnD</p>
+			<p><a href="https://www.youtube.com/watch?v=YX40hbAHx3s">Quick overview of P vs NP</a> if you&#8217;re curious.</p>
+			<hr />
+			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+			<hr />
+			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
+			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Harry attempts to abuse Time with a clever idea, takes a flying lesson, and has a bizarre first encounter with the headmaster.</description>
+			<itunes:subtitle>Harry attempts to abuse Time with a clever idea, takes a flying lesson, and has a bizarre first encounter with the headmaster.</itunes:subtitle>
+			<itunes:summary>Harry attempts to abuse Time with a clever idea, takes a flying lesson, and has a bizarre first encounter with the headmaster.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_008.mp3" length="307362105" type="audio/mpeg" />
+			<itunes:duration>2:08:04</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 17b – Locating the Hypothesis, part 2</title>
 			<link>http://www.hpmorpodcast.com/?p=180</link>
