@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 13 Jan 2020 10:45:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2020 13:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -66,10 +66,10 @@
 			<itunes:duration>27:24</itunes:duration>
 		</item>
 		<item>
-			<title>[We Want MoR] Chapters 19—20</title>
+			<title>[We Want MoR] Chapters 19–20</title>
 			<link>http://www.hpmorpodcast.com/?p=2407</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2407</guid>
-			<pubDate>Mon, 13 Jan 2020 08:00:00 +0000</pubDate>
+			<pubDate>Mon, 13 Jan 2020 08:01:00 +0000</pubDate>
 			<content:encoded><![CDATA[<p>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</p>
 			<hr />
 			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
