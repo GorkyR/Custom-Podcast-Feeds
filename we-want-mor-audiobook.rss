@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 06 Jan 2020 10:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2020 10:45:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -23,6 +23,73 @@
 			<itunes:category Text="Books"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>[HPMoR] 22b – The Scientific Method, part 2</title>
+			<link>http://www.hpmorpodcast.com/?p=215</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=215</guid>
+			<pubDate>Mon, 13 Jan 2020 08:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>In the right story, one moment of True Curiosity can be as redemptive as one moment of True Love.</p><p>Original Text: <a href="http://hpmor.com/chapter/22">[Chapter 22]</a></p>]]></content:encoded>
+			<description>In the right story, one moment of True Curiosity can be as redemptive as one moment of True Love.</description>
+			<itunes:subtitle>In the right story, one moment of True Curiosity can be as redemptive as one moment of True Love.</itunes:subtitle>
+			<itunes:summary>In the right story, one moment of True Curiosity can be as redemptive as one moment of True Love.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_22b.mp3" length="39594749" type="audio/mpeg" />
+			<itunes:duration>34:31</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 21b &amp; 22a – Rationalization, part 2 &amp; The Scientific Method, part 1</title>
+			<link>http://www.hpmorpodcast.com/?p=209</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=209</guid>
+			<pubDate>Mon, 13 Jan 2020 08:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Stand back, Harry’s going to try Science!.</p><p>Original Text: <a href="http://hpmor.com/chapter/21">[Chapter 21]</a> &amp; <a href="http://hpmor.com/chapter/22">[Chapter 22]</a></p>]]></content:encoded>
+			<description>Stand back, Harry’s going to try Science!.</description>
+			<itunes:subtitle>Stand back, Harry’s going to try Science!.</itunes:subtitle>
+			<itunes:summary>Stand back, Harry’s going to try Science!.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_21b-22a.mp3" length="32685571" type="audio/mpeg" />
+			<itunes:duration>28:44</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 21a – Rationalization, part 1</title>
+			<link>http://www.hpmorpodcast.com/?p=205</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=205</guid>
+			<pubDate>Mon, 13 Jan 2020 08:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The first meeting of the Bayesian Conspiracy.</p><p>Original Text: <a href="http://hpmor.com/chapter/21">[Chapter 21]</a></p>]]></content:encoded>
+			<description>The first meeting of the Bayesian Conspiracy.</description>
+			<itunes:subtitle>The first meeting of the Bayesian Conspiracy.</itunes:subtitle>
+			<itunes:summary>The first meeting of the Bayesian Conspiracy.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_21a.mp3" length="32016752" type="audio/mpeg" />
+			<itunes:duration>27:24</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 19—20</title>
+			<link>http://www.hpmorpodcast.com/?p=2407</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2407</guid>
+			<pubDate>Mon, 13 Jan 2020 08:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</p>
+			<hr />
+			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+			<hr />
+			<p>In next week&#8217;s episode, we will be covering chapters 21 and 22.</p>
+			<hr />
+			<p>Carl Sagan&#8217;s <a href="https://www.youtube.com/watch?v=GO5FwsblpT8">Pale Blue Dot</a></p>
+			<hr />
+			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+			<hr />
+			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
+			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</description>
+			<itunes:subtitle>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</itunes:subtitle>
+			<itunes:summary>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_010.mp3" length="279816505" type="audio/mpeg" />
+			<itunes:duration>1:56:35</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 20 – Bayes’s Theorem</title>
 			<link>http://www.hpmorpodcast.com/?p=201</link>
@@ -174,7 +241,7 @@
 			<itunes:duration>32:05</itunes:duration>
 		</item>
 		<item>
-			<title>[We Want MoR] Chapters 15 and 16</title>
+			<title>[We Want MoR] Chapters 15—16</title>
 			<link>http://www.hpmorpodcast.com/?p=2398</link>
 			<pubDate>Mon, 23 Dec 2019 08:00:00 +0000</pubDate>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2398</guid>
