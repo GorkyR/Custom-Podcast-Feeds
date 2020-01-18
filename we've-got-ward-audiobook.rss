@@ -20,7 +20,8 @@
 		<itunes:author>Doof! Media + Robert “Rein” Ramsay</itunes:author>
 		<itunes:image href="https://i.imgur.com/E8IhD6m.png"/>
 		<itunes:explicit>yes</itunes:explicit>
-		<description>A Weekly Podcast in which hosts Scott and Matt expertly dissect and discuss the hit web serial Worm, week by week, arc by arc. (Publication dates have been altered for sorting purposes)</description>
+		<itunes:summary>A Weekly Podcast in which hosts Scott and Matt expertly dissect and discuss the hit web serial Ward, week by week, arc by arc. (Publication dates have been altered for sorting purposes)</itunes:summary>
+		<description>A Weekly Podcast in which hosts Scott and Matt expertly dissect and discuss the hit web serial Ward, week by week, arc by arc. (Publication dates have been altered for sorting purposes)</description>
 		<itunes:type>serial</itunes:type>
 		<item>
 			<title>[We've Got WARD] - Arc 19: Infrared (Part 2)</title>
