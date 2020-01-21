@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 13 Jan 2020 13:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -23,6 +23,62 @@
 			<itunes:category Text="Books"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>[HPMoR] 24 – Machiavellian Intelligence Hypothesis</title>
+			<link>http://www.hpmorpodcast.com/?p=226</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=226</guid>
+			<pubDate>Mon, 20 Jan 2020 21:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>His friends shall be his enemies, and his enemies shall be his friends.</p><p>Original Text: <a href="http://hpmor.com/chapter/24">[Chapter 24]</a></p>]]></content:encoded>
+			<description>His friends shall be his enemies, and his enemies shall be his friends.</description>
+			<itunes:subtitle>His friends shall be his enemies, and his enemies shall be his friends.</itunes:subtitle>
+			<itunes:summary>His friends shall be his enemies, and his enemies shall be his friends.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_24.mp3" length="29397902" type="audio/mpeg" />
+			<itunes:duration>26:04</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 23 – Belief in Belief</title>
+			<link>http://www.hpmorpodcast.com/?p=218</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=218</guid>
+			<pubDate>Mon, 20 Jan 2020 21:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Be cautious when destroying everything that gives someone’s life a purpose.</p><p>Original Text: <a href="http://hpmor.com/chapter/23">[Chapter 23]</a></p>]]></content:encoded>
+			<description>Be cautious when destroying everything that gives someone’s life a purpose.</description>
+			<itunes:subtitle>Be cautious when destroying everything that gives someone’s life a purpose.</itunes:subtitle>
+			<itunes:summary>Be cautious when destroying everything that gives someone’s life a purpose.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>yes</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_23.mp3" length="46372782" type="audio/mpeg" />
+			<itunes:duration>40:33</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 21–22</title>
+			<link>http://www.hpmorpodcast.com/?p=2410</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2410</guid>
+			<pubDate>Mon, 20 Jan 2020 21:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>The Scientific exploration into magic begins!</p>
+				<p>I apologize for the delay in getting this out, and the confusion with a dead link for most of a day. I hope the Longest Episode So Far makes up for it.</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week&#8217;s episode, we will be covering chapters 23 and 24.</p>
+				<hr />
+				<p>The Slate Star Codex post I keep referencing but forgot the name of: <a href="https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/">I Can Tolerate Anything Except the Outgroup</a></p>
+				<p>One of the posts, not the one I was thinking of in the episode, <a href="https://www.lesswrong.com/posts/PmQkensvTGg7nGtJE/absolute-authority">Absolute Authority</a></p>
+				<hr />
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<hr />
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
+				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>The Scientific exploration into magic begins!  I apologize for the delay in getting this out, and the confusion with a dead link for most of a day. I hope the Longest Episode So Far makes up for it.</description>
+			<itunes:subtitle>The Scientific exploration into magic begins!  I apologize for the delay in getting this out, and the confusion with a dead link for most of a day. I hope the Longest Episode So Far makes up for it.</itunes:subtitle>
+			<itunes:summary>The Scientific exploration into magic begins!  I apologize for the delay in getting this out, and the confusion with a dead link for most of a day. I hope the Longest Episode So Far makes up for it.</itunes:summary>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_011.mp3" length="354401321" type="audio/mpeg" />
+			<itunes:duration>2:27:40</itunes:duration>
+			<itunes:author>Steven Zuber</itunes:author>
+		</item>
 		<item>
 			<title>[HPMoR] 22b – The Scientific Method, part 2</title>
 			<link>http://www.hpmorpodcast.com/?p=215</link>
@@ -70,18 +126,19 @@
 			<link>http://www.hpmorpodcast.com/?p=2407</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2407</guid>
 			<pubDate>Mon, 13 Jan 2020 08:01:00 +0000</pubDate>
-			<content:encoded><![CDATA[<p>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</p>
-			<hr />
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr />
-			<p>In next week&#8217;s episode, we will be covering chapters 21 and 22.</p>
-			<hr />
-			<p>Carl Sagan&#8217;s <a href="https://www.youtube.com/watch?v=GO5FwsblpT8">Pale Blue Dot</a></p>
-			<hr />
-			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
-			<hr />
-			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
-			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			<content:encoded><![CDATA[
+				<p>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week's episode, we will be covering chapters 21 and 22.</p>
+				<hr />
+				<p>Carl Sagan's <a href="https://www.youtube.com/watch?v=GO5FwsblpT8">Pale Blue Dot</a></p>
+				<hr />
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<hr />
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast's Discord. Thank you!</p>
+				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
 			]]></content:encoded>
 			<description>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</description>
 			<itunes:subtitle>Harry learns to lose through the tried and true method of an ass whooping and sees the stars with Professor Quirrell.</itunes:subtitle>
@@ -137,18 +194,19 @@
 			<link>http://www.hpmorpodcast.com/?p=2405</link>
 			<pubDate>Mon, 06 Jan 2020 08:00:00 +0000</pubDate>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2405</guid>
-			<content:encoded><![CDATA[<p>Harry and Snape have a showdown that escalates all the way to the top because Snape doesn&#8217;t know how to be a decent person/Professor and Harry doesn&#8217;t know how to lose.</p>
-			<hr />
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr />
-			<p>In next week&#8217;s episode, we will be covering chapters 19 and 20.</p>
-			<hr />
-			<p><a href="https://skeptoid.com/episodes/4102">Skeptoid episode</a> on the Stanford Prison Experiment</p>
-			<hr />
-			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
-			<hr />
-			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
-			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			<content:encoded><![CDATA[
+				<p>Harry and Snape have a showdown that escalates all the way to the top because Snape doesn't know how to be a decent person/Professor and Harry doesn't know how to lose.</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week's episode, we will be covering chapters 19 and 20.</p>
+				<hr />
+				<p><a href="https://skeptoid.com/episodes/4102">Skeptoid episode</a> on the Stanford Prison Experiment</p>
+				<hr />
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<hr />
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast's Discord. Thank you!</p>
+				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
 			]]></content:encoded>
 			<description>Harry and Snape have a showdown that escalates all the way to the top because Snape doesn't know how to be a decent person/Professor and Harry doesn't know how to lose.</description>
 			<itunes:subtitle>Harry and Snape have a showdown that escalates all the way to the top because Snape doesn’t know how to be a decent person/Professor and Harry doesn’t know how to lose.</itunes:subtitle>
@@ -190,20 +248,21 @@
 			<link>http://www.hpmorpodcast.com/?p=2400</link>
 			<pubDate>Mon, 30 Dec 2019 08:00:00 +0000</pubDate>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2400</guid>
-			<content:encoded><![CDATA[<p>Harry attempts to abuse Time with a clever idea, takes a flying lesson, and has a bizarre first encounter with the headmaster.</p>
-			<hr />
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr />
-			<p>In next week&#8217;s episode, we will be covering chapter 18.</p>
-			<hr />
-			<p>LessWrong essay <a href="https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts">Cached Thoughts</a></p>
-			<p><a href="https://1d4chan.org/wiki/Peasant_Railgun">The Relativistic Railgun</a> (also called Peasant Railgun) from DnD</p>
-			<p><a href="https://www.youtube.com/watch?v=YX40hbAHx3s">Quick overview of P vs NP</a> if you&#8217;re curious.</p>
-			<hr />
-			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
-			<hr />
-			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
-			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			<content:encoded><![CDATA[
+				<p>Harry attempts to abuse Time with a clever idea, takes a flying lesson, and has a bizarre first encounter with the headmaster.</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week's episode, we will be covering chapter 18.</p>
+				<hr />
+				<p>LessWrong essay <a href="https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts">Cached Thoughts</a></p>
+				<p><a href="https://1d4chan.org/wiki/Peasant_Railgun">The Relativistic Railgun</a> (also called Peasant Railgun) from DnD</p>
+				<p><a href="https://www.youtube.com/watch?v=YX40hbAHx3s">Quick overview of P vs NP</a> if you're curious.</p>
+				<hr />
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<hr />
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast's Discord. Thank you!</p>
+				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
 			]]></content:encoded>
 			<description>Harry attempts to abuse Time with a clever idea, takes a flying lesson, and has a bizarre first encounter with the headmaster.</description>
 			<itunes:subtitle>Harry attempts to abuse Time with a clever idea, takes a flying lesson, and has a bizarre first encounter with the headmaster.</itunes:subtitle>
@@ -241,22 +300,23 @@
 			<itunes:duration>32:05</itunes:duration>
 		</item>
 		<item>
-			<title>[We Want MoR] Chapters 15—16</title>
+			<title>[We Want MoR] Chapters 15–16</title>
 			<link>http://www.hpmorpodcast.com/?p=2398</link>
 			<pubDate>Mon, 23 Dec 2019 08:00:00 +0000</pubDate>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2398</guid>
-			<content:encoded><![CDATA[<p>Harry attempts and fails to tap his Mysterious Dark Side for a magic boost while Hermione dominates the class effortlessly. Harry is then picked out by Professor Quirrell as the Most Dangerous Student in the Classroom.</p>
-			<hr />
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr />
-			<p>In next week&#8217;s episode, we will be covering chapter 17.</p>
-			<hr />
-			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
-			<hr />
-			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
-			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
-			<hr />
-			<p><a href="https://coppermind.net/wiki/Sanderson%27s_Laws_of_Magic">Sanderson&#8217;s 3 Laws</a> of Hard Magic Systems</p>
+			<content:encoded><![CDATA[
+				<p>Harry attempts and fails to tap his Mysterious Dark Side for a magic boost while Hermione dominates the class effortlessly. Harry is then picked out by Professor Quirrell as the Most Dangerous Student in the Classroom.</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week's episode, we will be covering chapter 17.</p>
+				<hr />
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<hr />
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast's Discord. Thank you!</p>
+				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+				<hr />
+				<p><a href="https://coppermind.net/wiki/Sanderson%27s_Laws_of_Magic">Sanderson's 3 Laws</a> of Hard Magic Systems</p>
 			]]></content:encoded>
 			<description>Harry attempts and fails to tap his Mysterious Dark Side for a magic boost while Hermione dominates the class effortlessly. Harry is then picked out by Professor Quirrell as the Most Dangerous Student in the Classroom.</description>
 			<itunes:subtitle>Harry attempts and fails to tap his Mysterious Dark Side for a magic boost while Hermione dominates the class effortlessly. Harry is then picked out by Professor Quirrell as the Most Dangerous Student in the Classroom.</itunes:subtitle>
@@ -298,19 +358,20 @@
 			<link>http://www.hpmorpodcast.com/?p=2394</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2394</guid>
 			<pubDate>Mon, 16 Dec 2019 07:00:00 +0000</pubDate>
-			<content:encoded><![CDATA[<p>Harry tries to walk the narrow path that doesn't lead to Dark Lord Harry, confronts bullies and apologizes like a bad ass, and get A TIME MACHINE!</p>
-			<hr/>
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr/>
-			<p>In next week's episode, we will be covering chapters 15 and 16.</p>
-			<hr/>
-			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
-			<hr/>
-			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast's Discord. Thank you!</p>
-			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
-			<hr/>
-			<p><a href="https://www.youtube.com/watch?v=qHp7ngBVnQs">Omeleto episode</a> where a man discovers his lazy boy is a time machine.</p>
-			<p>Brian's cousin's X-Men Podcast: <a href="https://www.listennotes.com/podcasts/x-aspirations-seamus-and-candice-colbert-YmsCzjniPJd/">X-Aspirations</a></p>
+			<content:encoded><![CDATA[
+				<p>Harry tries to walk the narrow path that doesn't lead to Dark Lord Harry, confronts bullies and apologizes like a bad ass, and get A TIME MACHINE!</p>
+				<hr/>
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr/>
+				<p>In next week's episode, we will be covering chapters 15 and 16.</p>
+				<hr/>
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<hr/>
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast's Discord. Thank you!</p>
+				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+				<hr/>
+				<p><a href="https://www.youtube.com/watch?v=qHp7ngBVnQs">Omeleto episode</a> where a man discovers his lazy boy is a time machine.</p>
+				<p>Brian's cousin's X-Men Podcast: <a href="https://www.listennotes.com/podcasts/x-aspirations-seamus-and-candice-colbert-YmsCzjniPJd/">X-Aspirations</a></p>
 			]]></content:encoded>
 			<description>Harry tries to walk the narrow path that doesn't lead to Dark Lord Harry, confronts bullies and apologizes like a bad ass, and get A TIME MACHINE!</description>
 			<itunes:subtitle>Harry tries to walk the narrow path that doesn't lead to Dark Lord Harry, confronts bullies and apologizes like a bad ass, and get A TIME MACHINE!</itunes:subtitle>
@@ -364,16 +425,18 @@
 			<link>http://www.hpmorpodcast.com/?p=2375</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2375</guid>
 			<pubDate>Mon, 09 Dec 2019 08:00:00 +0000</pubDate>
-			<content:encoded><![CDATA[<p>Harry gets sorted, and learns a lot about himself in the process.</p>
-			<hr />
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr />
-			<p>In next week's episode, we will be covering chapters 12 through 14.</p>
-			<hr />
-			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
-			<hr />
-			<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast's Discord. Thank you!</p>
-			<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the “add by url” option. Thanks, Coy!</p>]]></content:encoded>
+			<content:encoded><![CDATA[
+				<p>Harry gets sorted, and learns a lot about himself in the process.</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week's episode, we will be covering chapters 12 through 14.</p>
+				<hr />
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<hr />
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast's Discord. Thank you!</p>
+				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the “add by url” option. Thanks, Coy!</p>
+			]]></content:encoded>
 			<description>Harry gets sorted, and learns a lot about himself in the process.</description>
 			<itunes:subtitle>Harry gets sorted, and learns a lot about himself in the process.</itunes:subtitle>
 			<itunes:summary>Harry gets sorted, and learns a lot about himself in the process.</itunes:summary>
@@ -414,14 +477,16 @@
 			<link>http://www.hpmorpodcast.com/?p=2373</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2373</guid>
 			<pubDate>Mon, 02 Dec 2019 08:00:00 +0000</pubDate>
-			<content:encoded><![CDATA[<p>In this episode, we cover chapter 8! Harry meets Hermione Jean Granger, the nicest person ever, who's even smarter and kinder than the canon version. And Harry keeps acting like a pretentious prick! Are we supposed to learn to like this version of Harry Potter or are we supposed to hate him?</p>
-			<hr />
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr />
-			<p>In next week's episode, we will be covering chapters 9 and 10.</p>
-			<hr />
-			<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
-			<p><img src="http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19.png" alt="How to make science" width="229" height="351" srcset="http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-196x300.png 196w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-229x350.png 229w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-98x150.png 98w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19.png 392w" sizes="(max-width: 229px) 100vw, 229px"/></p>]]></content:encoded>
+			<content:encoded><![CDATA[
+				<p>In this episode, we cover chapter 8! Harry meets Hermione Jean Granger, the nicest person ever, who's even smarter and kinder than the canon version. And Harry keeps acting like a pretentious prick! Are we supposed to learn to like this version of Harry Potter or are we supposed to hate him?</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week's episode, we will be covering chapters 9 and 10.</p>
+				<hr />
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<p><img src="http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19.png" alt="How to make science" width="229" height="351" srcset="http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-196x300.png 196w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-229x350.png 229w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19-98x150.png 98w, http://www.hpmorpodcast.com/wp-content/uploads/2019-11-19.png 392w" sizes="(max-width: 229px) 100vw, 229px"/></p>
+			]]></content:encoded>
 			<description>In this episode, we cover chapter 8! Harry meets Hermione Jean Granger, the nicest person ever, who's even smarter and kinder than the canon version. And Harry keeps acting like a pretentious prick! Are we supposed to learn to like this version of Harry Potter or are we supposed to hate him?</description>
 			<itunes:subtitle>In this episode, we cover chapter 8! Harry meets Hermione Jean Granger, the nicest person ever, who's even smarter and kinder than the canon version. And Harry keeps acting like a pretentious prick! Are we supposed to learn to like this version of Harry Potter or are we supposed to hate him?</itunes:subtitle>
 			<itunes:summary>In this episode, we cover chapter 8! Harry meets Hermione Jean Granger, the nicest person ever, who's even smarter and kinder than the canon version. And Harry keeps acting like a pretentious prick! Are we supposed to learn to like this version of Harry Potter or are we supposed to hate him?</itunes:summary>
@@ -448,29 +513,31 @@
 			<link>http://www.hpmorpodcast.com/?p=2357</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2357</guid>
 			<pubDate>Mon, 25 Nov 2019 08:00:00 +0000</pubDate>
-			<content:encoded><![CDATA[<p>In this episode, we cover chapter 7! Harry meets Ron, who didn't get the same level-up that Harry got for this story and is&#8230; rather uninteresting by comparison. Draco seems nice and charming, but the son of Darth Vader turns out to be a lot less chill than he seemed.</p>
-			<hr />
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr />
-			<p>In next week's episode, we will be covering chapter 8.</p>
-			<hr />
-			<p><a href="https://discordapp.com/invite/9nAZaFY">Discord Link</a></p>
-			<hr />
-			<p>And, as promised, here is the copy pasta about why Harry Potter should have carried an M1911:</p>
-			<blockquote>
-				<p><em>Ok, this has been driving me crazy for seven movies now, and I know you're going to roll your eyes, but hear me out: Harry Potter should have carried a 1911.</em></p>
-				<p><em>Here's why:</em></p>
-				<p><em>Think about how quickly the entire WWWIII (Wizarding-World War III) would have ended if all of the good guys had simply armed up with good ol' American hot lead.</em></p>
-				<p><em>Basilisk? Let's see how tough it is when you shoot it with a .470 Nitro Express. Worried about its Medusa-gaze? Wear night vision goggles. The image is light-amplified and re-transmitted to your eyes. You aren't looking at it&#8211;you're looking at a picture of it.</em></p>
-				<p><em>Imagine how epic the first movie would be if Harry had put a breeching charge on the bathroom wall, flash-banged the hole, and then went in wearing NVGs and a Kevlar-weave stab-vest, carrying a SPAS-12.</em></p>
-				<p><em>And have you noticed that only Europe seems to a problem with Deatheaters? Maybe it's because Americans have spent the last 200 years shooting deer, playing GTA: Vice City, and keeping an eye out for black helicopters over their compounds. Meanwhile, Brits have been cutting their steaks with spoons. Remember: gun-control means that Voldemort wins. God made wizards and God made muggles, but Samuel Colt made them equal.</em></p>
-				<p><em>Now I know what you're going to say: &#8220;But a wizard could just disarm someone with a gun!&#8221; Yeah, well they can also disarm someone with a wand (as they do many times throughout the books/movies). But which is faster: saying a spell or pulling a trigger?</em></p>
-				<p><em>Avada Kedavra, meet Avtomat Kalashnikova.</em></p>
-				<p><em>Imagine Harry out in the woods, wearing his invisibility cloak, carrying a .50bmg Barrett, turning Deatheaters into pink mist, scratching a lightning bolt into his rifle stock for each kill. I don't think Madam Pomfrey has any spells that can scrape your brains off of the trees and put you back together after something like that. Voldemort's wand may be 13.5 inches with a Phoenix-feather core, but Harry's would be 0.50 inches with a tungsten core. Let's see Voldy wave his at 3,000 feet per second. Better hope you have some Essence of Dittany for that sucking chest wound.</em></p>
-				<p><em>I can see it now&#8230;Voldemort roaring with evil laughter and boasting to Harry that he can't be killed, since he is protected by seven Horcruxes, only to have Harry give a crooked grin, flick his cigarette butt away, and deliver what would easily be the best one-liner in the entire series:</em></p>
-				<p><em>&#8220;Well then I guess it's a good thing my 1911 holds 7+1.&#8221;</em></p>
-				<p><em>And that is why Harry Potter should have carried a 1911.</em></p>
-			</blockquote>]]></content:encoded>
+			<content:encoded><![CDATA[
+				<p>In this episode, we cover chapter 7! Harry meets Ron, who didn't get the same level-up that Harry got for this story and is&#8230; rather uninteresting by comparison. Draco seems nice and charming, but the son of Darth Vader turns out to be a lot less chill than he seemed.</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week's episode, we will be covering chapter 8.</p>
+				<hr />
+				<p><a href="https://discordapp.com/invite/9nAZaFY">Discord Link</a></p>
+				<hr />
+				<p>And, as promised, here is the copy pasta about why Harry Potter should have carried an M1911:</p>
+				<blockquote>
+					<p><em>Ok, this has been driving me crazy for seven movies now, and I know you're going to roll your eyes, but hear me out: Harry Potter should have carried a 1911.</em></p>
+					<p><em>Here's why:</em></p>
+					<p><em>Think about how quickly the entire WWWIII (Wizarding-World War III) would have ended if all of the good guys had simply armed up with good ol' American hot lead.</em></p>
+					<p><em>Basilisk? Let's see how tough it is when you shoot it with a .470 Nitro Express. Worried about its Medusa-gaze? Wear night vision goggles. The image is light-amplified and re-transmitted to your eyes. You aren't looking at it&#8211;you're looking at a picture of it.</em></p>
+					<p><em>Imagine how epic the first movie would be if Harry had put a breeching charge on the bathroom wall, flash-banged the hole, and then went in wearing NVGs and a Kevlar-weave stab-vest, carrying a SPAS-12.</em></p>
+					<p><em>And have you noticed that only Europe seems to a problem with Deatheaters? Maybe it's because Americans have spent the last 200 years shooting deer, playing GTA: Vice City, and keeping an eye out for black helicopters over their compounds. Meanwhile, Brits have been cutting their steaks with spoons. Remember: gun-control means that Voldemort wins. God made wizards and God made muggles, but Samuel Colt made them equal.</em></p>
+					<p><em>Now I know what you're going to say: &#8220;But a wizard could just disarm someone with a gun!&#8221; Yeah, well they can also disarm someone with a wand (as they do many times throughout the books/movies). But which is faster: saying a spell or pulling a trigger?</em></p>
+					<p><em>Avada Kedavra, meet Avtomat Kalashnikova.</em></p>
+					<p><em>Imagine Harry out in the woods, wearing his invisibility cloak, carrying a .50bmg Barrett, turning Deatheaters into pink mist, scratching a lightning bolt into his rifle stock for each kill. I don't think Madam Pomfrey has any spells that can scrape your brains off of the trees and put you back together after something like that. Voldemort's wand may be 13.5 inches with a Phoenix-feather core, but Harry's would be 0.50 inches with a tungsten core. Let's see Voldy wave his at 3,000 feet per second. Better hope you have some Essence of Dittany for that sucking chest wound.</em></p>
+					<p><em>I can see it now&#8230;Voldemort roaring with evil laughter and boasting to Harry that he can't be killed, since he is protected by seven Horcruxes, only to have Harry give a crooked grin, flick his cigarette butt away, and deliver what would easily be the best one-liner in the entire series:</em></p>
+					<p><em>&#8220;Well then I guess it's a good thing my 1911 holds 7+1.&#8221;</em></p>
+					<p><em>And that is why Harry Potter should have carried a 1911.</em></p>
+				</blockquote>
+			]]></content:encoded>
 			<description>In this episode, we cover chapter 7! Harry meets Ron, who didn't get the same level-up that Harry got for this story and is... rather uninteresting by comparison. Draco seems nice and charming, but the son of Darth Vader turns out to be a lot less chill than he seemed.</description>
 			<itunes:subtitle>In this episode, we cover chapter 7! Harry meets Ron, who didn't get the same level-up that Harry got for this story and is... rather uninteresting by comparison. Draco seems nice and charming, but the son of Darth Vader turns out to be a lot less chill than he seemed.</itunes:subtitle>
 			<itunes:summary>In this episode, we cover chapter 7! Harry meets Ron, who didn't get the same level-up that Harry got for this story and is... rather uninteresting by comparison. Draco seems nice and charming, but the son of Darth Vader turns out to be a lot less chill than he seemed.</itunes:summary>
@@ -511,11 +578,13 @@
 			<link>http://www.hpmorpodcast.com/?p=2355</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2355</guid>
 			<pubDate>Mon, 18 Nov 2019 07:01:09 +0000</pubDate>
-			<content:encoded><![CDATA[<p>In this episode, we cover chapter 6! Harry and Professor McGonagall have an intense moment when Harry perceives his family is at risk, showing a side of Harry that we haven't seen before and it's a little&#8230; scary.</p>
-			<hr/>
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr/>
-			<p>In next week's episode, we will be covering chapter 7.</p>]]></content:encoded>
+			<content:encoded><![CDATA[
+				<p>In this episode, we cover chapter 6! Harry and Professor McGonagall have an intense moment when Harry perceives his family is at risk, showing a side of Harry that we haven't seen before and it's a little&#8230; scary.</p>
+				<hr/>
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr/>
+				<p>In next week's episode, we will be covering chapter 7.</p>
+			]]></content:encoded>
 			<description>In this episode, we cover chapter 6! Harry and Professor McGonagall have an intense moment when Harry perceives his family is at risk, showing a side of Harry that we haven't seen before and it's a little scary.</description>
 			<itunes:subtitle>In this episode, we cover chapter 6! Harry and Professor McGonagall have an intense moment when Harry perceives his family is at risk, showing a side of Harry that we haven't seen before and it's a little scary.</itunes:subtitle>
 			<itunes:summary>In this episode, we cover chapter 6! Harry and Professor McGonagall have an intense moment when Harry perceives his family is at risk, showing a side of Harry that we haven't seen before and it's a little scary.</itunes:summary>
@@ -559,12 +628,14 @@
 			<link>http://www.hpmorpodcast.com/?p=2352</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2352</guid>
 			<pubDate>Mon, 11 Nov 2019 08:00:25 +0000</pubDate>
-			<content:encoded><![CDATA[<p>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</p>
-			<p>In this episode, we cover the first five chapters. They're short and closely tied together. Harry is a scientific polymath and aspiring Rationalist and discovers he's a wizard, goes shopping, and immediately sets out on the task of figuring out <em>just what the heck is going on</em> in the universe!</p>
-			<hr />
-			<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
-			<hr />
-			<p>In next week's episode, we will be covering chapter 6.</p>]]></content:encoded>
+			<content:encoded><![CDATA[
+				<p>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</p>
+				<p>In this episode, we cover the first five chapters. They're short and closely tied together. Harry is a scientific polymath and aspiring Rationalist and discovers he's a wizard, goes shopping, and immediately sets out on the task of figuring out <em>just what the heck is going on</em> in the universe!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week's episode, we will be covering chapter 6.</p>
+			]]></content:encoded>
 			<description><![CDATA[In this episode, we cover the first five chapters. They're short and closely tied together. Harry is a scientific polymath and aspiring Rationalist and discovers he's a wizard, goes shopping, and immediately sets out on the task of figuring out <em>just what the heck is going on</em> in the universe!]]></description>
 			<itunes:subtitle>In this episode, we cover the first five chapters. They're short and closely tied together. Harry is a scientific polymath and aspiring Rationalist and discovers he's a wizard, goes shopping, and immediately sets out on the task of figuring out just what the heck is going on in the universe!</itunes:subtitle>
 			<itunes:summary>In this episode, we cover the first five chapters. They're short and closely tied together. Harry is a scientific polymath and aspiring Rationalist and discovers he's a wizard, goes shopping, and immediately sets out on the task of figuring out just what the heck is going on in the universe!</itunes:summary>
@@ -625,13 +696,15 @@
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2336</guid>
 			<pubDate>Fri, 08 Nov 2019 22:19:36 +0000</pubDate>
 			<description>In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions).</description>
-			<content:encoded><![CDATA[<p>In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions). <strong>WE MOVE TO A SPOILER SECTION</strong> in the latter third of the recording! If you haven't read HP MoR, absolutely skip this part. :)</p>
-			<hr/>
-			<p class="p1">We discuss briefly Daystar Eld's <a href="http://daystareld.com/hpmor-remix/">rewrite of chapters 1-4</a>. If you haven't read them before, check them out. :)</p>
-			<hr/>
-			<p>In the first episode of We Want MoR, Steven and Brian will cover the first 5 chapters of the book.</p>
-			<hr/>
-			<p>We're not using this music for all of the episodes (<em>wink to our friend's at Doof Media!</em>)</p>]]></content:encoded>
+			<content:encoded><![CDATA[
+				<p>In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions). <strong>WE MOVE TO A SPOILER SECTION</strong> in the latter third of the recording! If you haven't read HP MoR, absolutely skip this part. :)</p>
+				<hr/>
+				<p class="p1">We discuss briefly Daystar Eld's <a href="http://daystareld.com/hpmor-remix/">rewrite of chapters 1-4</a>. If you haven't read them before, check them out. :)</p>
+				<hr/>
+				<p>In the first episode of We Want MoR, Steven and Brian will cover the first 5 chapters of the book.</p>
+				<hr/>
+				<p>We're not using this music for all of the episodes (<em>wink to our friend's at Doof Media!</em>)</p>
+			]]></content:encoded>
 			<itunes:subtitle>In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions).</itunes:subtitle>
 			<itunes:summary>In the pre-release episode, Steven sits down with Eneasz for a discussion the project of We Want MoR, of the book as a whole (including our first and lasting impressions).</itunes:summary>
 			<itunes:author>Steven Zuber</itunes:author>
