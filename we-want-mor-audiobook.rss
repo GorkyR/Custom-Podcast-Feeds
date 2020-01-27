@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2020 13:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -23,6 +23,58 @@
 			<itunes:category Text="Books"/>
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>[HPMoR] 26 – Noticing Confusion</title>
+			<link>http://www.hpmorpodcast.com/?p=234</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=234</guid>
+			<pubDate>Mon, 27 Jan 2020 08:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>It’s so cute when they think they’re people.</p><p>Original Text: <a href="http://hpmor.com/chapter/26">[Chapter 26]</a></p>]]></content:encoded>
+			<description>It’s so cute when they think they’re people.</description>
+			<itunes:subtitle>It’s so cute when they think they’re people.</itunes:subtitle>
+			<itunes:summary>It’s so cute when they think they’re people.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_26.mp3" length="40138146" type="audio/mpeg" />
+			<itunes:duration>34:03</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 25 – Hold Off on Proposing Solutions</title>
+			<link>http://www.hpmorpodcast.com/?p=230</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=230</guid>
+			<pubDate>Mon, 27 Jan 2020 08:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Friendship is magic… right?.</p><p>Original Text: <a href="http://hpmor.com/chapter/25">[Chapter 25]</a></p>]]></content:encoded>
+			<description>Friendship is magic… right?.</description>
+			<itunes:subtitle>Friendship is magic… right?.</itunes:subtitle>
+			<itunes:summary>Friendship is magic… right?.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_25.mp3" length="36091692" type="audio/mpeg" />
+			<itunes:duration>31:32</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 23–24</title>
+			<link>http://www.hpmorpodcast.com/?p=2415</link>
+			<pubDate>Mon, 27 Jan 2020 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2415</guid>
+			<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-2381" src="http://www.hpmorpodcast.com/wp-content/uploads/WWM-square-4-300x300.jpg" alt="WWMoR-Square" width="300" height="300" srcset="http://www.hpmorpodcast.com/wp-content/uploads/WWM-square-4-300x300.jpg 300w, http://www.hpmorpodcast.com/wp-content/uploads/WWM-square-4-150x150.jpg 150w, http://www.hpmorpodcast.com/wp-content/uploads/WWM-square-4-768x768.jpg 768w, http://www.hpmorpodcast.com/wp-content/uploads/WWM-square-4-1024x1024.jpg 1024w, http://www.hpmorpodcast.com/wp-content/uploads/WWM-square-4-350x350.jpg 350w, http://www.hpmorpodcast.com/wp-content/uploads/WWM-square-4-254x254.jpg 254w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+				<p>Draco flips out as his worldview is shattered!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>In next week&'s episode, we will be covering chapters 25 and 26.</p>
+				<hr />
+				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
+				<hr />
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&'s Discord. Thank you!</p>
+				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Draco flips out as his worldview is shattered!</description>
+			<itunes:subtitle>Draco flips out as his worldview is shattered!</itunes:subtitle>
+			<itunes:summary>Draco flips out as his worldview is shattered!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_012.mp3" length="383441125" type="audio/mpeg" />
+			<itunes:duration>2:39:46</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 24 – Machiavellian Intelligence Hypothesis</title>
 			<link>http://www.hpmorpodcast.com/?p=226</link>
@@ -62,14 +114,14 @@
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
-				<p>In next week&#8217;s episode, we will be covering chapters 23 and 24.</p>
+				<p>In next week&'s episode, we will be covering chapters 23 and 24.</p>
 				<hr />
 				<p>The Slate Star Codex post I keep referencing but forgot the name of: <a href="https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/">I Can Tolerate Anything Except the Outgroup</a></p>
 				<p>One of the posts, not the one I was thinking of in the episode, <a href="https://www.lesswrong.com/posts/PmQkensvTGg7nGtJE/absolute-authority">Absolute Authority</a></p>
 				<hr />
 				<p><a href="https://discord.gg/9nAZaFY">Discord Link</a></p>
 				<hr />
-				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&#8217;s Discord. Thank you!</p>
+				<p>Album art courtesy of Lorec from The Bayesian Conspiracy podcast&'s Discord. Thank you!</p>
 				<p>Coy on the same Discord manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
 			]]></content:encoded>
 			<description>The Scientific exploration into magic begins!  I apologize for the delay in getting this out, and the confusion with a dead link for most of a day. I hope the Longest Episode So Far makes up for it.</description>
