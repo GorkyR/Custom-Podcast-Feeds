@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 02 Mar 2020 16:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2020 07:45:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,30 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>Chapters 35–38</title>
+			<link>http://www.hpmorpodcast.com/?p=2437</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2437</guid>
+			<pubDate>Mon, 09 Mar 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Christmas with the Potters and Grangers! And some other stuff.</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next episode we are covering chapters 39 and 40.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Christmas with the Potters and Grangers! And some other stuff.</description>
+			<itunes:subtitle>Christmas with the Potters and Grangers! And some other stuff.</itunes:subtitle>
+			<itunes:summary>Christmas with the Potters and Grangers! And some other stuff.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_018.mp3" length="184483208" type="audio/mpeg" />
+			<itunes:duration>2:31:10</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 32–34</title>
 			<link>http://www.hpmorpodcast.com/?p=2432</link>
