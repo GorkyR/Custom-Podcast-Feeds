@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 09 Mar 2020 07:45:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 16 Mar 2020 09:30:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,58 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 43 – Humanism, Part 1</title>
+			<link>http://www.hpmorpodcast.com/?p=284</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=284</guid>
+			<pubDate>Mon, 16 Mar 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The Day The Dementor Came To Hogwarts.</p><p>Original Text: <a href="http://hpmor.com/chapter/43">[Chapter 43]</a></p>]]></content:encoded>
+			<description>The Day The Dementor Came To Hogwarts.</description>
+			<itunes:subtitle>The Day The Dementor Came To Hogwarts.</itunes:subtitle>
+			<itunes:summary>The Day The Dementor Came To Hogwarts.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_43.mp3" length="42748079" type="audio/mpeg" />
+			<itunes:duration>36:03</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 41 &amp; 42 – Frontal Override &amp; Courage</title>
+			<link>http://www.hpmorpodcast.com/?p=282</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=282</guid>
+			<pubDate>Mon, 16 Mar 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Sometimes you need to become a villain to force redemption. Are you more concerned with results, or how others will remember you?.</p><p>Original Text: <a href="http://hpmor.com/chapter/41">[Chapter 41]</a> &amp; <a href="http://hpmor.com/chapter/42">[Chapter 42]</a></p>]]></content:encoded>
+			<description>Sometimes you need to become a villain to force redemption. Are you more concerned with results, or how others will remember you?.</description>
+			<itunes:subtitle>Sometimes you need to become a villain to force redemption. Are you more concerned with results, or how others will remember you?.</itunes:subtitle>
+			<itunes:summary>Sometimes you need to become a villain to force redemption. Are you more concerned with results, or how others will remember you?.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_41-42.mp3" length="42740978" type="audio/mpeg" />
+			<itunes:duration>36:03</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 39–40</title>
+			<link>http://www.hpmorpodcast.com/?p=2439</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2439</guid>
+			<pubDate>Mon, 16 Mar 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Dumbledore consults Harry's unique insight into Dark Lord thinking.</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next episode we are covering chapters 41–43.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Dumbledore consults Harry's unique insight into Dark Lord thinking.</description>
+			<itunes:subtitle>Dumbledore consults Harry's unique insight into Dark Lord thinking.</itunes:subtitle>
+			<itunes:summary>Dumbledore consults Harry's unique insight into Dark Lord thinking.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_019.mp3" length="100412006" type="audio/mpeg" />
+			<itunes:duration>2:10:57</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 40 – Pretending To Be Wise, Part 2</title>
 			<link>http://www.hpmorpodcast.com/?p=280</link>
