@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 16 Mar 2020 09:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 23 Mar 2020 08:30:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,72 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 46 – Humanism, Part 4</title>
+			<link>http://www.hpmorpodcast.com/?p=305</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=305</guid>
+			<pubDate>Mon, 23 Mar 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Secrets, secrets, and more secrets.</p><p>Original Text: <a href="http://hpmor.com/chapter/46">[Chapter 46]</a></p>]]></content:encoded>
+			<description>Secrets, secrets, and more secrets.</description>
+			<itunes:subtitle>Secrets, secrets, and more secrets.</itunes:subtitle>
+			<itunes:summary>Secrets, secrets, and more secrets.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_46.mp3" length="36832459" type="audio/mpeg" />
+			<itunes:duration>27:34</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 45 – Humanism, Part 3</title>
+			<link>http://www.hpmorpodcast.com/?p=288</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=288</guid>
+			<pubDate>Mon, 23 Mar 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>EXPECTO PATRONUM   This art cannot go unshared (spoiler for this chapter).</p><p>Original Text: <a href="http://hpmor.com/chapter/45">[Chapter 45]</a></p>]]></content:encoded>
+			<description>EXPECTO PATRONUM   This art cannot go unshared (spoiler for this chapter).</description>
+			<itunes:subtitle>EXPECTO PATRONUM   This art cannot go unshared (spoiler for this chapter).</itunes:subtitle>
+			<itunes:summary>EXPECTO PATRONUM   This art cannot go unshared (spoiler for this chapter).</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_45.mp3" length="27264331" type="audio/mpeg" />
+			<itunes:duration>23:16</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 44 – Humanism, Part 2</title>
+			<link>http://www.hpmorpodcast.com/?p=286</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=286</guid>
+			<pubDate>Mon, 23 Mar 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The Dementation of Harry Potter   How do you pronounce “Accio”?.</p><p>Original Text: <a href="http://hpmor.com/chapter/44">[Chapter 44]</a></p>]]></content:encoded>
+			<description>The Dementation of Harry Potter   How do you pronounce “Accio”?.</description>
+			<itunes:subtitle>The Dementation of Harry Potter   How do you pronounce “Accio”?.</itunes:subtitle>
+			<itunes:summary>The Dementation of Harry Potter   How do you pronounce “Accio”?.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_44.mp3" length="25326470" type="audio/mpeg" />
+			<itunes:duration>21:48</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 41–43</title>
+			<link>http://www.hpmorpodcast.com/?p=2441</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2441</guid>
+			<pubDate>Mon, 23 Mar 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>The Dementor and the Drop Lord come to Hogwarts.</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next episode we are covering chapters 44–46.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>The Dementor and the Drop Lord come to Hogwarts.</description>
+			<itunes:subtitle>The Dementor and the Drop Lord come to Hogwarts.</itunes:subtitle>
+			<itunes:summary>The Dementor and the Drop Lord come to Hogwarts.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_020.mp3" length="116462208" type="audio/mpeg" />
+			<itunes:duration>2:24:57</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 43 – Humanism, Part 1</title>
 			<link>http://www.hpmorpodcast.com/?p=284</link>
