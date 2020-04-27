@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 20 Apr 2020 08:45:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 27 Apr 2020 07:50:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,72 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 56 – The Stanford Prison Experiment, Part 6, Constrained Optimization</title>
+			<link>http://www.hpmorpodcast.com/?p=332</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=332</guid>
+			<pubDate>Mon, 27 Apr 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Fear the Reaper, but don’t let it consume you.</p><p>Original Text: <a href="http://hpmor.com/chapter/56">[Chapter 56]</a></p>]]></content:encoded>
+			<description>Fear the Reaper, but don’t let it consume you.</description>
+			<itunes:subtitle>Fear the Reaper, but don’t let it consume you.</itunes:subtitle>
+			<itunes:summary>Fear the Reaper, but don’t let it consume you.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_56.mp3" length="34510410" type="audio/mpeg" />
+			<itunes:duration>25:42</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 55 – The Stanford Prison Experiment, Part 5</title>
+			<link>http://www.hpmorpodcast.com/?p=330</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=330</guid>
+			<pubDate>Mon, 27 Apr 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The unforgiven.</p><p>Original Text: <a href="http://hpmor.com/chapter/55">[Chapter 55]</a></p>]]></content:encoded>
+			<description>The unforgiven.</description>
+			<itunes:subtitle>The unforgiven.</itunes:subtitle>
+			<itunes:summary>The unforgiven.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_55.mp3" length="57042776" type="audio/mpeg" />
+			<itunes:duration>43:14</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 54 – The Stanford Prison Experiment, Part 4</title>
+			<link>http://www.hpmorpodcast.com/?p=328</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=328</guid>
+			<pubDate>Mon, 27 Apr 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>A fulfillment of Doom.</p><p>Original Text: <a href="http://hpmor.com/chapter/54">[Chapter 54]</a></p>]]></content:encoded>
+			<description>A fulfillment of Doom.</description>
+			<itunes:subtitle>A fulfillment of Doom.</itunes:subtitle>
+			<itunes:summary>A fulfillment of Doom.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_54.mp3" length="48745515" type="audio/mpeg" />
+			<itunes:duration>36:57</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 51–53</title>
+			<link>http://www.hpmorpodcast.com/?p=2452</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2452</guid>
+			<pubDate>Mon, 27 Apr 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Piercing a dungeon to rescue a damsel in distress.</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next episode we will be covering chapters 54, 55, and 56!</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Piercing a dungeon to rescue a damsel in distress.</description>
+			<itunes:subtitle>Piercing a dungeon to rescue a damsel in distress.</itunes:subtitle>
+			<itunes:summary>Piercing a dungeon to rescue a damsel in distress.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<itunes:duration>2:10:05</itunes:duration>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_025.mp3" length="103910834" type="audio/mpeg" />
+		</item>
 		<item>
 			<title>[HPMoR] 52 &amp; 53 – The Stanford Prison Experiment, Parts 2 &amp; 3</title>
 			<link>http://www.hpmorpodcast.com/?p=326</link>
