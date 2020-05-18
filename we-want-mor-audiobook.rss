@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 04 May 2020 11:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 18 May 2020 16:30:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,88 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 63c – The Stanford Prison Experiment, Aftermaths</title>
+			<link>http://www.hpmorpodcast.com/?p=647</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=647</guid>
+			<pubDate>Mon, 18 May 2020 08:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Introspection.</p><p>Original Text: <a href="http://hpmor.com/chapter/63">[Chapter 63]</a></p>]]></content:encoded>
+			<description>Introspection.</description>
+			<itunes:subtitle>Introspection.</itunes:subtitle>
+			<itunes:summary>Introspection.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_63c.mp3" length="42472774" type="audio/mpeg" />
+			<itunes:duration>44:14</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 63b – The Stanford Prison Experiment, Aftermaths</title>
+			<link>http://www.hpmorpodcast.com/?p=640</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=640</guid>
+			<pubDate>Mon, 18 May 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Exercises in futility.</p><p>Original Text: <a href="http://hpmor.com/chapter/63">[Chapter 63]</a></p>]]></content:encoded>
+			<description>Exercises in futility.</description>
+			<itunes:subtitle>Exercises in futility.</itunes:subtitle>
+			<itunes:summary>Exercises in futility.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_63b.mp3" length="25026749" type="audio/mpeg" />
+			<itunes:duration>26:04</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 63a – The Stanford Prison Experiment, Aftermaths</title>
+			<link>http://www.hpmorpodcast.com/?p=630</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=630</guid>
+			<pubDate>Mon, 18 May 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Unforeseen consequences.</p><p>Original Text: <a href="http://hpmor.com/chapter/63">[Chapter 63]</a></p>]]></content:encoded>
+			<description>Unforeseen consequences.</description>
+			<itunes:subtitle>Unforeseen consequences.</itunes:subtitle>
+			<itunes:summary>Unforeseen consequences.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_63a.mp3" length="29191687" type="audio/mpeg" />
+			<itunes:duration>30:24</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 62 – The Stanford Prison Experiment, Final</title>
+			<link>http://www.hpmorpodcast.com/?p=529</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=529</guid>
+			<pubDate>Mon, 18 May 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Precautionary measures are taken.</p><p>Original Text: <a href="http://hpmor.com/chapter/62">[Chapter 62]</a></p>]]></content:encoded>
+			<description>Precautionary measures are taken.</description>
+			<itunes:subtitle>Precautionary measures are taken.</itunes:subtitle>
+			<itunes:summary>Precautionary measures are taken.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_62.mp3" length="33942219" type="audio/mpeg" />
+			<itunes:duration>35:21</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 59–61</title>
+			<link>https://hpmorpodcast.com/?p=2506</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2506</guid>
+			<pubDate>Mon, 18 May 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Rockers, Q and A with QQ, and the Order trying to untangle the mystery of what just happened!</p>
+				<hr />
+				<p>First episode of <a href="https://www.youtube.com/watch?v=V1m-Z5e76L8">Game Club: Hollow Knight</a>!</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next episode we&#8217;ll be covering chapters 62 and 63!</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Rockers, Q and A with QQ, and the Order trying to untangle the mystery of what just happened!</description>
+			<itunes:subtitle>Rockers, Q and A with QQ, and the Order trying to untangle the mystery of what just happened!</itunes:subtitle>
+			<itunes:summary>Rockers, Q and A with QQ, and the Order trying to untangle the mystery of what just happened!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_028.mp3" length="116574237" type="audio/mpeg" />
+			<itunes:duration>2:27:04</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 61 – The Stanford Prison Experiment, Part 11, Secrecy and Openness</title>
 			<link>http://www.hpmorpodcast.com/?p=495</link>
