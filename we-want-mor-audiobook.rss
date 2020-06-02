@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 25 May 2020 09:40:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 01 Jun 2020 22:30:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,58 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 66 – Self Actualization, Part 1</title>
+			<link>http://www.hpmorpodcast.com/?p=677</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=677</guid>
+			<pubDate>Mon, 01 Jun 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>When in a hole, first stop digging..</p><p>Original Text: <a href="http://hpmor.com/chapter/66">[Chapter 66]</a></p>]]></content:encoded>
+			<description>When in a hole, first stop digging..</description>
+			<itunes:subtitle>When in a hole, first stop digging..</itunes:subtitle>
+			<itunes:summary>When in a hole, first stop digging..</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_66.mp3" length="12212526" type="audio/mpeg" />
+			<itunes:duration>12:43</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 65 – Contagious Lies</title>
+			<link>http://www.hpmorpodcast.com/?p=658</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=658</guid>
+			<pubDate>Mon, 01 Jun 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Escape Routes.</p><p>Original Text: <a href="http://hpmor.com/chapter/65">[Chapter 65]</a></p>]]></content:encoded>
+			<description>Escape Routes.</description>
+			<itunes:subtitle>Escape Routes.</itunes:subtitle>
+			<itunes:summary>Escape Routes.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_65.mp3" length="31091721" type="audio/mpeg" />
+			<itunes:duration>32:23</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Book Three Retro (38–64)</title>
+			<link>https://hpmorpodcast.com/?p=2529</link>
+			<pubDate>Mon, 01 Jun 2020 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2529</guid>
+			<content:encoded><![CDATA[
+				<p>Steven and Brian are joined by the one and only Eneasz Brodski! Enjoy our first in-person recording (we were all seated several feet apart) while we discuss the book so far and Brian theorizes on the future of the story.</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next episode will be the short and sweet little spoiler episode coming out later this week. Next week we&#8217;ll be covering chapters 65 and 66!</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Steven and Brian are joined by the one and only Eneasz Brodski! Enjoy our first in-person recording (we were all seated several feet apart) while we discuss the book so far and Brian theorizes on the future of the story.</description>
+			<itunes:subtitle>Steven and Brian are joined by the one and only Eneasz Brodski! Enjoy our first in-person recording (we were all seated several feet apart) while we discuss the book so far and Brian theorizes on the future of the story.</itunes:subtitle>
+			<itunes:summary>Steven and Brian are joined by the one and only Eneasz Brodski! Enjoy our first in-person recording (we were all seated several feet apart) while we discuss the book so far and Brian theorizes on the future of the story.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_030.mp3" length="91062334" type="audio/mpeg" />
+			<itunes:duration>1:57:17</itunes:duration>
+		</item>
 		<item>
 			<title>[We Want MoR] Chapters 62–63</title>
 			<link>https://hpmorpodcast.com/?p=2513</link>
@@ -788,6 +840,19 @@
 			<itunes:explicit>no</itunes:explicit>
 			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_33.mp3" length="33121967" type="audio/mpeg" />
 			<itunes:duration>28:07</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 32 – Xmas Interlude – Personal Financial Management</title>
+			<link>https://hpmorpodcast.com/?p=300</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=300</guid>
+			<pubDate>Mon, 24 Feb 2020 08:10:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>You’re a mean one, Mister Grinch.</p><p>Original Text: <a href="http://hpmor.com/chapter/32">[Chapter 32]</a></p>]]></content:encoded>
+			<description>You’re a mean one, Mister Grinch.</description>
+			<itunes:subtitle>You’re a mean one, Mister Grinch.</itunes:subtitle>
+			<itunes:summary>You’re a mean one, Mister Grinch.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/Interlude_xmas.mp3" length="11316533" type="audio/mpeg"/>
+			<itunes:duration>9:24</itunes:duration>
 		</item>
 		<item>
 			<title>[We Want MoR] Chapters 29–31</title>
