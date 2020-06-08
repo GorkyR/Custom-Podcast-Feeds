@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 01 Jun 2020 22:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jun 2020 08:45:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,96 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 69 – Self Actualization, Part 4</title>
+			<link>http://www.hpmorpodcast.com/?p=715</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=715</guid>
+			<pubDate>Mon, 08 Jun 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The Society for the Promotion of Heroic Equality for Witches is born.</p><p>Original Text: <a href="http://hpmor.com/chapter/69">[Chapter 69]</a></p>]]></content:encoded>
+			<description>The Society for the Promotion of Heroic Equality for Witches is born.</description>
+			<itunes:subtitle>The Society for the Promotion of Heroic Equality for Witches is born.</itunes:subtitle>
+			<itunes:summary>The Society for the Promotion of Heroic Equality for Witches is born.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_69.mp3" length="21598252" type="audio/mpeg" />
+			<itunes:duration>22:30</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 68 – Self Actualization, Part 3</title>
+			<link>http://www.hpmorpodcast.com/?p=708</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=708</guid>
+			<pubDate>Mon, 08 Jun 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Trapped in Harry’s shadow.</p><p>Original Text: <a href="http://hpmor.com/chapter/68">[Chapter 68]</a></p>]]></content:encoded>
+			<description>Trapped in Harry’s shadow.</description>
+			<itunes:subtitle>Trapped in Harry’s shadow.</itunes:subtitle>
+			<itunes:summary>Trapped in Harry’s shadow.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_68.mp3" length="31486705" type="audio/mpeg" />
+			<itunes:duration>32:48</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 67 – Self Actualization, Part 2</title>
+			<link>http://www.hpmorpodcast.com/?p=695</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=695</guid>
+			<pubDate>Mon, 08 Jun 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Chaos reigns in the upper reaches of Hogwarts Today is Petrov Day. Happy Petrov Day!.</p><p>Original Text: <a href="http://hpmor.com/chapter/67">[Chapter 67]</a></p>]]></content:encoded>
+			<description>Chaos reigns in the upper reaches of Hogwarts Today is Petrov Day. Happy Petrov Day!.</description>
+			<itunes:subtitle>Chaos reigns in the upper reaches of Hogwarts Today is Petrov Day. Happy Petrov Day!.</itunes:subtitle>
+			<itunes:summary>Chaos reigns in the upper reaches of Hogwarts Today is Petrov Day. Happy Petrov Day!.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_67.mp3" length="23484082" type="audio/mpeg" />
+			<itunes:duration>24:27</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 65–66</title>
+			<link>https://hpmorpodcast.com/?p=2536</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2536</guid>
+			<pubDate>Mon, 08 Jun 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Harry considers the lack of wisdom in spinning a ridiculous plot to try and correct the mishaps from Azkaban.</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next week we\ll be covering chapters 67, 68, and 69!</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Harry considers the lack of wisdom in spinning a ridiculous plot to try and correct the mishaps from Azkaban.</description>
+			<itunes:subtitle>Harry considers the lack of wisdom in spinning a ridiculous plot to try and correct the mishaps from Azkaban.</itunes:subtitle>
+			<itunes:summary>Harry considers the lack of wisdom in spinning a ridiculous plot to try and correct the mishaps from Azkaban.</itunes:summary>
+			<itunes:author>The Methods of Rationality Podcast</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_031.mp3" length="117392647" type="audio/mpeg" />
+			<itunes:duration>2:27:06</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Bonus Spoiler Chat</title>
+			<link>https://hpmorpodcast.com/?p=2532</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2532</guid>
+			<pubDate>Wed, 03 Jun 2020 23:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Two for the price of one this week! Enjoy this small bonus episode with just Steven and Eneasz, but be aware that this is a full spoiler chat!</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next week we'll be covering chapters 65 and 66!</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Two for the price of one this week! Enjoy this small bonus episode with just Steven and Eneasz, but be aware that this is a full spoiler chat!</description>
+			<itunes:subtitle>Two for the price of one this week! Enjoy this small bonus episode with just Steven and Eneasz, but be aware that this is a full spoiler chat!</itunes:subtitle>
+			<itunes:summary>Two for the price of one this week! Enjoy this small bonus episode with just Steven and Eneasz, but be aware that this is a full spoiler chat!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_030_Bonus.mp3" length="24162982" type="audio/mpeg" />
+			<itunes:duration>28:32</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 66 – Self Actualization, Part 1</title>
 			<link>http://www.hpmorpodcast.com/?p=677</link>
