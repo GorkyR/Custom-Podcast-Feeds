@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Tue, 23 Jun 2020 07:10:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jun 2020 21:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,71 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 75 – Self Actualization Final, Responsibility</title>
+			<link>http://www.hpmorpodcast.com/?p=806</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=806</guid>
+			<pubDate>Mon, 29 Jun 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Moral Codes for Heroes and Gods.</p><p>Original Text: <a href="http://hpmor.com/chapter/75">[Chapter 75]</a></p>]]></content:encoded>
+			<description>Moral Codes for Heroes and Gods.</description>
+			<itunes:subtitle>Moral Codes for Heroes and Gods.</itunes:subtitle>
+			<itunes:summary>Moral Codes for Heroes and Gods.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_75.mp3" length="36300761" type="audio/mpeg" />
+			<itunes:duration>37:49</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 74b – Self Actualization, Part 9, Escalation of Conflicts</title>
+			<link>http://www.hpmorpodcast.com/?p=801</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=801</guid>
+			<pubDate>Mon, 29 Jun 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>On rituals and consequences.</p><p>Original Text: <a href="http://hpmor.com/chapter/74">[Chapter 74]</a></p>]]></content:encoded>
+			<description>On rituals and consequences.</description>
+			<itunes:subtitle>On rituals and consequences.</itunes:subtitle>
+			<itunes:summary>On rituals and consequences.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_74b.mp3" length="35382506" type="audio/mpeg" />
+			<itunes:duration>36:51</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 74a – Self Actualization, Part 9, Escalation of Conflicts</title>
+			<link>http://www.hpmorpodcast.com/?p=787</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=787</guid>
+			<pubDate>Mon, 29 Jun 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Taking it up to 11.</p><p>Original Text: <a href="http://hpmor.com/chapter/74">[Chapter 74]</a></p>]]></content:encoded>
+			<description>Taking it up to 11.</description>
+			<itunes:subtitle>Taking it up to 11.</itunes:subtitle>
+			<itunes:summary>Taking it up to 11.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_74a.mp3" length="28475354" type="audio/mpeg" />
+			<itunes:duration>29:40</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 72–73</title>
+			<link>https://hpmorpodcast.com/?p=2560</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2560</guid>
+			<pubDate>Mon, 29 Jun 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Things get real when our heroines encounter bullies who really want to hurt them.</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next week we'll be covering chapters 74 and 75!</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<itunes:subtitle>Things get real when our heroines encounter bullies who really want to hurt them.</itunes:subtitle>
+			<itunes:summary>Things get real when our heroines encounter bullies who really want to hurt them.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_034.mp3" length="115981965" type="audio/mpeg" />
+			<itunes:duration>2:24:12</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 73 – Self Actualization, Part 8, The Sacred and the Mundane</title>
 			<link>http://www.hpmorpodcast.com/?p=778</link>
