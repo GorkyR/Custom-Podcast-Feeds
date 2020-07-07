@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 29 Jun 2020 21:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 07 Jul 2020 08:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,72 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 77b – Self Actualization, Aftermaths: Surface Appearances</title>
+			<link>http://www.hpmorpodcast.com/?p=837</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=837</guid>
+			<pubDate>Mon, 06 Jul 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The Groundhog Day Attack.</p><p>Original Text: <a href="http://hpmor.com/chapter/77">[Chapter 77]</a></p>]]></content:encoded>
+			<description>The Groundhog Day Attack.</description>
+			<itunes:subtitle>The Groundhog Day Attack.</itunes:subtitle>
+			<itunes:summary>The Groundhog Day Attack.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_77b.mp3" length="36884648" type="audio/mpeg" />
+			<itunes:duration>38:25</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 77a – Self Actualization, Aftermaths: Surface Appearances</title>
+			<link>http://www.hpmorpodcast.com/?p=832</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=832</guid>
+			<pubDate>Mon, 06 Jul 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The Phoenix’s Price.</p><p>Original Text: <a href="http://hpmor.com/chapter/77">[Chapter 77]</a></p>]]></content:encoded>
+			<description>The Phoenix’s Price.</description>
+			<itunes:subtitle>The Phoenix’s Price.</itunes:subtitle>
+			<itunes:summary>The Phoenix’s Price.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_77a.mp3" length="33334916" type="audio/mpeg" />
+			<itunes:duration>34:43</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 76 – Interlude with the Confessor: Sunk Costs</title>
+			<link>http://www.hpmorpodcast.com/?p=813</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=813</guid>
+			<pubDate>Mon, 06 Jul 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>New perspectives on old ghosts.</p><p>Original Text: <a href="http://hpmor.com/chapter/76">[Chapter 76]</a></p>]]></content:encoded>
+			<description>New perspectives on old ghosts.</description>
+			<itunes:subtitle>New perspectives on old ghosts.</itunes:subtitle>
+			<itunes:summary>New perspectives on old ghosts.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_76.mp3" length="18195190" type="audio/mpeg" />
+			<itunes:duration>18:57</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 74–75</title>
+			<link>https://hpmorpodcast.com/?p=2562</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2562</guid>
+			<pubDate>Mon, 06 Jul 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>The bullies of Hogwarts learn the true meaning of Chaos!</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next week we'll be covering chapters 76 and 77!</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>The bullies of Hogwarts learn the true meaning of Chaos!</description>
+			<itunes:subtitle>The bullies of Hogwarts learn the true meaning of Chaos!</itunes:subtitle>
+			<itunes:summary>The bullies of Hogwarts learn the true meaning of Chaos!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_035.mp3" length="134067273" type="audio/mpeg" />
+			<itunes:duration>2:50:20</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 75 – Self Actualization Final, Responsibility</title>
 			<link>http://www.hpmorpodcast.com/?p=806</link>
