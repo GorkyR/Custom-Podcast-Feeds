@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 20 Jul 2020 08:50:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jul 2020 17:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,72 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 83 &amp; 84a – Taboo Tradeoffs, Aftermath 1 &amp; 2</title>
+			<link>http://www.hpmorpodcast.com/?p=1013</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1013</guid>
+			<pubDate>Mon, 27 Jul 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Self-doubt.</p><p>Original Text: <a href="http://hpmor.com/chapter/83">[Chapter 83]</a> &amp; <a href="http://hpmor.com/chapter/84">[Chapter 84]</a></p>]]></content:encoded>
+			<description>Self-doubt.</description>
+			<itunes:subtitle>Self-doubt.</itunes:subtitle>
+			<itunes:summary>Self-doubt.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_83-84a.mp3" length="27581703" type="audio/mpeg" />
+			<itunes:duration>28:44</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 82 – Taboo Tradeoffs, Final</title>
+			<link>http://www.hpmorpodcast.com/?p=913</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=913</guid>
+			<pubDate>Mon, 27 Jul 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The value of a life.</p><p>Original Text: <a href="http://hpmor.com/chapter/82">[Chapter 82]</a></p>]]></content:encoded>
+			<description>The value of a life.</description>
+			<itunes:subtitle>The value of a life.</itunes:subtitle>
+			<itunes:summary>The value of a life.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_82.mp3" length="27610128" type="audio/mpeg" />
+			<itunes:duration>28:45</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 81 – Taboo Tradeoffs Part 3</title>
+			<link>http://www.hpmorpodcast.com/?p=896</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=896</guid>
+			<pubDate>Mon, 27 Jul 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Blood for blood, and gold for blood.</p><p>Original Text: <a href="http://hpmor.com/chapter/81">[Chapter 81]</a></p>]]></content:encoded>
+			<description>Blood for blood, and gold for blood.</description>
+			<itunes:subtitle>Blood for blood, and gold for blood.</itunes:subtitle>
+			<itunes:summary>Blood for blood, and gold for blood.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_81.mp3" length="34951597" type="audio/mpeg" />
+			<itunes:duration>36:24</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 79–80</title>
+			<link>https://hpmorpodcast.com/?p=2577</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2577</guid>
+			<pubDate>Mon, 27 Jul 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Hermione Granger is subject to a trial by the Wizengamot for attempted murder!</p>
+				<hr />
+				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Next week we&#8217;ll be covering chapters 81, 82, and 83!</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Hermione Granger is subject to a trial by the Wizengamot for attempted murder!</description>
+			<itunes:subtitle>Hermione Granger is subject to a trial by the Wizengamot for attempted murder!</itunes:subtitle>
+			<itunes:summary>Hermione Granger is subject to a trial by the Wizengamot for attempted murder!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_038.mp3" length="120828174" type="audio/mpeg" />
+			<itunes:duration>2:34:46</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 80 – Taboo Tradeoffs Part 2: The Horns Effect</title>
 			<link>http://www.hpmorpodcast.com/?p=884</link>
