@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Tue, 11 Aug 2020 10:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 17 Aug 2020 19:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,32 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>Book Four Retro (65-85)</title>
+			<link>https://hpmorpodcast.com/?p=2601</link>
+			<pubDate>Mon, 17 Aug 2020 07:00:00 +0000</pubDate>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2601</guid>
+			<content:encoded><![CDATA[
+				<p>Enter into the <a href="https://www.doofmedia.com/2020/07/31/we-want-mor-fan-art/">fan art contest</a> for your chance at $100!</p>
+				<hr />
+				<p>Daniel (a long time aficionado of the story) and Justin (a first time reader keeping pace with Brian) join us to discuss the book so far and gaze out from atop the ladder of paranoia!</p>
+				<hr />
+				<p>Next week we&#8217;ll be covering chapter 86!</p>
+				<hr />
+				<p>We are happy to be a part of the <a href="https://www.doofmedia.com/">Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Daniel (a long time aficionado of the story) and Justin (a first time reader keeping pace with Brian) join us to discuss the book so far and gaze out from atop the ladder of paranoia!</description>
+			<itunes:subtitle>Daniel (a long time aficionado of the story) and Justin (a first time reader keeping pace with Brian) join us to discuss the book so far and gaze out from atop the ladder of paranoia!</itunes:subtitle>
+			<itunes:summary>Daniel (a long time aficionado of the story) and Justin (a first time reader keeping pace with Brian) join us to discuss the book so far and gaze out from atop the ladder of paranoia!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_041.mp3" length="138751572" type="audio/mpeg" />
+			<itunes:duration>2:56:32</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 84–85</title>
 			<link>https://hpmorpodcast.com/?p=2599</link>
