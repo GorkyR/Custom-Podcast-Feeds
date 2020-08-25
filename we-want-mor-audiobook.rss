@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 17 Aug 2020 19:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 25 Aug 2020 09:50:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,86 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 89 – Time Pressure, Part 2</title>
+			<link>http://www.hpmorpodcast.com/?p=1142</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1142</guid>
+			<pubDate>Mon, 24 Aug 2020 08:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>The third most perfect killing machine in all nature.</p><p>Original Text: <a href="http://hpmor.com/chapter/89">[Chapter 89]</a></p>]]></content:encoded>
+			<description>The third most perfect killing machine in all nature.</description>
+			<itunes:subtitle>The third most perfect killing machine in all nature.</itunes:subtitle>
+			<itunes:summary>The third most perfect killing machine in all nature.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_89.mp3" length="17898880" type="audio/mpeg" />
+			<itunes:duration>18:38</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 88 – Time Pressure, Part 1</title>
+			<link>http://www.hpmorpodcast.com/?p=1131</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1131</guid>
+			<pubDate>Mon, 24 Aug 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>A Troll in the Dungeons.</p><p>Original Text: <a href="http://hpmor.com/chapter/88">[Chapter 88]</a></p>]]></content:encoded>
+			<description>A Troll in the Dungeons.</description>
+			<itunes:subtitle>A Troll in the Dungeons.</itunes:subtitle>
+			<itunes:summary>A Troll in the Dungeons.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_88.mp3" length="38258106" type="audio/mpeg" />
+			<itunes:duration>39:51</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 87b – Hedonic Awareness</title>
+			<link>http://www.hpmorpodcast.com/?p=1102</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1102</guid>
+			<pubDate>Mon, 24 Aug 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>How Not To Talk To Girls.</p><p>Original Text: <a href="http://hpmor.com/chapter/87">[Chapter 87]</a></p>]]></content:encoded>
+			<description>How Not To Talk To Girls.</description>
+			<itunes:subtitle>How Not To Talk To Girls.</itunes:subtitle>
+			<itunes:summary>How Not To Talk To Girls.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_87b.mp3" length="16476538" type="audio/mpeg" />
+			<itunes:duration>17:10</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 87a – Hedonic Awareness</title>
+			<link>http://www.hpmorpodcast.com/?p=1089</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1089</guid>
+			<pubDate>Mon, 24 Aug 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Normalizing relations.</p><p>Original Text: <a href="http://hpmor.com/chapter/87">[Chapter 87]</a></p>]]></content:encoded>
+			<description>Normalizing relations.</description>
+			<itunes:subtitle>Normalizing relations.</itunes:subtitle>
+			<itunes:summary>Normalizing relations.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_87a.mp3" length="23712662" type="audio/mpeg" />
+			<itunes:duration>24:42</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapter 86</title>
+			<link>https://hpmorpodcast.com/?p=2615</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2615</guid>
+			<pubDate>Mon, 24 Aug 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Enter into the <a href="https://www.doofmedia.com/2020/07/31/we-want-mor-fan-art/">fan art contest</a> for your chance at $100!</p>
+				<hr />
+				<p>Revelations on the Defense Professor and wild hypothesizing coupled with some delightfully paranoid speculation.</p>
+				<hr />
+				<p>Next week we&#8217;ll be covering chapters 87, 88, and 89!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Revelations on the Defense Professor and wild hypothesizing coupled with some delightfully paranoid speculation.</description>
+			<itunes:subtitle>Revelations on the Defense Professor and wild hypothesizing coupled with some delightfully paranoid speculation.</itunes:subtitle>
+			<itunes:summary>Revelations on the Defense Professor and wild hypothesizing coupled with some delightfully paranoid speculation.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_042.mp3" length="117287743" type="audio/mpeg" />
+			<itunes:duration>2:30:22</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 86e – Multiple Hypothesis Testing</title>
 			<link>http://www.hpmorpodcast.com/?p=1078</link>
