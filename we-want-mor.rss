@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Tue, 25 Aug 2020 09:50:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 31 Aug 2020 13:50:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,30 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>Chapters 87–89</title>
+			<link>https://hpmorpodcast.com/?p=2618</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2618</guid>
+			<pubDate>Mon, 31 Aug 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p><b><a href="https://www.patreon.com/posts/41031282">Vote in the Fan Art Contest</a>! Voting is open through September 7th and the winners will be announced on the air on the 14th!</b></p>
+				<hr />
+				<p>Talking to girls&#8230; followed by catastrophe.</p>
+				<hr />
+				<p>Next week we&#8217;ll be covering chapters 90, 91, 92, and 93!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Talking to girls… followed by catastrophe.</description>
+			<itunes:subtitle>Talking to girls… followed by catastrophe.</itunes:subtitle>
+			<itunes:summary>Talking to girls… followed by catastrophe.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_043.mp3" length="96534725" type="audio/mpeg" />
+			<itunes:duration>2:03:09</itunes:duration>
+		</item>
 		<item>
 			<title>Chapter 86</title>
 			<link>https://hpmorpodcast.com/?p=2615</link>
@@ -60,8 +84,6 @@
 				<hr />
 				<p>Next week we&#8217;ll be covering chapter 86!</p>
 				<hr />
-				<p>We are happy to be a part of the <a href="https://www.doofmedia.com/">Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Album art courtesy of Lorec. Thank you!</p>
@@ -83,8 +105,6 @@
 				<p>Enter into the <a href="https://www.doofmedia.com/2020/07/31/we-want-mor-fan-art/">fan art contest</a> for your chance at $100!</p>
 				<hr />
 				<p>Decisions under uncertainty.</p>
-				<hr />
-				<p>We are happy to be a part of the <a href="https://www.doofmedia.com/">Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -110,8 +130,6 @@
 				<hr />
 				<p>Harry has to get creative and be a bad ass to save Hermione!</p>
 				<hr />
-				<p>We are happy to be a part of the <a href="https://www.doofmedia.com/">Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next week we&#8217;ll be covering chapters 84 and 85!</p>
@@ -133,8 +151,6 @@
 			<pubDate>Mon, 27 Jul 2020 07:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>Hermione Granger is subject to a trial by the Wizengamot for attempted murder!</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -158,8 +174,6 @@
 			<content:encoded><![CDATA[
 				<p>Invoking powers beyond your usual grasp.</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next week we&#8217;ll be covering chapters 79 and 80!</p>
@@ -181,8 +195,6 @@
 			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2568</guid>
 			<content:encoded><![CDATA[
 				<p>Good guy Snape and the Phoenix's Price.</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -206,8 +218,6 @@
 			<content:encoded><![CDATA[
 				<p>The bullies of Hogwarts learn the true meaning of Chaos!</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next week we'll be covering chapters 76 and 77!</p>
@@ -230,8 +240,6 @@
 			<content:encoded><![CDATA[
 				<p>Things get real when our heroines encounter bullies who really want to hurt them.</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next week we'll be covering chapters 74 and 75!</p>
@@ -252,8 +260,6 @@
 			<pubDate>Mon, 22 Jun 2020 07:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>Protesting outside the Headmaster&#8217;s office and trying to find bullies to Heroine into submission!</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -301,8 +307,6 @@
 			<content:encoded><![CDATA[
 				<p>Harry considers the lack of wisdom in spinning a ridiculous plot to try and correct the mishaps from Azkaban.</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next week we\ll be covering chapters 67, 68, and 69!</p>
@@ -324,8 +328,6 @@
 			<pubDate>Wed, 03 Jun 2020 23:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>Two for the price of one this week! Enjoy this small bonus episode with just Steven and Eneasz, but be aware that this is a full spoiler chat!</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -349,8 +351,6 @@
 			<content:encoded><![CDATA[
 				<p>Steven and Brian are joined by the one and only Eneasz Brodski! Enjoy our first in-person recording (we were all seated several feet apart) while we discuss the book so far and Brian theorizes on the future of the story.</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next episode will be the short and sweet little spoiler episode coming out later this week. Next week we&#8217;ll be covering chapters 65 and 66!</p>
@@ -372,8 +372,6 @@
 			<pubDate>Mon, 25 May 2020 07:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>Harry and Dumbledore have conflicting views on how to deal with evil in the world and Aftermaths.</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -399,8 +397,6 @@
 				<hr />
 				<p>First episode of <a href="https://www.youtube.com/watch?v=V1m-Z5e76L8">Game Club: Hollow Knight</a>!</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next episode we&#8217;ll be covering chapters 62 and 63!</p>
@@ -422,8 +418,6 @@
 			<pubDate>Mon, 11 May 2020 07:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>Rockers, Q and A with QQ, and unraveling the mystery of the escape!</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -447,8 +441,6 @@
 			<content:encoded><![CDATA[
 				<p>A fulfillment of Doom and a plan gone awry.</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>We bit off more than we could chew on this one, so we&#8217;re moving 56 to the next episode. Next episode we&#8217;ll be covering chapters 56, 57, and 58!</p>
@@ -470,8 +462,6 @@
 			<pubDate>Mon, 27 Apr 2020 07:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>Piercing a dungeon to rescue a damsel in distress.</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -495,8 +485,6 @@
 			<content:encoded><![CDATA[
 				<p>Harry struggles with the ethics of sentient non-humans and is asked to join a mysterious quest…</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next episode we will be covering chapters 51, 52, and 53!</p>
@@ -519,8 +507,6 @@
 			<content:encoded><![CDATA[
 				<p>The redemption of Draco Malfoy.</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next episode we will be covering chapters 48, 49, and 50!</p>
@@ -541,8 +527,6 @@
 			<pubDate>Mon, 06 Apr 2020 07:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>ChronOblivion joins us for another belated retro!</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Check out the doc containing <a href="https://drive.google.com/drive/folders/1hTHkLgEZV9Vk5ie44L851vwMwr98JEmk?usp=sharing">all of ChronOblivion&#8217;s write ups</a> so far!</p>
 				<hr />
@@ -568,8 +552,6 @@
 			<content:encoded><![CDATA[
 				<p>Expecto Patronum!</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next episode we are doing a retro of Book 2 (chapters 22–37) with ChronOblivion!</p>
@@ -591,8 +573,6 @@
 			<pubDate>Mon, 23 Mar 2020 07:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>The Dementor and the Drop Lord come to Hogwarts.</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -616,8 +596,6 @@
 			<content:encoded><![CDATA[
 				<p>Dumbledore consults Harry's unique insight into Dark Lord thinking.</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next episode we are covering chapters 41–43.</p>
@@ -639,8 +617,6 @@
 			<pubDate>Mon, 09 Mar 2020 07:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>Christmas with the Potters and Grangers! And some other stuff.</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -690,8 +666,6 @@
 			<content:encoded><![CDATA[
 				<p>The three Generals face off in their first battle!</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>Next episode we are covering chapters 32 through 34.</p>
@@ -713,8 +687,6 @@
 			<pubDate>Mon, 17 Feb 2020 08:00:00 +0000</pubDate>
 			<content:encoded><![CDATA[
 				<p>Join us for our special Book One Retrospective Episode! We're joined by Matt Freeman of the Doof Media Network!</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
@@ -738,8 +710,6 @@
 			<content:encoded><![CDATA[
 				<p>Harry teams up with Neville to show some bullies what&#8217;s what and makes his first Original Magical discovery utilizing his scientific background!</p>
 				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
-				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
 				<p>In next week&#8217;s episode, we will (finally) do our retrospective on the first &#8220;book&#8221; of HP MoR.</p>
@@ -761,8 +731,6 @@
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2419</guid>
 			<content:encoded><![CDATA[
 				<p>Harry sets of a plot to <em>squash</em> Rita Skeeter.</p>
-				<hr />
-				<p>We are happy to be a part of the<a href="https://www.doofmedia.com/"> Doof! Media podcast network</a>! Check their stuff and support them/us on <a href="https://www.patreon.com/doofmedia">Patreon</a>! Chat with us and everyone else in the Doof! network on Discord by becoming a supporter!</p>
 				<hr />
 				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="http://www.hpmorpodcast.com">the website</a>.</p>
 				<hr />
