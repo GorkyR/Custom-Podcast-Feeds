@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 31 Aug 2020 13:50:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 07 Sep 2020 20:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,30 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>Chapters 90–93</title>
+			<link>https://hpmorpodcast.com/?p=2620</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2620</guid>
+			<pubDate>Mon, 07 Sep 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p><b>Voting for the fan art contest closes today and the winners will be announced on the air on the 14th!</b></p>
+				<hr />
+				<p>Roles, masks, and coping.</p>
+				<hr />
+				<p>Next week we&#8217;ll be covering chapters 94, 95, and 96!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Roles, masks, and coping.</description>
+			<itunes:subtitle>Roles, masks, and coping.</itunes:subtitle>
+			<itunes:summary>Roles, masks, and coping.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_044.mp3" length="148105729" type="audio/mpeg" />
+			<itunes:duration>3:11:27</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 87–89</title>
 			<link>https://hpmorpodcast.com/?p=2618</link>

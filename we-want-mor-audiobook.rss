@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 31 Aug 2020 13:50:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 07 Sep 2020 20:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,72 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 96 – Roles, Part 7</title>
+			<link>http://www.hpmorpodcast.com/?p=1194</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1194</guid>
+			<pubDate>Mon, 07 Sep 2020 07:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Not alone.</p><p>Original Text: <a href="http://hpmor.com/chapter/96">[Chapter 96]</a></p>]]></content:encoded>
+			<description>Not alone.</description>
+			<itunes:subtitle>Not alone.</itunes:subtitle>
+			<itunes:summary>Not alone.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_96.mp3" length="23501580" type="audio/mpeg" />
+			<itunes:duration>24:29</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 95 – Roles, Part 6</title>
+			<link>http://www.hpmorpodcast.com/?p=1187</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1187</guid>
+			<pubDate>Mon, 07 Sep 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>On Caring.</p><p>Original Text: <a href="http://hpmor.com/chapter/95">[Chapter 95]</a></p>]]></content:encoded>
+			<description>On Caring.</description>
+			<itunes:subtitle>On Caring.</itunes:subtitle>
+			<itunes:summary>On Caring.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_95.mp3" length="29719677" type="audio/mpeg" />
+			<itunes:duration>30:57</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 94 – Roles, Part 5</title>
+			<link>http://www.hpmorpodcast.com/?p=1181</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1181</guid>
+			<pubDate>Mon, 07 Sep 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Destroying your enemy’s ability to make war.</p><p>Original Text: <a href="http://hpmor.com/chapter/94">[Chapter 94]</a></p>]]></content:encoded>
+			<description>Destroying your enemy’s ability to make war.</description>
+			<itunes:subtitle>Destroying your enemy’s ability to make war.</itunes:subtitle>
+			<itunes:summary>Destroying your enemy’s ability to make war.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_94.mp3" length="26305429" type="audio/mpeg" />
+			<itunes:duration>27:24</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 90–93</title>
+			<link>https://hpmorpodcast.com/?p=2620</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2620</guid>
+			<pubDate>Mon, 07 Sep 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p><b>Voting for the fan art contest closes today and the winners will be announced on the air on the 14th!</b></p>
+				<hr />
+				<p>Roles, masks, and coping.</p>
+				<hr />
+				<p>Next week we&#8217;ll be covering chapters 94, 95, and 96!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Roles, masks, and coping.</description>
+			<itunes:subtitle>Roles, masks, and coping.</itunes:subtitle>
+			<itunes:summary>Roles, masks, and coping.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_044.mp3" length="148105729" type="audio/mpeg" />
+			<itunes:duration>3:11:27</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 92 &amp; 93 – Roles, Part 3 &amp; 4</title>
 			<link>http://www.hpmorpodcast.com/?p=1173</link>
