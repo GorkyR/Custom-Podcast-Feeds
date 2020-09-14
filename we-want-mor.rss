@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 07 Sep 2020 20:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 14 Sep 2020 19:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,32 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>Chapters 94–96</title>
+			<link>https://hpmorpodcast.com/?p=2622</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2622</guid>
+			<pubDate>Mon, 14 Sep 2020 07:00:00 +0000</pubDate>
+			<itunes:image href="https://hpmorpodcast.com/wp-content/uploads/Sentient_Grass.png"/>
+			<content:encoded><![CDATA[
+				<p><img class="alignleft size-full wp-image-2623" src="https://hpmorpodcast.com/wp-content/uploads/Hourglass_Collage.png" alt="" width="4010" height="5346" srcset="https://hpmorpodcast.com/wp-content/uploads/Hourglass_Collage.png 4010w, https://hpmorpodcast.com/wp-content/uploads/Hourglass_Collage-225x300.png 225w, https://hpmorpodcast.com/wp-content/uploads/Hourglass_Collage-768x1024.png 768w, https://hpmorpodcast.com/wp-content/uploads/Hourglass_Collage-1152x1536.png 1152w, https://hpmorpodcast.com/wp-content/uploads/Hourglass_Collage-1536x2048.png 1536w, https://hpmorpodcast.com/wp-content/uploads/Hourglass_Collage-263x350.png 263w, https://hpmorpodcast.com/wp-content/uploads/Hourglass_Collage-113x150.png 113w" sizes="(max-width: 4010px) 100vw, 4010px"/></p>
+				<p><b>Congratulations to our fan art winners! Thank you to everyone for your contributions &#8211; I loved all of them. :)</b></p>
+				<hr />
+				<p>Deceptions, trepidations, and discovery.</p>
+				<hr />
+				<p>Next week we&#8217;ll be covering chapters 97, 98, and 99!</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Deceptions, trepidations, and discovery.</description>
+			<itunes:subtitle>Deceptions, trepidations, and discovery.</itunes:subtitle>
+			<itunes:summary>Deceptions, trepidations, and discovery.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_045.mp3" length="100586146" type="audio/mpeg" />
+			<itunes:duration>2:12:20</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 90–93</title>
 			<link>https://hpmorpodcast.com/?p=2620</link>
