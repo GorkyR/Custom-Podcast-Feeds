@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>Meta-MoR</title>
+		<link>https://deathisbadblog.com/meta-mor-alternate-download-spot/</link>
+		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/meta-mor.rss" rel="self" type="application/rss+xml" />
+		<description>The analysis podcast of the We Want MOR analysis podcast! Masterminded by April, bandwagon-ed by Eneasz.  Is this a joke? Only one way to find out!  (full spoilers for all of HPMoR)</description>
+		<itunes:summary>The analysis podcast of the We Want MOR analysis podcast! Masterminded by April, bandwagon-ed by Eneasz.</itunes:summary>
+		<lastBuildDate>Mon, 21 Sep 2020 14:45:00 +0000</lastBuildDate>
+		<language>en-US</language>
+		<itunes:author>April &amp; Eneasz Brodski</itunes:author>
+		<image>
+			<title>Meta-MoR</title>
+			<url>https://i.imgur.com/krhXUIk.png</url>
+			<link>https://deathisbadblog.com/meta-mor-alternate-download-spot/</link>
+		</image>
+		<itunes:image href="https://i.imgur.com/krhXUIk.png"/>
+		<itunes:category text="Arts">
+			<itunes:category Text="Books"/>
+		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+
+		<item>
+			<title>Episode 11</title>
+			<link>https://deathisbadblog.com/meta-mor-alternate-download-spot/</link>
+			<guid isPermaLink="false">metamor-ep-11</guid>
+			<pubDate>Sun, 20 Sep 2020 19:30:00 +0000</pubDate>
+			<description>Actually talking about the content of WWMoR :)</description>
+			<itunes:subtitle>Actually talking about the content of WWMoR :)</itunes:subtitle>
+			<itunes:summary>Actually talking about the content of WWMoR :)</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/09/Meta-MoR_11.mp3" length="36007132" type="audio/mpeg" />
+			<itunes:duration>0:47:31</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 10</title>
+			<link>https://deathisbadblog.com/meta-mor-alternate-download-spot/</link>
+			<guid isPermaLink="false">metamor-ep-10</guid>
+			<pubDate>Thu, 10 Sep 2020 13:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>The long-awaited "what the heck happened on that Other Discord Server that caused such a kerfuffle?" episode.</p>
+				<p>(Disclaimer: probably not actually long-awaited by anyone.)</p>
+			]]></content:encoded>
+			<description>The long-awaited "what the heck happened on that Other Discord Server that caused such a kerfuffle?" episode.</description>
+			<itunes:subtitle>The long-awaited "what the heck happened on that Other Discord Server that caused such a kerfuffle?" episode.</itunes:subtitle>
+			<itunes:summary>The long-awaited "what the heck happened on that Other Discord Server that caused such a kerfuffle?" episode.</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/09/Meta-MoR_10.mp3" length="22205448" type="audio/mpeg" />
+			<itunes:duration>0:58:21</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 9</title>
+			<link>https://deathisbadblog.com/meta-mor-alternate-download-spot/</link>
+			<guid isPermaLink="false">metamor-ep-9</guid>
+			<pubDate>Wed, 29 Jul 2020 02:15:00 +0000</pubDate>
+			<description>For all you crazy kids that listened to Meta-MoR, we finally have another one!</description>
+			<itunes:subtitle>For all you crazy kids that listened to Meta-MoR, we finally have another one!</itunes:subtitle>
+			<itunes:summary>For all you crazy kids that listened to Meta-MoR, we finally have another one!</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/02/Meta-MoR_09.mp3" length="20933136" type="audio/mpeg" />
+			<itunes:duration>0:52:55</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 8</title>
+			<link>https://www.patreon.com/posts/37376154</link>
+			<guid isPermaLink="true">https://www.patreon.com/posts/37376154</guid>
+			<pubDate>Thu, 21 May 2020 14:25:00 +0000</pubDate>
+			<description>We're still doing this thing.</description>
+			<itunes:subtitle>We're still doing this thing.</itunes:subtitle>
+			<itunes:summary>We're still doing this thing.</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/05/Meta-MoR_08.mp3" length="19746288" type="audio/mpeg" />
+			<itunes:duration>0:49:50</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 7</title>
+			<link>https://www.patreon.com/posts/36405977</link>
+			<guid isPermaLink="true">https://www.patreon.com/posts/36405977</guid>
+			<pubDate>Sat, 25 Apr 2020 23:00:00 +0000</pubDate>
+			<description>Wherein we give the Meta-MoR peeps an assignment.</description>
+			<itunes:subtitle>Wherein we give the Meta-MoR peeps an assignment.</itunes:subtitle>
+			<itunes:summary>Wherein we give the Meta-MoR peeps an assignment.</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/04/Meta-MoR_07.mp3" length="26390772" type="audio/mpeg" />
+			<itunes:duration>1:04:31</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 6</title>
+			<link>https://www.patreon.com/posts/35543636</link>
+			<guid isPermaLink="true">https://www.patreon.com/posts/35543636</guid>
+			<pubDate>Thu, 02 Apr 2020 12:45:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Haha, just kidding. Here's the real next episode.</p>
+				<p>Our most somber episode yet, while also being the hardest on your ears!</p>
+				<p>I'm sorry for both! T_T</p>
+			]]></content:encoded>
+			<description>Haha, just kidding.  Here's the real next episode.  Our most somber episode yet.</description>
+			<itunes:subtitle>Haha, just kidding.  Here's the real next episode.  Our most somber episode yet.</itunes:subtitle>
+			<itunes:summary>Haha, just kidding.  Here's the real next episode.  Our most somber episode yet.</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/04/Meta-MoR_06.mp3" length="27101448" type="audio/mpeg" />
+			<itunes:duration>1:08:50</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 5</title>
+			<link>https://www.patreon.com/posts/35543482</link>
+			<guid isPermaLink="true">https://www.patreon.com/posts/35543482</guid>
+			<pubDate>Wed, 01 Apr 2020 23:15:00 +0000</pubDate>
+			<description>We gain striking insights into Brian's mind, and also uncover a previously unknown easter egg!</description>
+			<itunes:subtitle>We gain striking insights into Brian's mind, and also uncover a previously unknown easter egg!</itunes:subtitle>
+			<itunes:summary>We gain striking insights into Brian's mind, and also uncover a previously unknown easter egg!</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/04/Meta-MoR_05.mp3" length="1465128" type="audio/mpeg" />
+			<itunes:duration>0:03:44</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 4</title>
+			<link>https://www.patreon.com/posts/34886828</link>
+			<guid isPermaLink="true">https://www.patreon.com/posts/34886828</guid>
+			<pubDate>Sat, 14 Mar 2020 17:30:00 +0000</pubDate>
+			<description>The Author won't die!</description>
+			<itunes:subtitle>The Author won't die!</itunes:subtitle>
+			<itunes:summary>The Author won't die!</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/02/Meta-MoR_04.mp3" length="27930780" type="audio/mpeg" />
+			<itunes:duration>1:08:35</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 3</title>
+			<link>https://www.patreon.com/posts/34464002</link>
+			<guid isPermaLink="true">https://www.patreon.com/posts/34464002</guid>
+			<pubDate>Sat, 29 Feb 2020 11:45:00 +0000</pubDate>
+			<description>Cuz we haven't gotten tired of it yet!</description>
+			<itunes:subtitle>Cuz we haven't gotten tired of it yet!</itunes:subtitle>
+			<itunes:summary>Cuz we haven't gotten tired of it yet!</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/02/Meta-MoR_03.mp3" length="21365064" type="audio/mpeg" />
+			<itunes:duration>0:53:03</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 2</title>
+			<link>https://www.patreon.com/posts/34180448</link>
+			<guid isPermaLink="true">https://www.patreon.com/posts/34180448</guid>
+			<pubDate>Wed, 19 Feb 2020 23:00:00 +0000</pubDate>
+			<description>Meta-MoR returns, to recap the WWM recap of Book 1. Sadly, as we are one meta-level up, we have one fewer guest hosts.</description>
+			<itunes:subtitle>Meta-MoR returns, to recap the WWM recap of Book 1.</itunes:subtitle>
+			<itunes:summary>Meta-MoR returns, to recap the WWM recap of Book 1.</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/02/Meta-MoR_02.mp3" length="25077816" type="audio/mpeg" />
+			<itunes:duration>1:02:26</itunes:duration>
+		</item>
+		<item>
+			<title>Episode 1</title>
+			<link>https://www.patreon.com/posts/34064648</link>
+			<guid isPermaLink="true">https://www.patreon.com/posts/34064648</guid>
+			<pubDate>Sat, 15 Feb 2020 19:45:00 +0000</pubDate>
+			<description>The analysis podcast of the We Want MOR analysis podcast! Masterminded by April, bandwagon-ed by Eneasz. Is this a joke? Only one way to find out!</description>
+			<itunes:subtitle>Is this a joke? Only one way to find out!</itunes:subtitle>
+			<itunes:summary>Is this a joke? Only one way to find out!</itunes:summary>
+			<itunes:author>April</itunes:author>
+			<enclosure url="https://deathisbadblog.com/wp-content/uploads/2020/02/Meta-MoR_01.mp3" length="24830856" type="audio/mpeg" />
+			<itunes:duration>1:03:54</itunes:duration>
+		</item>
+	</channel>
+</rss>
