@@ -8,11 +8,17 @@
 		<title>Meta-MoR</title>
 		<link>https://deathisbadblog.com/meta-mor-alternate-download-spot/</link>
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/meta-mor.rss" rel="self" type="application/rss+xml" />
-		<description>The analysis podcast of the We Want MOR analysis podcast! Masterminded by April, bandwagon-ed by Eneasz.  Is this a joke? Only one way to find out!  (full spoilers for all of HPMoR)</description>
-		<itunes:summary>The analysis podcast of the We Want MOR analysis podcast! Masterminded by April, bandwagon-ed by Eneasz.</itunes:summary>
-		<lastBuildDate>Mon, 21 Sep 2020 14:45:00 +0000</lastBuildDate>
+		<description><![CDATA[
+			<p>The analysis podcast of the We Want MOR analysis podcast!</p>
+			<p>Masterminded by April, bandwagon-ed by Eneasz.</p>
+			<br/>
+			<p>Is this a joke? Only one way to find out!</p>
+			<p>(Full spoilers for all of HPMoR)</p>
+		]]></description>
+		<itunes:summary>The analysis podcast of the We Want MOR analysis podcast!  Masterminded by April, bandwagon-ed by Eneasz.</itunes:summary>
+		<lastBuildDate>Mon, 21 Sep 2020 15:40:00 +0000</lastBuildDate>
 		<language>en-US</language>
-		<itunes:author>April &amp; Eneasz Brodski</itunes:author>
+		<itunes:author>April &amp; Eneasz</itunes:author>
 		<image>
 			<title>Meta-MoR</title>
 			<url>https://i.imgur.com/krhXUIk.png</url>
