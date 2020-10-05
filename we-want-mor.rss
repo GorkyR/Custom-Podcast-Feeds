@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 28 Sep 2020 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 05 Oct 2020 09:45:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,30 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>Book Five Retro (86–99) - One MoR Meta Than You</title>
+			<link>https://hpmorpodcast.com/?p=2653</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2653</guid>
+			<pubDate>Mon, 05 Oct 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p><img loading="lazy" class="alignnone size-medium wp-image-2657" src="https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-300x300.png" alt="" width="300" height="300" srcset="https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-300x300.png 300w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-1024x1024.png 1024w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-150x150.png 150w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-768x768.png 768w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-1536x1536.png 1536w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-2048x2048.png 2048w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-350x350.png 350w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-254x254.png 254w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+				<hr/>
+				<p>For our Retro episode, we go one meta higher and are joined by the hosts of Meta MoR: April and Eneasz!</p>
+				<hr/>
+				<p>Next episode we&#8217;ll be covering chapters 103 and 104!</p>
+				<hr/>
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr/>
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>For our Retro episode, we go one meta higher and are joined by the hosts of Meta MoR: April and Eneasz!</description>
+			<itunes:subtitle>For our Retro episode, we go one meta higher and are joined by the hosts of Meta MoR: April and Eneasz!</itunes:subtitle>
+			<itunes:summary>For our Retro episode, we go one meta higher and are joined by the hosts of Meta MoR: April and Eneasz!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_048.mp3" length="95088442" type="audio/mpeg" />
+			<itunes:duration>2:01:00</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 100–102</title>
 			<link>https://hpmorpodcast.com/?p=2650</link>
@@ -173,7 +197,7 @@
 			<itunes:duration>2:30:22</itunes:duration>
 		</item>
 		<item>
-			<title>Book Four Retro (65-85)</title>
+			<title>Book Four Retro (65–85)</title>
 			<link>https://hpmorpodcast.com/?p=2601</link>
 			<pubDate>Mon, 17 Aug 2020 07:00:00 +0000</pubDate>
 			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2601</guid>
@@ -781,7 +805,7 @@
 			<itunes:duration>1:51:01</itunes:duration>
 		</item>
 		<item>
-			<title>Book One Retro (1-21)</title>
+			<title>Book One Retro (1–21)</title>
 			<link>http://www.hpmorpodcast.com/?p=2427</link>
 			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=2427</guid>
 			<pubDate>Mon, 17 Feb 2020 08:00:00 +0000</pubDate>
