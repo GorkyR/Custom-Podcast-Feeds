@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 05 Oct 2020 09:45:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 12 Oct 2020 07:50:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,58 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[HPMoR] 106 &amp; 107 – The Truth, Pt 3 &amp; 4</title>
+			<link>http://www.hpmorpodcast.com/?p=1468</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1468</guid>
+			<pubDate>Mon, 12 Oct 2020 07:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Speed-running Dumbledore’sThird Floor Corridor.</p><p>Original Text: <a href="http://hpmor.com/chapter/106">[Chapter 106]</a> &amp; <a href="http://hpmor.com/chapter/107">[Chapter 107]</a></p>]]></content:encoded>
+			<description>Speed-running Dumbledore’sThird Floor Corridor.</description>
+			<itunes:subtitle>Speed-running Dumbledore’sThird Floor Corridor.</itunes:subtitle>
+			<itunes:summary>Speed-running Dumbledore’sThird Floor Corridor.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_106-107.mp3" length="39469329" type="audio/mpeg" />
+			<itunes:duration>41:07</itunes:duration>
+		</item>
+		<item>
+			<title>[HPMoR] 105 – The Truth, Pt 2</title>
+			<link>http://www.hpmorpodcast.com/?p=1459</link>
+			<guid isPermaLink="false">http://www.hpmorpodcast.com/?p=1459</guid>
+			<pubDate>Mon, 12 Oct 2020 07:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p>Bargaining with the Devil.</p><p>Original Text: <a href="http://hpmor.com/chapter/105">[Chapter 105]</a></p>]]></content:encoded>
+			<description>Bargaining with the Devil.</description>
+			<itunes:subtitle>Bargaining with the Devil.</itunes:subtitle>
+			<itunes:summary>Bargaining with the Devil.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://media.blubrry.com/hpmor/www.hpmorpodcast.com/wp-content/uploads/episodes/HPMoR_Chap_105.mp3" length="23767837" type="audio/mpeg" />
+			<itunes:duration>24:45</itunes:duration>
+		</item>
+		<item>
+			<title>[We Want MoR] Chapters 103–104</title>
+			<link>https://hpmorpodcast.com/?p=2659</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2659</guid>
+			<pubDate>Mon, 12 Oct 2020 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p><img loading="lazy" class="alignnone  wp-image-2660" src="https://hpmorpodcast.com/wp-content/uploads/Ladder_of_Paranoia-300x225.jpg" alt="" width="415" height="311" srcset="https://hpmorpodcast.com/wp-content/uploads/Ladder_of_Paranoia-300x225.jpg 300w, https://hpmorpodcast.com/wp-content/uploads/Ladder_of_Paranoia-1024x768.jpg 1024w, https://hpmorpodcast.com/wp-content/uploads/Ladder_of_Paranoia-768x576.jpg 768w, https://hpmorpodcast.com/wp-content/uploads/Ladder_of_Paranoia-467x350.jpg 467w, https://hpmorpodcast.com/wp-content/uploads/Ladder_of_Paranoia-150x113.jpg 150w, https://hpmorpodcast.com/wp-content/uploads/Ladder_of_Paranoia.jpg 1280w" sizes="(max-width: 415px) 100vw, 415px" /></p>
+				<hr/>
+				<p>Quirrell gives the Ministry exam and Harry blows the cap off of all this Voldemort business!</p>
+				<hr/>
+				<p>Next episode we&#8217;ll be covering chapters 105 and 106 and 107!</p>
+				<hr/>
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr/>
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Quirrell gives the Ministry exam and Harry blows the cap off of all this Voldemort business!</description>
+			<itunes:subtitle>Quirrell gives the Ministry exam and Harry blows the cap off of all this Voldemort business!</itunes:subtitle>
+			<itunes:summary>Quirrell gives the Ministry exam and Harry blows the cap off of all this Voldemort business!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_049.mp3" length="107241439" type="audio/mpeg" />
+			<itunes:duration>2:16:00</itunes:duration>
+		</item>
 		<item>
 			<title>[HPMoR] 104b – The Truth, Pt 1, Riddles and Answers</title>
 			<link>http://www.hpmorpodcast.com/?p=1456</link>
