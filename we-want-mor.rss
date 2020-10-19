@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 12 Oct 2020 07:50:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 19 Oct 2020 19:45:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,30 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>Chapters 105–107</title>
+			<link>https://hpmorpodcast.com/?p=2670</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2670</guid>
+			<pubDate>Mon, 19 Oct 2020 18:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p><img loading="lazy" class="alignnone size-medium wp-image-2663" src="https://hpmorpodcast.com/wp-content/uploads/No_Spoilers-300x165.jpg" alt="" width="300" height="165" srcset="https://hpmorpodcast.com/wp-content/uploads/No_Spoilers-300x165.jpg 300w, https://hpmorpodcast.com/wp-content/uploads/No_Spoilers-1024x562.jpg 1024w, https://hpmorpodcast.com/wp-content/uploads/No_Spoilers-768x422.jpg 768w, https://hpmorpodcast.com/wp-content/uploads/No_Spoilers-1536x843.jpg 1536w, https://hpmorpodcast.com/wp-content/uploads/No_Spoilers-2048x1124.jpg 2048w, https://hpmorpodcast.com/wp-content/uploads/No_Spoilers-638x350.jpg 638w, https://hpmorpodcast.com/wp-content/uploads/No_Spoilers-150x82.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+				<hr/>
+				<p>Descending the corridor of madness.</p>
+				<hr/>
+				<p>Next episode we&#8217;ll be covering chapter 108!</p>
+				<hr/>
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr/>
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>Descending the corridor of madness.</description>
+			<itunes:subtitle>Descending the corridor of madness.</itunes:subtitle>
+			<itunes:summary>Descending the corridor of madness.</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_050.mp3" length="67164201" type="audio/mpeg" />
+			<itunes:duration>1:24:26</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 103–104</title>
 			<link>https://hpmorpodcast.com/?p=2659</link>
