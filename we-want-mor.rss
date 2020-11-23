@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 16 Nov 2020 21:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 23 Nov 2020 18:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,32 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>Chapters 114 and 115</title>
+			<link>https://hpmorpodcast.com/?p=2699</link>
+			<guid isPermaLink="false">https://hpmorpodcast.com/?p=2699</guid>
+			<pubDate>Mon, 23 Nov 2020 08:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p><img loading="lazy" class="alignnone size-medium wp-image-2657" src="https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-300x300.png" alt="" width="300" height="300" srcset="https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-300x300.png 300w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-1024x1024.png 1024w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-150x150.png 150w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-768x768.png 768w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-1536x1536.png 1536w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-2048x2048.png 2048w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-350x350.png 350w, https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy-254x254.png 254w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+				<hr/>
+				<p><em>Beneath the moonlight glints a tiny fragment of silver, a fraction of a line&#8230;</em></p>
+				<p><em>(black robes, falling)</em></p>
+				<p><em>&#8230;blood spills out in litres, and someone screams a word.</em></p>
+				<hr/>
+				<p>Next episode we&#8217;ll be covering chapters 116, 117 and 118!</p>
+				<hr/>
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr/>
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description><em>&#8230;blood spills out in litres, and someone screams a word.</em></description>
+			<itunes:subtitle><em>&#8230;blood spills out in litres, and someone screams a word.</em></itunes:subtitle>
+			<itunes:summary><em>&#8230;blood spills out in litres, and someone screams a word.</em></itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_054.mp3" length="73344863" type="audio/mpeg" />
+			<itunes:duration>1:32:37</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 112 and 113</title>
 			<link>https://hpmorpodcast.com/?p=2683</link>
