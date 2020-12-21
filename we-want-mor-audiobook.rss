@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 14 Dec 2020 08:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 21 Dec 2020 13:15:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian as we dive into the world of Harry Potter and the Methods of Rationality!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,28 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+		<item>
+			<title>[We Want MoR] The One with Eliezer Yudkowsky</title>
+			<link>https://hpmorpodcast.com/?p=2710</link>
+			<guid isPermaLink="true">https://hpmorpodcast.com/?p=2710</guid>
+			<pubDate>Mon, 21 Dec 2020 16:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[<p><img src="https://static.wikia.nocookie.net/hpmor/images/3/39/HPMOR_fingers_cover.png/revision/latest/scale-to-width-down/340" alt="Harry Potter and the Methods of Rationality | HPMOR Wiki | Fandom" /></p>
+				<p>For our final and ultimate episode, we are joined by Eneasz Brodski, Matt Freeman, Eliezer Yudkowsky!</p>
+				<hr />
+				<p>We had a great time producing this show for the last year and the best way to cap it off was an awesome conversation with all of the people who made it possible. Thank you to all of our guests and to all of you for listening.</p>
+				<hr />
+				<p>Original chapters, written by Eliezer Yudkowsky, can be read <a href="https://www.hpmor.com/">here</a> and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+				<hr />
+				<p>Album art courtesy of Lorec. Thank you!</p>
+				<p>Coy manages <a href="https://gorkyr.github.io/We-Want-MoR-Playlist/we-want-mor.rss">an RSS feed</a> that compiles the relevant audiobook chapters with the WW MoR counterparts. Just copy and paste that link into your favorite podcast app in the &#8220;add by url&#8221; option. Thanks, Coy!</p>
+			]]></content:encoded>
+			<description>For our final and ultimate episode, we are joined by Eneasz Brodski, Matt Freeman, Eliezer Yudkowsky!</description>
+			<itunes:subtitle>For our final and ultimate episode, we are joined by Eneasz Brodski, Matt Freeman, Eliezer Yudkowsky!</itunes:subtitle>
+			<itunes:summary>For our final and ultimate episode, we are joined by Eneasz Brodski, Matt Freeman, Eliezer Yudkowsky!</itunes:summary>
+			<itunes:author>Steven Zuber</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_058.mp3" length="98250629" type="audio/mpeg" />
+			<itunes:duration>1:40:42</itunes:duration>
+		</item>
 		<item>
 			<title>[We Want MoR] Chapter 122</title>
 			<link>https://hpmorpodcast.com/?p=2705</link>
