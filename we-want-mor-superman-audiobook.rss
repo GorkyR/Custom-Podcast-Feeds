@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>We Want MoR Superman + Audiobook</title>
+		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss" rel="self" type="application/rss+xml" />
+		<link>http://www.hpmorpodcast.com</link>
+		<description>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
+		<lastBuildDate>Mon, 18 Jan 2021 08:45:29 +0000</lastBuildDate>
+		<language>en-US</language>
+		<itunes:summary>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales!</itunes:summary>
+		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
+		<image>
+			<title>We Want MoR Superman + Audiobook</title>
+			<url>https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy.png</url>
+			<link>http://www.hpmorpodcast.com</link>
+		</image>
+		<itunes:image href="https://hpmorpodcast.com/wp-content/uploads/FriendlyDisagreement-copy.png"/>
+		<itunes:category text="Arts">
+			<itunes:category Text="Books"/>
+		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+
+        <item>
+            <title>[MM] Chapter 4</title>
+            <link>https://hpmorpodcast.com/?p=1785</link>
+            <pubDate>Mon, 18 Jan 2021 08:30:00 +0000</pubDate>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1785</guid>
+            <content:encoded><![CDATA[<p>Like Clockwork</p><p><a href="https://www.fanfiction.net/s/10360716/4/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>Like Clockwork</description>
+            <itunes:subtitle>Like Clockwork</itunes:subtitle>
+            <itunes:summary>Like Clockwork</itunes:summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_04.mp3" length="24652608" type="audio/mpeg" />
+            <itunes:duration>25:41</itunes:duration>
+        </item>
+        <item>
+            <title>[MM] Chapter 3</title>
+            <link>https://hpmorpodcast.com/?p=1778</link>
+            <pubDate>Mon, 18 Jan 2021 08:15:00 +0000</pubDate>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1778</guid>
+            <content:encoded><![CDATA[<p>The All-Seeing Eye</p><p><a href="https://www.fanfiction.net/s/10360716/3/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>The All-Seeing Eye</description>
+            <itunes:subtitle>The All-Seeing Eye</itunes:subtitle>
+            <itunes:summary>The All-Seeing Eye</itunes:summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_03.mp3" length="26581893" type="audio/mpeg" />
+            <itunes:duration>27:41</itunes:duration>
+        </item>
+        <item>
+            <title>[WWMoR Superman] Chapters 1–2</title>
+            <link>https://hpmorpodcast.com/?p=2718</link>
+            <guid isPermaLink="true">https://hpmorpodcast.com/?p=2718</guid>
+            <pubDate>Mon, 18 Jan 2021 08:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                <p>In this episode we dive into the world of 1930s Metropolis, where a strange man in a shiny suit has appeared from nowhere and begins thwarting violent crimes!</p>
+                <hr />
+                <p>Next episode we will be covering chapters 3 and 4.</p>
+                <hr />
+                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+            ]]></content:encoded>
+            <description>In this episode we dive into the world of 1930s Metropolis, where a strange man in a shiny suit has appeared from nowhere and begins thwarting violent crimes!</description>
+            <itunes:subtitle>In this episode we dive into the world of 1930s Metropolis, where a strange man in a shiny suit has appeared from nowhere and begins thwarting violent crimes!</itunes:subtitle>
+            <itunes:summary>In this episode we dive into the world of 1930s Metropolis, where a strange man in a shiny suit has appeared from nowhere and begins thwarting violent crimes!</itunes:summary>
+            <itunes:author>Steven Zuber</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_Superman_001.mp3" length="87907005" type="audio/mpeg" />
+            <itunes:duration>1:44:09</itunes:duration>
+        </item>
+        <item>
+            <title>[MM] Chapter 2</title>
+            <link>https://hpmorpodcast.com/?p=1763</link>
+            <pubDate>Mon, 11 Jan 2021 08:30:00 +0000</pubDate>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1763</guid>
+            <content:encoded><![CDATA[<p>Dissemination of Information</p><p><a href="https://www.fanfiction.net/s/10360716/2/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>Dissemination of Information</description>
+            <itunes:subtitle>Dissemination of Information</itunes:subtitle>
+            <itunes:summary>Dissemination of Information</itunes:summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_02.mp3" length="30292545" type="audio/mpeg" />
+            <itunes:duration>31:33</itunes:duration>
+        </item>
+        <item>
+            <title>[MM] Chapter 1</title>
+            <link>https://hpmorpodcast.com/?p=1751</link>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1751</guid>
+            <pubDate>Mon, 11 Jan 2021 08:15:00 +0000</pubDate>
+            <content:encoded><![CDATA[<p>Literally Incredible</p><p><a href="https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>Literally Incredible</description>
+            <itunes:subtitle>Literally Incredible</itunes:subtitle>
+            <summary>Literally Incredible</summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_01.mp3" length="20374365" type="audio/mpeg" />
+            <itunes:duration>21:13</itunes:duration>
+        </item>
+        <item>
+            <title>[WWMoR Superman] Metropolitan Man Announcement</title>
+            <link>https://hpmorpodcast.com/?p=2713</link>
+            <guid isPermaLink="true">https://hpmorpodcast.com/?p=2713</guid>
+            <pubDate>Mon, 11 Jan 2021 08:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                <p>Join Steven and Brian for a short adventure into another Rational Fic &#8211; <a href="http://alexanderwales.com/the-metropolitan-man-1/">The Metropolitan Man</a> by <a href="http://alexanderwales.com/">Alexander Wales</a>!</p>
+                <p>As always, be sure to check out the audiobook earlier in this feed. :)</p>
+                <p>Join us back here next week for the discussion on chapters 1 and 2!</p>
+            ]]></content:encoded>
+            <description>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man by Alexander Wales!</description>
+            <itunes:subtitle>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man by Alexander Wales!</itunes:subtitle>
+            <itunes:summary>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man by Alexander Wales!</itunes:summary>
+            <itunes:author>Steven Zuber</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_MM_Intro.mp3" length="33102861" type="audio/mpeg" />
+            <itunes:duration>37:48</itunes:duration>
+        </item>
+    </channel>
+</rss>
