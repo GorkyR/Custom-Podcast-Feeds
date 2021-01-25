@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 18 Jan 2021 08:45:29 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 25 Jan 2021 10:30:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -25,6 +25,25 @@
 		<itunes:explicit>no</itunes:explicit>
 
         <item>
+            <title>Chapters 3–4</title>
+            <link>https://hpmorpodcast.com/?p=2743</link>
+            <guid isPermaLink="true">https://hpmorpodcast.com/?p=2743</guid>
+            <pubDate>Mon, 25 Jan 2021 08:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                <p>Lex escalates his game against Superman.</p>
+                <hr />
+                <p>Next episode we will be covering chapters 5 and 6.</p>
+                <hr />
+                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found on <a href="https://hpmorpodcast.com">the website</a>.</p>
+            ]]></content:encoded>
+            <description>Lex escalates his game against Superman.</description>
+            <itunes:subtitle>Lex escalates his game against Superman.</itunes:subtitle>
+            <itunes:summary>Lex escalates his game against Superman.</itunes:summary>
+            <itunes:author>Steven Zuber</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_Superman_002.mp3" length="100364418" type="audio/mpeg" />
+            <itunes:duration>2:15:26</itunes:duration>
+        </item>
+        <item>
             <title>Chapters 1–2</title>
             <link>https://hpmorpodcast.com/?p=2718</link>
             <guid isPermaLink="true">https://hpmorpodcast.com/?p=2718</guid>
@@ -34,7 +53,7 @@
                 <hr />
                 <p>Next episode we will be covering chapters 3 and 4.</p>
                 <hr />
-                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found on <a href="https://hpmorpodcast.com">the website</a>.</p>
             ]]></content:encoded>
             <description>In this episode we dive into the world of 1930s Metropolis, where a strange man in a shiny suit has appeared from nowhere and begins thwarting violent crimes!</description>
             <itunes:subtitle>In this episode we dive into the world of 1930s Metropolis, where a strange man in a shiny suit has appeared from nowhere and begins thwarting violent crimes!</itunes:subtitle>

@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 18 Jan 2021 08:45:29 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 25 Jan 2021 10:30:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,64 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+        <item>
+            <title>[MM] Chapter 6</title>
+            <link>https://hpmorpodcast.com/?p=1819</link>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1819</guid>
+            <pubDate>Mon, 25 Jan 2021 08:45:00 +0000</pubDate>
+            <content:encoded><![CDATA[<p>Private Wars</p><p><a href="https://www.fanfiction.net/s/10360716/6/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>Private Wars</description>
+            <itunes:subtitle>Private Wars</itunes:subtitle>
+            <itunes:summary>Private Wars</itunes:summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_07.mp3" length="31176948" type="audio/mpeg" />
+            <itunes:duration>32:28</itunes:duration>
+        </item>
+        <item>
+            <title>[MM] Chapter 5 (part 2)</title>
+            <link>https://hpmorpodcast.com/?p=1806</link>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1806</guid>
+            <pubDate>Mon, 25 Jan 2021 08:30:00 +0000</pubDate>
+            <content:encoded><![CDATA[<p>A Stopped Clock (part 2)</p><p><a href="https://www.fanfiction.net/s/10360716/5/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>A Stopped Clock (part 2)</description>
+            <itunes:subtitle>A Stopped Clock (part 2)</itunes:subtitle>
+            <itunes:summary>A Stopped Clock (part 2)</itunes:summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_06.mp3" length="24040306" type="audio/mpeg" />
+            <itunes:duration>25:02</itunes:duration>
+        </item>
+        <item>
+            <title>[MM] Chapter 5 (part 1)</title>
+            <link>https://hpmorpodcast.com/?p=1798</link>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1798</guid>
+            <pubDate>Mon, 25 Jan 2021 08:15:00 +0000</pubDate>
+            <content:encoded><![CDATA[<p>A Stopped Clock (part 1)</p><p><a href="https://www.fanfiction.net/s/10360716/5/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>A Stopped Clock (part 1)</description>
+            <itunes:subtitle>A Stopped Clock (part 1)</itunes:subtitle>
+            <itunes:summary>A Stopped Clock (part 1)</itunes:summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_05.mp3" length="32037952" type="audio/mpeg" />
+            <itunes:duration>33:22</itunes:duration>
+        </item>
+        <item>
+            <title>[WWM Superman] Chapters 3–4</title>
+            <link>https://hpmorpodcast.com/?p=2743</link>
+            <guid isPermaLink="true">https://hpmorpodcast.com/?p=2743</guid>
+            <pubDate>Mon, 25 Jan 2021 08:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                <p>Lex escalates his game against Superman.</p>
+                <hr />
+                <p>Next episode we will be covering chapters 5 and 6.</p>
+                <hr />
+                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found on <a href="https://hpmorpodcast.com">the website</a>.</p>
+            ]]></content:encoded>
+            <description>Lex escalates his game against Superman.</description>
+            <itunes:subtitle>Lex escalates his game against Superman.</itunes:subtitle>
+            <itunes:summary>Lex escalates his game against Superman.</itunes:summary>
+            <itunes:author>Steven Zuber</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_Superman_002.mp3" length="100364418" type="audio/mpeg" />
+            <itunes:duration>2:15:26</itunes:duration>
+        </item>
         <item>
             <title>[MM] Chapter 4</title>
             <link>https://hpmorpodcast.com/?p=1785</link>
@@ -60,7 +118,7 @@
                 <hr />
                 <p>Next episode we will be covering chapters 3 and 4.</p>
                 <hr />
-                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found on <a href="https://hpmorpodcast.com">the website</a>.</p>
             ]]></content:encoded>
             <description>In this episode we dive into the world of 1930s Metropolis, where a strange man in a shiny suit has appeared from nowhere and begins thwarting violent crimes!</description>
             <itunes:subtitle>In this episode we dive into the world of 1930s Metropolis, where a strange man in a shiny suit has appeared from nowhere and begins thwarting violent crimes!</itunes:subtitle>
