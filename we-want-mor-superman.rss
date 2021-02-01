@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 25 Jan 2021 10:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 01 Feb 2021 10:30:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,25 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+        <item>
+            <title>Chapters 5–6</title>
+            <link>https://hpmorpodcast.com/?p=2745</link>
+            <guid isPermaLink="true">https://hpmorpodcast.com/?p=2745</guid>
+            <pubDate>Mon, 01 Feb 2021 08:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                <p>Superman has a day job.</p>
+                <hr />
+                <p>Next episode we will be covering chapters 7 and 8.</p>
+                <hr />
+                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found earlier in this podcast feed and on <a href="https://hpmorpodcast.com">the website</a>.</p>
+            ]]></content:encoded>
+            <description>Superman has a day job.</description>
+            <itunes:subtitle>Superman has a day job.</itunes:subtitle>
+            <itunes:summary>Superman has a day job.</itunes:summary>
+            <itunes:author>Steven Zuber</itunes:author>
+            <itunes:duration>1:43:10</itunes:duration>
+            <enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_Superman_003.mp3" length="77086505" type="audio/mpeg" />
+        </item>
         <item>
             <title>Chapters 3–4</title>
             <link>https://hpmorpodcast.com/?p=2743</link>
