@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 08 Feb 2021 18:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 15 Feb 2021 08:35:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon + Eneasz Brodski</itunes:author>
@@ -24,6 +24,55 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+        <item>
+            <title>[MM] Chapter 12</title>
+            <link>https://hpmorpodcast.com/?p=1891</link>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1891</guid>
+            <pubDate>Mon, 15 Feb 2021 08:30:00 +0000</pubDate>
+            <content:encoded><![CDATA[<p>Finale</p><p><a href="https://www.fanfiction.net/s/10360716/12/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>Finale</description>
+            <itunes:subtitle>Finale</itunes:subtitle>
+            <itunes:summary>Finale</itunes:summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_15.mp3" length="49056937" type="audio/mpeg" />
+            <itunes:duration>34:04</itunes:duration>
+        </item>
+        <item>
+            <title>[MM] Chapter 11 (part 2)</title>
+            <link>https://hpmorpodcast.com/?p=1885</link>
+            <guid isPermalink="true">https://hpmorpodcast.com/?p=1885</guid>
+            <pubDate>Mon, 15 Feb 2021 08:15:00 +0000</pubDate>
+            <content:encoded><![CDATA[<p>Actions and Consequences</p><p><a href="https://www.fanfiction.net/s/10360716/11/The-Metropolitan-Man">Original Text</a></p>]]></content:encoded>
+            <description>Actions and Consequences</description>
+            <itunes:subtitle>Actions and Consequences</itunes:subtitle>
+            <itunes:summary>Actions and Consequences</itunes:summary>
+            <itunes:author>Eneasz Bordski</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/p/www.hpmorpodcast.com/wp-content/uploads/episodes/MM_Ep_14.mp3" length="30064146" type="audio/mpeg" />
+            <itunes:duration>20:52</itunes:duration>
+        </item>
+        <item>
+            <title>[WWM Superman] Chapters 9–10</title>
+            <link>https://hpmorpodcast.com/?p=2753</link>
+            <guid isPermaLink="true">https://hpmorpodcast.com/?p=2753</guid>
+            <pubDate>Mon, 15 Feb 2021 08:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                <p>Uh oh. Someone has gone and killed Martha Kent. I&#8217;m sure Superman will take it well.</p>
+                <hr />
+                <p>Next episode we will be covering chapters 11 and 12.</p>
+                <hr />
+                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found on <a href="https://hpmorpodcast.com">the website</a>.</p>
+                <hr />
+                <p><em>We Want MoR Superman</em> feed: <a class="anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB" tabindex="0" title="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss" role="button" href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss" target="_blank" rel="noreferrer noopener">https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss</a></p>
+                <p><em>We Want MoR Superman + Audiobook</em> feed: <a class="anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB" tabindex="0" title="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss" role="button" href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss" target="_blank" rel="noreferrer noopener">https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss</a></p>
+                <p>Thanks Coy!</p>
+            ]]></content:encoded>
+            <description>Uh oh. Someone has gone and killed Martha Kent. I’m sure Superman will take it well.</description>
+            <itunes:subtitle>Uh oh. Someone has gone and killed Martha Kent. I’m sure Superman will take it well.</itunes:subtitle>
+            <itunes:summary>Uh oh. Someone has gone and killed Martha Kent. I’m sure Superman will take it well.</itunes:summary>
+            <itunes:author>Steven Zuber</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_Superman_005.mp3" length="77606924" type="audio/mpeg" />
+            <itunes:duration>1:43:48</itunes:duration>
+        </item>
         <item>
             <title>[MM] Chapter 10 (part 2) &#038; Chapter 11 (part 1)</title>
             <link>https://hpmorpodcast.com/?p=1873</link>
