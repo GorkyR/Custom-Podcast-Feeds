@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales! Steven will play the role of the tour guide while doing his best to not spoil any of the surprises and Brian will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 22 Feb 2021 10:30:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 01 Mar 2021 08:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a short adventure into another Rational Fic — The Metropolitan Man, by Alexander Wales!</itunes:summary>
 		<itunes:author>Steven Zuber &amp; Brian Deacon</itunes:author>
@@ -24,6 +24,29 @@
 		</itunes:category>
 		<itunes:explicit>no</itunes:explicit>
 
+        <item>
+            <title>Chapter 13 (Final)</title>
+            <link>https://hpmorpodcast.com/?p=2759</link>
+            <guid isPermaLink="true">https://hpmorpodcast.com/?p=2759</guid>
+            <pubDate>Mon, 01 Mar 2021 08:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                <p>Lex makes his decision for all of humanity.</p>
+                <hr />
+                <p>Thank you for listening everyone! We had a lot fun doing this. :)</p>
+                <hr />
+                <p>Original chapters, written by Alexander Wales, can be read <a href="https://www.hpmor.com/">here</a> or on fanfiction.net and the audiobook chapters, recorded by Eneasz Brodski, can be found on <a href="https://hpmorpodcast.com">the website</a>.</p>
+                <hr />
+                <p><em>We Want MoR Superman</em> feed: <a class="anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB" tabindex="0" title="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss" role="button" href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss" target="_blank" rel="noreferrer noopener">https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman.rss</a></p>
+                <p><em>We Want MoR Superman + Audiobook</em> feed: <a class="anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB" tabindex="0" title="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss" role="button" href="https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss" target="_blank" rel="noreferrer noopener">https://gorkyr.github.io/Custom-Podcast-Feeds/we-want-mor-superman-audiobook.rss</a></p>
+                <p>Thanks Coy!</p>
+            ]]></content:encoded>
+            <description>Lex makes his decision for all of humanity.</description>
+            <itunes:subtitle>Lex makes his decision for all of humanity.</itunes:subtitle>
+            <itunes:summary>Lex makes his decision for all of humanity.</itunes:summary>
+            <itunes:author>Steven Zuber</itunes:author>
+            <enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/WWMoR_Superman_007.mp3" length="83082391" type="audio/mpeg" />
+            <itunes:duration>1:48:05</itunes:duration>
+        </item>
         <item>
             <title>Chapters 11–12</title>
             <link>https://hpmorpodcast.com/?p=2757</link>
