@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>Not Everything is a Clue</title>
+		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
+		<link>http://www.hpmorpodcast.com</link>
+		<description>Join Eneasz and Steven for a very, very long adventure into another Rationali Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
+		<lastBuildDate>Mon, 29 Mar 2021 07:00:00 +0000</lastBuildDate>
+		<language>en-US</language>
+		<itunes:summary>Join Steven and Brian for a very, very long adventure into another Rational Fic — Worth the Candle, by Alexander Wales!</itunes:summary>
+		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
+		<image>
+			<title>Not Everything is a Clue</title>
+			<url>https://i.imgur.com/CiaYGzR.png</url>
+			<link>http://www.hpmorpodcast.com</link>
+		</image>
+		<itunes:image href="https://i.imgur.com/CiaYGzR.png"/>
+		<itunes:category text="Arts">
+			<itunes:category Text="Books"/>
+		</itunes:category>
+		<itunes:explicit>yes</itunes:explicit>
+
+		<item>
+			<title>Chapters 6–8</title>
+			<link>https://hpmorpodcast.com/?p=2782</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2782</guid>
+			<pubDate>Mon, 29 Mar 2021 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Chapters 6-8: A Hell of a Revelation</p>
+				<p>For next week — Chapters 9-12.</p>
+				<p>Lindsey Ellis's video about <a href="https://www.youtube.com/watch?v=tKyrUMUervU&amp;ab_channel=LindsayEllis">Megan Fox's Transformers character as written vs as filmed</a></p>
+				<p><a href="https://forums.giantitp.com/showthread.php?523335-The-Peasant-Railgun">The Peasant-Powered Railgun</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>A Hell of a Revelation.</description>
+			<itunes:subtitle>A Hell of a Revelation.</itunes:subtitle>
+			<itunes:summary>A Hell of a Revelation.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_004.mp3" length="250919078" type="audio/mpeg" />
+			<itunes:duration>2:54:15</itunes:duration>
+		</item>
+		<item>
+			<title>Chapters 3–5</title>
+			<link>https://hpmorpodcast.com/?p=2775</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2775</guid>
+			<pubDate>Mon, 22 Mar 2021 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Chapters 3-5: First Blood</p>
+				<p>For next week &#8212; Chapters 6-8.</p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven's Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>First Blood.</description>
+			<itunes:subtitle>First Blood.</itunes:subtitle>
+			<itunes:summary>First Blood.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_003.mp3" length="211288397" type="audio/mpeg" />
+			<itunes:duration>2:26:44</itunes:duration>
+		</item>
+		<item>
+			<title>Chapters 1–2</title>
+			<link>https://hpmorpodcast.com/?p=2771</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2771</guid>
+			<pubDate>Mon, 15 Mar 2021 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p><strong>Chapters 1 – 2: Quest Accepted</strong></p>
+				<p>Steven <a href="https://youtu.be/e1AcYRN-_Lw">mentioned this video</a></p>
+				<p><a href="https://hpmorpodcast.com/wp-content/uploads/Princess-Lana.jpg"><img loading="lazy" class="size-full wp-image-2772 alignleft" src="https://hpmorpodcast.com/wp-content/uploads/Princess-Lana.jpg" alt="" width="280" height="525" srcset="https://hpmorpodcast.com/wp-content/uploads/Princess-Lana.jpg 280w, https://hpmorpodcast.com/wp-content/uploads/Princess-Lana-160x300.jpg 160w, https://hpmorpodcast.com/wp-content/uploads/Princess-Lana-187x350.jpg 187w, https://hpmorpodcast.com/wp-content/uploads/Princess-Lana-80x150.jpg 80w" sizes="(max-width: 280px) 100vw, 280px" /></a>Apparently the Captain Nintendo Princess was a brunette! All this time she's been a redhead in Eneasz's memory.</p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>Quest Accepted.</description>
+			<itunes:subtitle>Quest Accepted.</itunes:subtitle>
+			<itunes:summary>Quest Accepted.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_002.mp3" length="203767639" type="audio/mpeg" />
+			<itunes:duration>2:21:30</itunes:duration>
+		</item>
+		<item>
+			<title>Intro Hype!</title>
+			<link>https://hpmorpodcast.com/?p=2767</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2767</guid>
+			<pubDate>Mon, 08 Mar 2021 08:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Steven's next analysis podcast will be reading Alexander Wales's "Worth The Candle" with Eneasz Brodski. They prepare their eyeballs for the mission ahead, and let everyone know the first target is Chapters 1 &amp; 2.</p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>Steven's next analysis podcast will be reading Alexander Wales's "Worth The Candle" with Eneasz Brodski.</description>
+			<itunes:subtitle>Steven's next analysis podcast will be reading Alexander Wales's "Worth The Candle" with Eneasz Brodski.</itunes:subtitle>
+			<itunes:summary>Steven's next analysis podcast will be reading Alexander Wales's "Worth The Candle" with Eneasz Brodski.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_001.mp3" length="73708034" type="audio/mpeg" />
+			<itunes:duration>51:11</itunes:duration>
+		</item>
+	</channel>
+</rss>
