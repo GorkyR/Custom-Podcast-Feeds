@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationali Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 17 May 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 24 May 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a very, very long adventure into another Rational Fic — Worth the Candle, by Alexander Wales!</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 34–36</title>
+			<link>https://hpmorpodcast.com/?p=2821</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2821</guid>
+			<pubDate>Mon, 24 May 2021 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Chapters 34-36: If You Choose Torture Over Dust Specks But Then Rewind Time, Did It Really Make A Sound?</p>
+				<p>Mentioned on show: <a href="https://yudkowsky.tumblr.com/writing">Yudkowsky's Guide to Writing Intelligent Characters</a>, <span data-offset-key="9988v-2-0">a </span><a class="_4X_-components-SimpleRichTextEditor-components-LinkSpan--linkSpan" href="https://en.wikipedia.org/wiki/Bearded_axe"><span data-offset-key="9988v-3-0">Bearded Axe</span></a><span data-offset-key="9988v-4-0">, </span>and Eminem's <a href="https://youtu.be/aSLZFdqwh7E?t=52">Stan</a></p>
+				<p>For next week — Chapters 37-40</p>
+				<p>37. Paths<br />
+				38. Don't Split the Party<br />
+				39. Strategic Reserves<br />
+				40. The Feminine Mystique</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>If You Choose Torture Over Dust Specks But Then Rewind Time, Did It Really Make A Sound?.</description>
+			<itunes:subtitle>If You Choose Torture Over Dust Specks But Then Rewind Time, Did It Really Make A Sound?.</itunes:subtitle>
+			<itunes:summary>If You Choose Torture Over Dust Specks But Then Rewind Time, Did It Really Make A Sound?.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_012.mp3" length="279286804" type="audio/mpeg" />
+			<itunes:duration>3:13:57</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 30–33</title>
 			<link>https://hpmorpodcast.com/?p=2814</link>
