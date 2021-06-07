@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationali Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 31 May 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 07 Jun 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a very, very long adventure into another Rational Fic — Worth the Candle, by Alexander Wales!</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,30 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 41–44</title>
+			<link>https://hpmorpodcast.com/?p=2831</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2831</guid>
+			<pubDate>Mon, 07 Jun 2021 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Chapters 41-44: Wherein Zencastr records from the wrong microphone for Eneasz, despite saying it's the right one, and Eneasz's audio sounds like shit for the whole episode. :( Sorry guys.</p>
+				<p>For next week — Chapters 45-48</p>
+				<p>45. Keep Magic Weird<br />
+				46. The Market of Blood and Bone<br />
+				47. At Arm's Length<br />
+				48. Doe or Doe Not, There is no Try</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>Wherein Zencastr records from the wrong microphone for Eneasz, despite saying it's the right one, and Eneasz's audio sounds like shit for the whole episode.</description>
+			<itunes:subtitle>Wherein Zencastr records from the wrong microphone for Eneasz, despite saying it's the right one, and Eneasz's audio sounds like shit for the whole episode.</itunes:subtitle>
+			<itunes:summary>Wherein Zencastr records from the wrong microphone for Eneasz, despite saying it's the right one, and Eneasz's audio sounds like shit for the whole episode.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_014.mp3" length="265613896" type="audio/mpeg" />
+			<itunes:duration>3:04:27</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 37–40</title>
 			<link>https://hpmorpodcast.com/?p=2824</link>
