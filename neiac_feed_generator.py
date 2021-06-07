@@ -5,6 +5,7 @@ item_pattern = regex(r'<item>([\s\S]+?)</item>')
 property_pattern = regex(r'<([\w:]+?)(\s.+?)?>([\s\S]+?)</\1>')
 enclosure_pattern = regex(r'<enclosure .+?/>')
 chapter_pattern = regex(r'[Cc]h (\d+)[-–](\d+)')
+desc_chapter_pattern = regex(r'[Cc]hapter(s?) \d+\s?[-–]\s?\d+:[^\.]+')
 desc_pattern = regex(r'^[Cc]hapter(s?) \d+\s?[-–]\s?\d+: ')
 
 hpmor_feed = http_get('https://hpmorpodcast.com/?feed=rss2').text\
@@ -30,7 +31,12 @@ def episode_to_rss(episode):
 	title = f"Chapters {chapters[0]}–{chapters[1]}" if chapters else title
 
 	description_paragraphs = [p[2] for p in property_pattern.findall(episode['content:encoded']) if p[0] == 'p']
-	description = property_pattern.sub(r'\3', description_paragraphs[0]).split('.')[0]
+	cleaned_paragraph = property_pattern.sub(r'\3', description_paragraphs[0])
+	description = desc_chapter_pattern.search(cleaned_paragraph)
+	if description:
+		description = description[0]
+	else:
+		description = cleaned_paragraph.split('.')[0]
 	description = desc_pattern.sub('', description)
 
 	encoded = '\n\t\t\t\t'.join([ l.strip(' \t') for l in episode['content:encoded'].split('\n') ])
