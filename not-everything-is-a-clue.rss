@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationali Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 14 Jun 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 21 Jun 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a very, very long adventure into another Rational Fic — Worth the Candle, by Alexander Wales!</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 49–52</title>
+			<link>https://hpmorpodcast.com/?p=2836</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2836</guid>
+			<pubDate>Mon, 21 Jun 2021 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Chapters 49-50: Gaming God</p>
+				<p>For next week — Chapters 53-55 &amp; The Council of Arches</p>
+				<p>53. A Tiptoe Through the Tulips<br />
+				54. Looper<br />
+				55. Bond Girl<br />
+				<a href="https://archiveofourown.org/works/14777618/chapters/34177826">The Council of Arches</a></p>
+				<p><a href="https://www.youtube.com/watch?v=ILQD5IZ0gjA&amp;ab_channel=TheChakkim">Samson + Jawbone VS 1,000 Dudes</a></p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>Gaming God.</description>
+			<itunes:subtitle>Gaming God.</itunes:subtitle>
+			<itunes:summary>Gaming God.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_016.mp3" length="221662980" type="audio/mpeg" />
+			<itunes:duration>2:33:56</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 45–48</title>
 			<link>https://hpmorpodcast.com/?p=2834</link>
