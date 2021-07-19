@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationali Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 12 Jul 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 19 Jul 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a very, very long adventure into another Rational Fic — Worth the Candle, by Alexander Wales!</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 64–67</title>
+			<link>https://hpmorpodcast.com/?p=2850</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2850</guid>
+			<pubDate>Mon, 19 Jul 2021 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Chapters 64-67: What Are The Rules?</p>
+				<p>The <a href="https://www.thebayesianconspiracy.com/2018/07/63-rational-fiction/">Rational Fiction episode</a> of The Bayesian Conspiracy</p>
+				<p>For next week — 68-71</p>
+				<p>68. Seeing Red<br />
+				69. In Mutual Congress<br />
+				70. Moral Agency<br />
+				71. The Soul of Discretion</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>What Are The Rules?.</description>
+			<itunes:subtitle>What Are The Rules?.</itunes:subtitle>
+			<itunes:summary>What Are The Rules?.</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_020.mp3" length="256079411" type="audio/mpeg" />
+			<itunes:duration>2:57:50</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 60–63</title>
 			<link>https://hpmorpodcast.com/?p=2847</link>
