@@ -1,12 +1,12 @@
 from requests import get as http_get
 from re import compile as regex
 
-item_pattern = regex(r'<item>([\s\S]+?)</item>')
-property_pattern = regex(r'<([\w:]+?)(\s.+?)?>([\s\S]+?)</\1>')
-enclosure_pattern = regex(r'<enclosure .+?/>')
-chapter_pattern = regex(r'[Cc]h (\d+)[-–](\d+)')
+item_pattern         = regex(r'<item>([\s\S]+?)</item>')
+property_pattern     = regex(r'<([\w:]+?)(\s.+?)?>([\s\S]+?)</\1>')
+enclosure_pattern    = regex(r'<enclosure .+?/>')
+chapter_pattern      = regex(r'[Cc]h (\d+)[-–](\d+)')
 desc_chapter_pattern = regex(r'[Cc]hapter(s?) \d+\s?[-–]\s?\d+:[^\.]+')
-desc_pattern = regex(r'^[Cc]hapter(s?) \d+\s?[-–]\s?\d+: ')
+desc_pattern         = regex(r'^[Cc]hapter(s?) \d+\s?[-–]\s?\d+: ')
 
 hpmor_feed = http_get('https://hpmorpodcast.com/?feed=rss2').text\
 	.replace('&#8211;', '–')\
@@ -24,7 +24,7 @@ def rss_to_episode(item_xml):
 feed_episodes = [ rss_to_episode(item) for item in item_pattern.findall(hpmor_feed) ]
 neiac_episodes = [ episode for episode in feed_episodes if ('Not Everything Is A Clue'.lower() in episode['title'].lower()) ]
 
-def episode_to_rss(episode):
+def neiac_episode_to_rss(episode):
 	title = episode['title'][len('Not Everything is a Clue'):].strip(' -–')
 	chapters = chapter_pattern.findall(title)
 	chapters = chapters[0] if chapters else None
@@ -49,9 +49,9 @@ def episode_to_rss(episode):
 			<guid isPermalink="true">{episode['guid']}</guid>
 			<pubDate>{episode['pubDate'][:-12]}:00:00 +0000</pubDate>
 			<content:encoded>{encoded}</content:encoded>
-			<description>{description}.</description>
-			<itunes:subtitle>{description}.</itunes:subtitle>
-			<itunes:summary>{description}.</itunes:summary>
+			<description>{description}</description>
+			<itunes:subtitle>{description}</itunes:subtitle>
+			<itunes:summary>{description}</itunes:summary>
 			<itunes:author>Eneasz Brodski</itunes:author>
 			{episode['enclosure']}
 			<itunes:duration>{episode['itunes:duration']}</itunes:duration>
@@ -87,7 +87,7 @@ feed = f"""
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
-{new_line.join((episode_to_rss(episode) for episode in neiac_episodes))}
+{new_line.join((neiac_episode_to_rss(episode) for episode in neiac_episodes))}
 	</channel>
 </rss>
 """.strip('\n')
