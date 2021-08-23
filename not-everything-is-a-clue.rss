@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationali Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 16 Aug 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 23 Aug 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Steven and Brian for a very, very long adventure into another Rational Fic — Worth the Candle, by Alexander Wales!</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,35 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 84–88</title>
+			<link>https://hpmorpodcast.com/?p=2871</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2871</guid>
+			<pubDate>Mon, 23 Aug 2021 07:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[
+				<p>Chapters 84-88: Descent</p>
+				<p><a href="https://www.drivethrurpg.com/m/product/225287">Thomas Elliot's translations of The Enchiridion of Epictetus</a></p>
+				<p><a href="https://youtu.be/lCzxwcBZFuI">Ron's Not Dumb video</a></p>
+				<p><a href="https://www.yudkowsky.net/other/fiction/the-sword-of-good">Sword of Good</a> (and <a href="https://hpmorpodcast.com/?p=1113">audio</a> in <a href="https://hpmorpodcast.com/?p=1121">two parts</a>)</p>
+				<p><a href="https://www.youtube.com/watch?v=21iw4zEvUHM&amp;ab_channel=ScienceChannel">MythBusters kick down doors</a></p>
+				<p><a href="https://deathisbadblog.com/the-grasping-hands-of-dead-worlds/">Worldbuilding is Important blog post</a></p>
+				<p>For next week — 89-92</p>
+				<p>89. The Face of a Place<br />
+				90. Head of House<br />
+				91. An Open House<br />
+				92. Shades</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></content:encoded>
+			<description>Descent</description>
+			<itunes:subtitle>Descent</itunes:subtitle>
+			<itunes:summary>Descent</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_025.mp3" length="224689213" type="audio/mpeg" />
+			<itunes:duration>2:36:02</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 80–83</title>
 			<link>https://hpmorpodcast.com/?p=2864</link>
