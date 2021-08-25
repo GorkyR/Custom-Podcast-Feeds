@@ -48,8 +48,7 @@ def neiac_episode_to_rss(episode):
 			<link>{episode['guid']}</link>
 			<guid isPermalink="true">{episode['guid']}</guid>
 			<pubDate>{episode['pubDate'][:-12]}:00:00 +0000</pubDate>
-			<content:encoded>{encoded}</content:encoded>
-			<description>{description}</description>
+			<description>{encoded}</description>
 			<itunes:subtitle>{description}</itunes:subtitle>
 			<itunes:summary>{description}</itunes:summary>
 			<itunes:author>Eneasz Brodski</itunes:author>
@@ -71,10 +70,10 @@ feed = f"""
 		<title>Not Everything is a Clue</title>
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
-		<description>Join Eneasz and Steven for a very, very long adventure into another Rationali Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
+		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
 		<lastBuildDate>{neiac_episodes[0]['pubDate'][:-12]}:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
-		<itunes:summary>Join Steven and Brian for a very, very long adventure into another Rational Fic — Worth the Candle, by Alexander Wales!</itunes:summary>
+		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
 		<image>
 			<title>Not Everything is a Clue</title>
