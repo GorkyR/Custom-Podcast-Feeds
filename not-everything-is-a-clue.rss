@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 30 Aug 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 06 Sep 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,33 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 93–96</title>
+			<link>https://hpmorpodcast.com/?p=2880</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2880</guid>
+			<pubDate>Mon, 06 Sep 2021 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 93-96: Murder-Ghandi Rides Again!</p>
+				<p><a href="https://player.fm/series/shaping-exercises-101">Shaping Exercises podcast</a> (or <a href="https://gorkyr.github.io/ShapingExercises101Podcast/shaping-exercises-101.rss">direct RSS</a>)</p>
+				<p><a href="https://www.lesswrong.com/posts/Kbm6QnJv9dgWsPHQP/schelling-fences-on-slippery-slopes">The Legend of Murder-Ghandi</a></p>
+				<p><a href="https://slatestarcodex.com/2016/07/25/how-the-west-was-won/">How The West Was Won</a></p>
+				<p><a href="https://dykestowatchoutfor.com/wp-content/uploads/2014/05/The-Rule-cleaned-up.jpg">The Bechdel Test origin comic</a></p>
+				<p>For next week — 97-100</p>
+				<p>97. Rapping at my Chamber Door<br />
+				98. Letter 15<br />
+				99. Enough Rope to Hang Yourself<br />
+				100. Immanentizing the Eschaton</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Murder-Ghandi Rides Again!</itunes:subtitle>
+			<itunes:summary>Murder-Ghandi Rides Again!</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_027.mp3" length="325734817" type="audio/mpeg" />
+			<itunes:duration>3:46:12</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 89–92</title>
 			<link>https://hpmorpodcast.com/?p=2877</link>
