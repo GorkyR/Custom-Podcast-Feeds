@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 13 Sep 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 20 Sep 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,25 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 101–104</title>
+			<link>https://hpmorpodcast.com/?p=2885</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2885</guid>
+			<pubDate>Mon, 20 Sep 2021 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 101-104: The Men in Black take an interest in our murderhobos, and Ninjas take over the podcast</p>
+				<p>For next week — Our First Retrospective! With Griffin and Coy/Gorky from the <a href="https://discord.gg/JXSBd8buND">Discord</a> &amp; <a href="https://player.fm/series/shaping-exercises-101">Shaping Exercises 101</a></p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>The Men in Black take an interest in our murderhobos, and Ninjas take over the podcast</itunes:subtitle>
+			<itunes:summary>The Men in Black take an interest in our murderhobos, and Ninjas take over the podcast</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_029.mp3" length="115056117" type="audio/mpeg" />
+			<itunes:duration>2:39:48</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 97–100</title>
 			<link>https://hpmorpodcast.com/?p=2882</link>
