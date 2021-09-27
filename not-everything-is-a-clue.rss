@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 20 Sep 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 27 Sep 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,29 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Books 1 – 5 Retrospective</title>
+			<link>https://hpmorpodcast.com/?p=2889</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2889</guid>
+			<pubDate>Mon, 27 Sep 2021 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>We look back on books 1-5 with Gorky (formerly Coy) and Griffin of <a href="https://player.fm/series/shaping-exercises-101">Shaping Exercises 101</a></p>
+				<p>For next week — 105-108</p>
+				<p>105. Notes<br />
+				106. The One-Hand Warder<br />
+				107. Name of the Beast<br />
+				108. The Dream That Skewers</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>We look back on books 1-5 with Gorky (formerly Coy) and Griffin of Shaping Exercises 101</itunes:subtitle>
+			<itunes:summary>We look back on books 1-5 with Gorky (formerly Coy) and Griffin of Shaping Exercises 101</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_030.mp3" length="102786612" type="audio/mpeg" />
+			<itunes:duration>2:22:46</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 101–104</title>
 			<link>https://hpmorpodcast.com/?p=2885</link>
