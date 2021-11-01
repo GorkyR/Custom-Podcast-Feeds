@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 25 Oct 2021 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 01 Nov 2021 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,32 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 121–124</title>
+			<link>https://hpmorpodcast.com/?p=2937</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2937</guid>
+			<pubDate>Mon, 01 Nov 2021 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 121-124: Who Wore It Best, Nihilism Edition &#8212; Fight Club Guy, Joon, or Lebowski Nihilists?</p>
+				<p>Esther Povitsky on how <a href="https://www.youtube.com/watch?v=QjohhpGIh8A&amp;ab_channel=ComedyCentralStand-Up">18-Year-Old Girls Are Disgusting</a></p>
+				<p>Link to Roots of Progress episode appears here on Wednesday.</p>
+				<p><a href="https://www.youtube.com/watch?v=oZWNGq70Oyo&amp;ab_channel=PassionoftheNerd">Don't watch the Buffy Remastered Edition, here's why</a></p>
+				<p>For next week — 125-128</p>
+				<p>125. The Remnants of the Past<br />
+				126. Ever Onward<br />
+				127. Full House<br />
+				128. An Open Book</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Who Wore It Best, Nihilism Edition &#8212; Fight Club Guy, Joon, or Lebowski Nihilists?</itunes:subtitle>
+			<itunes:summary>Who Wore It Best, Nihilism Edition &#8212; Fight Club Guy, Joon, or Lebowski Nihilists?</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_035.mp3" length="134915030" type="audio/mpeg" />
+			<itunes:duration>3:07:23</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 117–120</title>
 			<link>https://hpmorpodcast.com/?p=2934</link>
