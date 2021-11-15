@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 08 Nov 2021 08:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 15 Nov 2021 08:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,36 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 129–132</title>
+			<link>https://hpmorpodcast.com/?p=2943</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2943</guid>
+			<pubDate>Mon, 15 Nov 2021 08:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 129-132: Is that an infohazard in your underwear, or are you just happy to see me?</p>
+				<p><a href="https://rustyquill.com/the-magnus-archives/">The Magnus Archives</a></p>
+				<p><a href="https://player.fm/series/shaping-exercises-101">Shaping Exercises, the Mother of Learning podcast</a></p>
+				<p><a href="https://twitter.com/uberfacts/status/1115076044036423681?lang=en">Waluigi is a pun</a></p>
+				<p><a href="https://intelligence.org/">MIRI</a></p>
+				<p>The <a href="https://www.lesswrong.com/posts/dWTEtgBfFaz6vjwQf/ethical-injunctions">Nazi nuclear program stopped by sinking a ferry</a></p>
+				<p><a href="https://undertale.com/">Undertale</a></p>
+				<p><a href="https://amzn.to/3bDnZkT">The First Fifteen Lives of Harry August</a></p>
+				<p>For next week — 133-136</p>
+				<p>133. The Critical Path<br />
+				134. Safe Mode<br />
+				135. Holding<br />
+				136. Krinrael</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Is that an infohazard in your underwear, or are you just happy to see me?</itunes:subtitle>
+			<itunes:summary>Is that an infohazard in your underwear, or are you just happy to see me?</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_037.mp3" length="97041345" type="audio/mpeg" />
+			<itunes:duration>2:14:47</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 125–128</title>
 			<link>https://hpmorpodcast.com/?p=2941</link>
