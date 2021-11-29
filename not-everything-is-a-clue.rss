@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 22 Nov 2021 08:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 29 Nov 2021 08:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 137–139</title>
+			<link>https://hpmorpodcast.com/?p=2949</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2949</guid>
+			<pubDate>Mon, 29 Nov 2021 08:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 137-139: And you thought this would be a shorter episode</p>
+				<p><a href="https://www.youtube.com/watch?v=dMG30Mt0tPU&amp;ab_channel=ScreenJunkies">Ted Lasso Honest Trailer</a></p>
+				<p><a href="https://www.youtube.com/watch?v=RexjMg6Eww4&amp;t=2s&amp;ab_channel=JoelHaver">Zombie Movies That Refuse to Say "Zombie"</a></p>
+				<p>For next week — 140-143</p>
+				<p>140. Commingling<br />
+				141. Monty Haul<br />
+				142. Sound and Silence<br />
+				143. Manifold Paths</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>And you thought this would be a shorter episode</itunes:subtitle>
+			<itunes:summary>And you thought this would be a shorter episode</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_039.mp3" length="107612160" type="audio/mpeg" />
+			<itunes:duration>2:29:28</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 133–136</title>
 			<link>https://hpmorpodcast.com/?p=2946</link>
