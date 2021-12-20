@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 13 Dec 2021 08:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 20 Dec 2021 08:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,30 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 147–149</title>
+			<link>https://hpmorpodcast.com/?p=2957</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2957</guid>
+			<pubDate>Mon, 20 Dec 2021 08:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 147-149: Handjobs Are My Headcanon</p>
+				<p><a href="https://visitpalisade.com/orchards-and-farms/">Palisade Peaches</a></p>
+				<p><a href="https://www.youtube.com/watch?v=TWjLPIWdDws&amp;ab_channel=TISMBand">Everyone Else Has Had More Sex Than Me</a></p>
+				<p>For next week — 150-152</p>
+				<p>150. Than One Innocent Suffer<br />
+				151. The Mind's Eye<br />
+				152. The Time to Talk</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Handjobs Are My Headcanon</itunes:subtitle>
+			<itunes:summary>Handjobs Are My Headcanon</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_042.mp3" length="99082658" type="audio/mpeg" />
+			<itunes:duration>2:17:37</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 144–146</title>
 			<link>https://hpmorpodcast.com/?p=2954</link>
