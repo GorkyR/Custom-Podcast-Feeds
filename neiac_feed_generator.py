@@ -53,7 +53,7 @@ def neiac_episode_to_rss(episode):
 			<itunes:summary>{description}</itunes:summary>
 			<itunes:author>Eneasz Brodski</itunes:author>
 			{episode['enclosure']}
-			<itunes:duration>{episode['itunes:duration']}</itunes:duration>
+			<itunes:duration>{episode['itunes:duration'] if 'itunes:duration' in episode else ''}</itunes:duration>
 		</item>
 """.strip('\n')
 
