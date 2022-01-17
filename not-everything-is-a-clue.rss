@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 10 Jan 2022 08:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 17 Jan 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 160–162</title>
+			<link>https://hpmorpodcast.com/?p=2968</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2968</guid>
+			<pubDate>Mon, 17 Jan 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 160-162: C-C-C-C-COMBO BREAKER!</p>
+				<p><a href="https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/">SSC – Book Review: The Secret Of Our Success</a></p>
+				<p><a href="https://deathisbadblog.com/matrix-resurrections-is-mid-life-crisis-perfection/">Matrix Resurrections is mid-life crisis perfection</a></p>
+				<p>For next week — 163-166</p>
+				<p>163. Level Heads<br />
+				164. In the House of God<br />
+				165. Politics, blah, blah, blah<br />
+				166. Brownian Motion</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>C-C-C-C-COMBO BREAKER!</itunes:subtitle>
+			<itunes:summary>C-C-C-C-COMBO BREAKER!</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_046.mp3" length="5242880" type="audio/mpeg" />
+			<itunes:duration></itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 156–159</title>
 			<link>https://hpmorpodcast.com/?p=2965</link>
