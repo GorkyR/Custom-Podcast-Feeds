@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 21 Feb 2022 08:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 28 Feb 2022 08:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 174–176</title>
+			<link>https://hpmorpodcast.com/?p=2982</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2982</guid>
+			<pubDate>Mon, 28 Feb 2022 08:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 174-176: A Chill Week At The Pod</p>
+				<p><a href="https://alexanderwales.com/world-building-missing-persons/">The Lost City of Potyr</a></p>
+				<p><a href="https://hpmorpodcast.com/wp-content/uploads/socrates-argument.png"><img loading="lazy" class="wp-image-2983 size-medium alignnone" src="https://hpmorpodcast.com/wp-content/uploads/socrates-argument-300x285.png" alt="" width="300" height="285" srcset="https://hpmorpodcast.com/wp-content/uploads/socrates-argument-300x285.png 300w, https://hpmorpodcast.com/wp-content/uploads/socrates-argument-369x350.png 369w, https://hpmorpodcast.com/wp-content/uploads/socrates-argument-150x142.png 150w, https://hpmorpodcast.com/wp-content/uploads/socrates-argument.png 666w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+				<p>For next week — 177-180</p>
+				<p>177. The Erstwhile Manor<br />
+				178. The White Room<br />
+				179. Hilbert's Paradox<br />
+				180. Dumbest Entad</p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>A Chill Week At The Pod</itunes:subtitle>
+			<itunes:summary>A Chill Week At The Pod</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_050.mp3" length="84727327" type="audio/mpeg" />
+			<itunes:duration>1:57:41</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 170–173</title>
 			<link>https://hpmorpodcast.com/?p=2980</link>
