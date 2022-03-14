@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 07 Mar 2022 08:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 14 Mar 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,30 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 181–184</title>
+			<link>https://hpmorpodcast.com/?p=2989</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2989</guid>
+			<pubDate>Mon, 14 Mar 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 181-184 – Seeing The Sausage (&#8230;being made)</p>
+				<p><a href="https://unsongbook.com/">Unsong</a></p>
+				<p>For next week — 185-187</p>
+				<p>185. Mirror Room<br />
+				186. Paladin<br />
+				187. Penndraig's Rules of Order</p>
+				<p><a href="https://amzn.to/3CyFE8W">Worth the Candle on Amazon (ebook and audio!)</a></p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Chapters 181-184 – Seeing The Sausage (&#8230;being made)</itunes:subtitle>
+			<itunes:summary>Chapters 181-184 – Seeing The Sausage (&#8230;being made)</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_052.mp3" length="117458233" type="audio/mpeg" />
+			<itunes:duration>2:43:08</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 177–180</title>
 			<link>https://hpmorpodcast.com/?p=2986</link>
