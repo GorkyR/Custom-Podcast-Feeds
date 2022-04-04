@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Thu, 31 Mar 2022 11:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 04 Apr 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,36 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 192–195</title>
+			<link>https://hpmorpodcast.com/?p=2999</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=2999</guid>
+			<pubDate>Mon, 04 Apr 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 192-195 – We choose to try to sympathize with, and humanize, the Fucking Penndraigs not because it is easy, but because it is hard!</p>
+				<p>Podcasts spawned from the Discord:<br />
+				<a href="https://podcastaddict.com/podcast/3307983">2 Rash 2 Unadvised</a> – read through of Ada Palmer's Terra Ignota series<br />
+				<a href="https://podcastaddict.com/podcast/3596040">Shaping Exercises 101</a> – read through of Domagoj Kurmaic's Mother of Learning serial<br />
+				<a href="https://podcastaddict.com/podcast/2533408">Uncultured Swine</a> – read through of Ian M. Banks' "The Culture" series<br />
+				<a href="https://mindkiller.substack.com/">The Mind Killer</a> – rationalist perspectives on weekly news events</p>
+				<p><a href="https://www.refinery29.com/en-us/2021/01/10247075/what-is-bean-dad-story-twitter-meaning">Bean Dad</a></p>
+				<p>For next week — 196-199</p>
+				<p>196. Notes II<br />
+				197. Second Degree<br />
+				198. Prurient Interest<br />
+				199. Nearest and Dearest</p>
+				<p><a href="https://amzn.to/3CyFE8W">Worth the Candle on Amazon (ebook and audio!)</a></p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Chapters 192-195 – We choose to try to sympathize with, and humanize, the Fucking Penndraigs not because it is easy, but because it is hard!</itunes:subtitle>
+			<itunes:summary>Chapters 192-195 – We choose to try to sympathize with, and humanize, the Fucking Penndraigs not because it is easy, but because it is hard!</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_055.mp3" length="130006413" type="audio/mpeg" />
+			<itunes:duration>3:00:34</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 188–191</title>
 			<link>https://hpmorpodcast.com/?p=2997</link>
