@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 18 Apr 2022 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 25 Apr 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 203–205</title>
+			<link>https://hpmorpodcast.com/?p=3012</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=3012</guid>
+			<pubDate>Mon, 25 Apr 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 203-205 – I Got 99 Problems, and I'm All Of Them</p>
+				<p><a href="https://www.youtube.com/watch?v=ZVV74bvNuYA&amp;ab_channel=Komatzu">Porcupine Tree – A Smart Kid</a> (song)</p>
+				<p><a href="https://robkhenderson.substack.com/p/betrayal-defection-and-the-classic?s=r">Why You Should Trust Trust and Distrust Distrust</a></p>
+				<p>For next week — 206-208</p>
+				<p>206. Parallel Lines<br />
+				207. An Elevated Monologue<br />
+				208. On the Merits of Eternal Suffering</p>
+				<p><a href="https://amzn.to/3CyFE8W">Worth the Candle on Amazon (ebook and audio!)</a></p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Chapters 203-205 – I Got 99 Problems, and I'm All Of Them</itunes:subtitle>
+			<itunes:summary>Chapters 203-205 – I Got 99 Problems, and I'm All Of Them</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_058.mp3" length="85952052" type="audio/mpeg" />
+			<itunes:duration>1:59:23</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 200–202</title>
 			<link>https://hpmorpodcast.com/?p=3007</link>
