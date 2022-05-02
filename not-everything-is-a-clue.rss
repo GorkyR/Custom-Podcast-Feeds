@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 25 Apr 2022 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 02 May 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,35 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 206–208</title>
+			<link>https://hpmorpodcast.com/?p=3016</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=3016</guid>
+			<pubDate>Mon, 02 May 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 206-208 – Hitting The Slopes</p>
+				<p><a href="https://en.wikipedia.org/wiki/BTS">BTS</a></p>
+				<p><a href="https://www.lesswrong.com/posts/TGux5Fhcd7GmTfNGC/is-that-your-true-rejection">Is That Your True Rejection?</a></p>
+				<p><a href="https://www.youtube.com/watch?v=04zaTjuV60A&amp;ab_channel=FoldingIdeas">Folding Ideas on Ludonarrative Dissonance</a></p>
+				<p><a href="https://www.lesswrong.com/posts/HawFh7RvDM4RyoJ2d/three-worlds-collide-0-8">Three Worlds Collide</a> – the story with the Super Happy aliens (<a href="https://hpmorpodcast.com/?p=1215">also in audio form</a>)</p>
+				<p>The Bayesian Conspiracy <a href="https://www.thebayesianconspiracy.com/2021/07/142-do-this/">episode on The "Do This" Directives</a></p>
+				<p>For next week — 209-212</p>
+				<p>209. Orison<br />
+				210. Push and Pull<br />
+				211. Gilding the Lily<br />
+				212. Spilled Ink</p>
+				<p><a href="https://amzn.to/3CyFE8W">Worth the Candle on Amazon (ebook and audio!)</a></p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Chapters 206-208 – Hitting The Slopes</itunes:subtitle>
+			<itunes:summary>Chapters 206-208 – Hitting The Slopes</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_059.mp3" length="103584078" type="audio/mpeg" />
+			<itunes:duration>2:23:52</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 203–205</title>
 			<link>https://hpmorpodcast.com/?p=3012</link>
