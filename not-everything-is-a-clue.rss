@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 06 Jun 2022 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jun 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,33 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 224–227</title>
+			<link>https://hpmorpodcast.com/?p=3034</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=3034</guid>
+			<pubDate>Mon, 13 Jun 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 224-227 – Packing Heat</p>
+				<p><a href="https://www.technologyreview.com/2007/10/15/223446/steve-fever/">Steve Fever text</a> (+ <a href="https://deathisbad.substack.com/p/the-unbearable-darkness-of-being-steve?s=w">Eneasz's post</a> on it)</p>
+				<p><a href="https://www.nmn.com/">Nicotinamide Mononucleotide (NMN)</a></p>
+				<p><a href="https://deathisbad.substack.com/p/matrix-resurrections-is-mid-life-crisis-perfection?s=w">Matrix Resurrections</a></p>
+				<p><a href="https://deathisbad.substack.com/p/the-grasping-hands-of-dead-worlds?s=w">Worldbuilding is super important!</a></p>
+				<p>For next week — 228-230</p>
+				<p>228. The Fel Seed Incident<br />
+				229. The Road<br />
+				230. The Palace</p>
+				<p><a href="https://amzn.to/3CyFE8W">Worth the Candle on Amazon (ebook and audio!)</a></p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Chapters 224-227 – Packing Heat</itunes:subtitle>
+			<itunes:summary>Chapters 224-227 – Packing Heat</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_064.mp3" length="117851951" type="audio/mpeg" />
+			<itunes:duration>2:43:41</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 221–223</title>
 			<link>https://hpmorpodcast.com/?p=3031</link>
