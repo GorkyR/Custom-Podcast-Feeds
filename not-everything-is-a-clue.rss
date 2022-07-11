@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 04 Jul 2022 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 11 Jul 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 237–239</title>
+			<link>https://hpmorpodcast.com/?p=3044</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=3044</guid>
+			<pubDate>Mon, 11 Jul 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 237-239 – Uther's Peen Fits In Multiple Ways</p>
+				<p><a href="http://strangehorizons.com/fiction/utopia-lol/">Utopia LOL</a></p>
+				<p><a href="https://www.hbomax.com/series/urn:hbo:series:GYf3LzwJV98JifQEAAAAO">Our Flag Means Death</a></p>
+				<p>Quirrell's Corollary to Clarke's Law: Any sufficiently advanced technique is indistinguishable from cheating</p>
+				<p>For next week — 240-242</p>
+				<p>240. The Long Haul<br />
+				241. Long Shot<br />
+				242. A Long Row to Hoe</p>
+				<p><a href="https://amzn.to/3CyFE8W">Worth the Candle on Amazon (ebook and audio!)</a></p>
+				<p><a href="https://tinyurl.com/4b4t28ck">Cakoluchiam’s stellar Character Sheet</a></p>
+				<p><a href="https://docs.google.com/spreadsheets/d/1fS6Q0YEeJ00Yk6cxpjWQHh4Dsm-M8wRewdIvhXLhiVA/edit?usp=sharing">Steven’s Predictions – Everything is a Clue</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+			]]></description>
+			<itunes:subtitle>Chapters 237-239 – Uther's Peen Fits In Multiple Ways</itunes:subtitle>
+			<itunes:summary>Chapters 237-239 – Uther's Peen Fits In Multiple Ways</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_068.mp3" length="138550961" type="audio/mpeg" />
+			<itunes:duration>3:12:26</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 234–236</title>
 			<link>https://hpmorpodcast.com/?p=3041</link>
