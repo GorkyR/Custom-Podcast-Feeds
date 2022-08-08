@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Tue, 02 Aug 2022 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 08 Aug 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,31 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 248–251</title>
+			<link>https://hpmorpodcast.com/?p=3058</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=3058</guid>
+			<pubDate>Mon, 08 Aug 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 248-251 – Being God Is A Big Responsibility</p>
+				<p><a href="https://www.youtube.com/watch?v=91qpbLhhwzw&amp;t=310s&amp;ab_channel=PitchMeeting">The power of friendship is sick!</a></p>
+				<p><a href="https://en.wikipedia.org/wiki/The_Dictionary_of_Obscure_Sorrows">The Dictionary of Obscure Sorrows</a> is sick!</p>
+				<p><a href="https://www.youtube.com/watch?v=oZWNGq70Oyo&amp;ab_channel=PassionoftheNerd">The Buffy Remaster is absolute trash</a></p>
+				<p>Peter Singer's <a href="https://www.prospectmagazine.co.uk/magazine/heavypetting">Heavy Petting</a></p>
+				<p><a href="https://www.youtube.com/watch?v=_POpCkJToEQ&amp;ab_channel=ParamountPictures">Downsizing</a></p>
+				<p>For next week — 252-254</p>
+				<p>252. The Narrator, the Angel, and the Devil<br />
+				253. Multitudes<br />
+				254. Nevermore</p>
+				<p><a href="https://amzn.to/3CyFE8W">Worth the Candle on Amazon (ebook and audio!)</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a>.</p>
+			]]></description>
+			<itunes:subtitle>Chapters 248-251 – Being God Is A Big Responsibility</itunes:subtitle>
+			<itunes:summary>Chapters 248-251 – Being God Is A Big Responsibility</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_072.mp3" length="101102654" type="audio/mpeg" />
+			<itunes:duration>2:20:25</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 246–247</title>
 			<link>https://hpmorpodcast.com/?p=3056</link>
