@@ -9,7 +9,7 @@
 		<atom:link href="https://gorkyr.github.io/Custom-Podcast-Feeds/not-everything-is-a-clue.rss" rel="self" type="application/rss+xml" />
 		<link>http://www.hpmorpodcast.com</link>
 		<description>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</description>
-		<lastBuildDate>Mon, 08 Aug 2022 07:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 15 Aug 2022 07:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:summary>Join Eneasz and Steven for a very, very long adventure into another Rationalist Fic — Worth the Candle, by Alexander Wales! Eneasz will play the role of the tour guide while doing his best to not spoil any of the surprises and Steven will play the seasoned adventurer who is new to this particular work.</itunes:summary>
 		<itunes:author>Eneasz Brodski &amp; Steven Zuber</itunes:author>
@@ -24,6 +24,23 @@
 		</itunes:category>
 		<itunes:explicit>yes</itunes:explicit>
 
+		<item>
+			<title>Chapters 252–254</title>
+			<link>https://hpmorpodcast.com/?p=3061</link>
+			<guid isPermalink="true">https://hpmorpodcast.com/?p=3061</guid>
+			<pubDate>Mon, 15 Aug 2022 07:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<p>Chapters 252-254 – Good Bye, and Thank You!</p>
+				<p><a href="https://amzn.to/3CyFE8W">Worth the Candle on Amazon (ebook and audio!)</a></p>
+				<p>Worth the Candle can be read at <a href="https://archiveofourown.org/works/11478249/navigate">AO3</a> or <a href="https://www.royalroad.com/fiction/25137/worth-the-candle">RoyalRoad</a></p>
+				<p>You can <a href="https://www.patreon.com/noteverythingisaclue">support this podcast at our Patreon</a>. Alexander Wales can be supported <a href="https://www.patreon.com/alexanderwales">at his Patreon</a>. We have <a href="https://discord.gg/JXSBd8buND">a Discord</a> as well.</p>
+			]]></description>
+			<itunes:subtitle>Chapters 252-254 – Good Bye, and Thank You!</itunes:subtitle>
+			<itunes:summary>Chapters 252-254 – Good Bye, and Thank You!</itunes:summary>
+			<itunes:author>Eneasz Brodski</itunes:author>
+			<enclosure url="http://media.blubrry.com/hpmor/s/www.hpmorpodcast.com/wp-content/uploads/episodes/Not_a_Clue_073.mp3" length="95577129" type="audio/mpeg" />
+			<itunes:duration>2:12:45</itunes:duration>
+		</item>
 		<item>
 			<title>Chapters 248–251</title>
 			<link>https://hpmorpodcast.com/?p=3058</link>
